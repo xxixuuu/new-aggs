@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "signer-2-1",
+      "type": "signer",
+      "maliciousDetectedAt": 1600000001010000
+    },
+    { "id": "signer-1-1", "type": "signer" },
+    { "id": "signer-2-2", "type": "signer" },
+    { "id": "signer-1-2", "type": "signer" },
+    { "id": "aggregator-1", "type": "aggregator" },
+    { "id": "aggregator-2", "type": "aggregator" },
+    { "id": "verifier-1", "type": "verifier" }
+  ],
+  "packets": [
+    {
+      "sourceNodeId": "signer-1-1",
+      "destinationNodeId": "aggregator-1",
+      "sentAt": 1600000001000000,
+      "receivedAt": 1600000001010000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "signer-1-2",
+      "destinationNodeId": "aggregator-1",
+      "sentAt": 1600000001000000,
+      "receivedAt": 1600000001010000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "signer-2-1",
+      "destinationNodeId": "aggregator-2",
+      "sentAt": 1600000001000000,
+      "receivedAt": 1600000001010000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "signer-2-2",
+      "destinationNodeId": "aggregator-2",
+      "sentAt": 1600000001000000,
+      "receivedAt": 1600000001010000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "aggregator-1",
+      "destinationNodeId": "verifier-1",
+      "sentAt": 1600000001010000,
+      "receivedAt": 1600000001020000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "aggregator-2",
+      "destinationNodeId": "verifier-1",
+      "sentAt": 1600000001010000,
+      "receivedAt": 1600000001020000,
+      "size": 12,
+      "color": "#19E519"
+    }
+  ]
+}

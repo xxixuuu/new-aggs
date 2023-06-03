@@ -1,0 +1,222 @@
+2021/11/30 08:06:51 goben version 0.6 runtime go1.17.3 GOMAXPROCS=32 OS=linux arch=amd64
+2021/11/30 08:06:51 connections=2 defaultPort=:8080 listeners=[":8080"] hosts=["10.244.2.2" "10.244.2.2"]
+2021/11/30 08:06:51 reportInterval=2s totalDuration=10s
+2021/11/30 08:06:51 client mode, tcp protocol
+2021/11/30 08:06:51 open: opening TLS=true tcp 0/2: 10.244.2.2:8080
+2021/11/30 08:06:51 open: trying TLS
+2021/11/30 08:06:51 open: trying TLS: failure: tcp: 10.244.2.2:8080: EOF
+2021/11/30 08:06:51 open: trying non-TLS TCP
+2021/11/30 08:06:51 open: opening TLS=true tcp 1/2: 10.244.2.2:8080
+2021/11/30 08:06:51 open: trying TLS
+2021/11/30 08:06:51 handleConnectionClient: starting TCP 0/2 10.244.2.2:8080
+2021/11/30 08:06:51 handleConnectionClient: options sent: {2s 10s 1000000 1000000 64000 64000 false 0 map[]}
+2021/11/30 08:06:51 open: trying TLS: failure: tcp: 10.244.2.2:8080: EOF
+2021/11/30 08:06:51 open: trying non-TLS TCP
+2021/11/30 08:06:51 open: opening TLS=true tcp 0/2: 10.244.2.2:8080
+2021/11/30 08:06:51 open: trying TLS
+2021/11/30 08:06:51 handleConnectionClient: TCP ack received
+2021/11/30 08:06:51 handleConnectionClient: starting TCP 1/2 10.244.2.2:8080
+2021/11/30 08:06:51 clientReader: starting: 0/2 10.244.2.2:8080
+2021/11/30 08:06:51 clientWriter: starting: 0/2 10.244.2.2:8080
+2021/11/30 08:06:51 handleConnectionClient: options sent: {2s 10s 1000000 1000000 64000 64000 false 0 map[]}
+2021/11/30 08:06:51 handleConnectionClient: TCP ack received
+2021/11/30 08:06:51 clientWriter: starting: 1/2 10.244.2.2:8080
+2021/11/30 08:06:51 clientReader: starting: 1/2 10.244.2.2:8080
+2021/11/30 08:06:51 open: trying TLS: failure: tcp: 10.244.2.2:8080: EOF
+2021/11/30 08:06:51 open: trying non-TLS TCP
+2021/11/30 08:06:51 open: opening TLS=true tcp 1/2: 10.244.2.2:8080
+2021/11/30 08:06:51 open: trying TLS
+2021/11/30 08:06:51 handleConnectionClient: starting TCP 0/2 10.244.2.2:8080
+2021/11/30 08:06:51 handleConnectionClient: options sent: {2s 10s 1000000 1000000 64000 64000 false 0 map[]}
+2021/11/30 08:06:51 handleConnectionClient: TCP ack received
+2021/11/30 08:06:51 clientWriter: starting: 0/2 10.244.2.2:8080
+2021/11/30 08:06:51 clientReader: starting: 0/2 10.244.2.2:8080
+2021/11/30 08:06:51 open: trying TLS: failure: tcp: 10.244.2.2:8080: EOF
+2021/11/30 08:06:51 open: trying non-TLS TCP
+2021/11/30 08:06:51 handleConnectionClient: starting TCP 1/2 10.244.2.2:8080
+2021/11/30 08:06:51 handleConnectionClient: options sent: {2s 10s 1000000 1000000 64000 64000 false 0 map[]}
+2021/11/30 08:06:51 handleConnectionClient: TCP ack received
+2021/11/30 08:06:51 clientWriter: starting: 1/2 10.244.2.2:8080
+2021/11/30 08:06:51 clientReader: starting: 1/2 10.244.2.2:8080
+2021/11/30 08:06:53 0/2  report   clientReader rate:   9113 Mbps   4740 rcv/s
+2021/11/30 08:06:53 0/2  report   clientWriter rate:   9077 Mbps   1134 snd/s
+2021/11/30 08:06:53 1/2  report   clientReader rate:   7707 Mbps   3100 rcv/s
+2021/11/30 08:06:53 1/2  report   clientReader rate:   7344 Mbps   3540 rcv/s
+2021/11/30 08:06:53 0/2  report   clientReader rate:   6199 Mbps   2025 rcv/s
+2021/11/30 08:06:53 1/2  report   clientWriter rate:  10438 Mbps   1304 snd/s
+2021/11/30 08:06:53 0/2  report   clientWriter rate:  11640 Mbps   1455 snd/s
+2021/11/30 08:06:53 1/2  report   clientWriter rate:   9942 Mbps   1242 snd/s
+2021/11/30 08:06:55 0/2  report   clientWriter rate:   9082 Mbps   1135 snd/s
+2021/11/30 08:06:55 0/2  report   clientReader rate:   8988 Mbps   4510 rcv/s
+2021/11/30 08:06:55 1/2  report   clientReader rate:   9024 Mbps   4721 rcv/s
+2021/11/30 08:06:55 1/2  report   clientWriter rate:   8766 Mbps   1095 snd/s
+2021/11/30 08:06:55 1/2  report   clientReader rate:   9219 Mbps   4757 rcv/s
+2021/11/30 08:06:55 0/2  report   clientReader rate:   8371 Mbps   4752 rcv/s
+2021/11/30 08:06:55 0/2  report   clientWriter rate:   9151 Mbps   1143 snd/s
+2021/11/30 08:06:55 1/2  report   clientWriter rate:   9038 Mbps   1129 snd/s
+2021/11/30 08:06:57 0/2  report   clientWriter rate:   6802 Mbps    850 snd/s
+2021/11/30 08:06:57 0/2  report   clientReader rate:  11274 Mbps   7138 rcv/s
+2021/11/30 08:06:57 1/2  report   clientReader rate:  10111 Mbps   6115 rcv/s
+2021/11/30 08:06:57 1/2  report   clientWriter rate:   7248 Mbps    906 snd/s
+2021/11/30 08:06:57 1/2  report   clientReader rate:  10491 Mbps   6702 rcv/s
+2021/11/30 08:06:57 0/2  report   clientWriter rate:   8133 Mbps   1016 snd/s
+2021/11/30 08:06:57 0/2  report   clientReader rate:   9520 Mbps   5747 rcv/s
+2021/11/30 08:06:57 1/2  report   clientWriter rate:   7899 Mbps    987 snd/s
+2021/11/30 08:06:59 0/2  report   clientReader rate:   9859 Mbps   4922 rcv/s
+2021/11/30 08:06:59 1/2  report   clientReader rate:   9276 Mbps   4818 rcv/s
+2021/11/30 08:06:59 1/2  report   clientReader rate:   8752 Mbps   4033 rcv/s
+2021/11/30 08:06:59 0/2  report   clientReader rate:   8845 Mbps   4007 rcv/s
+2021/11/30 08:06:59 0/2  report   clientWriter rate:   8242 Mbps   1030 snd/s
+2021/11/30 08:06:59 1/2  report   clientWriter rate:   8944 Mbps   1118 snd/s
+2021/11/30 08:06:59 1/2  report   clientWriter rate:   8370 Mbps   1046 snd/s
+2021/11/30 08:06:59 0/2  report   clientWriter rate:   8980 Mbps   1122 snd/s
+2021/11/30 08:07:01 handleConnectionClient: 10s timer
+2021/11/30 08:07:01 workLoop: 0/2 clientWriter: write tcp 10.244.3.10:56758->10.244.2.2:8080: use of closed network connection
+2021/11/30 08:07:01 0/2 average   clientWriter rate:   8406 Mbps   1050 snd/s
+2021/11/30 08:07:01 clientWriter: exiting: 0/2 10.244.2.2:8080
+2021/11/30 08:07:01 workLoop: 0/2 clientReader: read tcp 10.244.3.10:56758->10.244.2.2:8080: use of closed network connection
+2021/11/30 08:07:01 0/2 average   clientReader rate:   9760 Mbps   5268 rcv/s
+2021/11/30 08:07:01 clientReader: exiting: 0/2 10.244.2.2:8080
+2021/11/30 08:07:01 rendering chart to: export-0-10.244.2.2:8080.png
+2021/11/30 08:07:01 chartRender: input data points:  4/4
+2021/11/30 08:07:01 chartRender: output data points: 4/4
+2021/11/30 08:07:01 handleConnectionClient: 10s timer
+2021/11/30 08:07:01 workLoop: 1/2 clientReader: read tcp 10.244.3.10:56762->10.244.2.2:8080: use of closed network connection
+2021/11/30 08:07:01 1/2 average   clientReader rate:   9047 Mbps   4767 rcv/s
+2021/11/30 08:07:01 clientReader: exiting: 1/2 10.244.2.2:8080
+2021/11/30 08:07:01 workLoop: 1/2 clientWriter: write tcp 10.244.3.10:56762->10.244.2.2:8080: use of closed network connection
+2021/11/30 08:07:01 1/2 average   clientWriter rate:   8820 Mbps   1102 snd/s
+2021/11/30 08:07:01 clientWriter: exiting: 1/2 10.244.2.2:8080
+2021/11/30 08:07:01 rendering chart to: export-1-10.244.2.2:8080.png
+2021/11/30 08:07:01 chartRender: input data points:  4/4
+2021/11/30 08:07:01 chartRender: output data points: 4/4
+2021/11/30 08:07:01 handleConnectionClient: 10s timer
+2021/11/30 08:07:01 workLoop: 0/2 clientWriter: write tcp 10.244.3.10:56766->10.244.2.2:8080: use of closed network connection
+2021/11/30 08:07:01 0/2 average   clientWriter rate:   9566 Mbps   1195 snd/s
+2021/11/30 08:07:01 clientWriter: exiting: 0/2 10.244.2.2:8080
+2021/11/30 08:07:01 workLoop: 0/2 clientReader: read tcp 10.244.3.10:56766->10.244.2.2:8080: use of closed network connection
+2021/11/30 08:07:01 0/2 average   clientReader rate:   8324 Mbps   3939 rcv/s
+2021/11/30 08:07:01 clientReader: exiting: 0/2 10.244.2.2:8080
+2021/11/30 08:07:01 rendering chart to: export-0-10.244.2.2:8080.png
+2021/11/30 08:07:01 chartRender: input data points:  4/4
+2021/11/30 08:07:01 chartRender: output data points: 4/4
+2021/11/30 08:07:01 workLoop: 1/2 clientReader: EOF
+2021/11/30 08:07:01 1/2 average   clientReader rate:   8892 Mbps   4766 rcv/s
+2021/11/30 08:07:01 handleConnectionClient: 10s timer
+2021/11/30 08:07:01 clientReader: exiting: 1/2 10.244.2.2:8080
+2021/11/30 08:07:01 workLoop: 1/2 clientWriter: write tcp 10.244.3.10:56770->10.244.2.2:8080: write: connection reset by peer
+2021/11/30 08:07:01 1/2 average   clientWriter rate:   8874 Mbps   1109 snd/s
+2021/11/30 08:07:01 clientWriter: exiting: 1/2 10.244.2.2:8080
+2021/11/30 08:07:01 rendering chart to: export-1-10.244.2.2:8080.png
+2021/11/30 08:07:01 chartRender: input data points:  4/4
+2021/11/30 08:07:01 chartRender: output data points: 4/4
+2021/11/30 08:07:01 10.244.2.2:8080 input:
+2021/11/30 08:07:01 10.244.2.2:8080 output:
+2021/11/30 08:07:01 handleConnectionClient: closing: 0/2 10.244.2.2:8080
+ 11275 ┤                                            ╭────╮                    
+ 11046 ┤                                         ╭──╯    ╰──╮                 
+ 10817 ┤                                       ╭─╯          ╰───╮             
+ 10589 ┤                                     ╭─╯                ╰───╮         
+ 10360 ┤                                  ╭──╯                      ╰──╮      
+ 10132 ┤                                ╭─╯                            ╰───╮  
+  9903 ┤                              ╭─╯                                  ╰─ 
+  9674 ┤                            ╭─╯                                       
+  9446 ┤                         ╭──╯                                         
+  9217 ┼───────────────╮       ╭─╯                                            
+  8988 ┤               ╰───────╯                                              
+          Input Mbps: 10.244.2.2:8080 Connection 0
+ 9082 ┼───────────────────────╮                                              
+ 8854 ┤                       ╰──╮                                           
+ 8626 ┤                          ╰─╮                                         
+ 8398 ┤                            ╰─╮                                       
+ 8170 ┤                              ╰─╮                                 ╭── 
+ 7942 ┤                                ╰──╮                          ╭───╯   
+ 7714 ┤                                   ╰─╮                     ╭──╯       
+ 7486 ┤                                     ╰─╮               ╭───╯          
+ 7258 ┤                                       ╰──╮         ╭──╯              
+ 7030 ┤                                          ╰─╮   ╭───╯                 
+ 6802 ┤                                            ╰───╯                     
+         Output Mbps: 10.244.2.2:8080 Connection 0
+2021/11/30 08:07:01 10.244.2.2:8080 input:
+2021/11/30 08:07:01 10.244.2.2:8080 output:
+2021/11/30 08:07:01 handleConnectionClient: closing: 1/2 10.244.2.2:8080
+ 10492 ┤                                         ╭───────╮                    
+ 10177 ┤                                   ╭─────╯       ╰───╮                
+  9862 ┤                             ╭─────╯                 ╰───╮            
+  9548 ┤                        ╭────╯                           ╰───╮        
+  9233 ┤                   ╭────╯                                    ╰────╮   
+  8918 ┤                ╭──╯                                              ╰── 
+  8603 ┤            ╭───╯                                                     
+  8289 ┤        ╭───╯                                                         
+  7974 ┤    ╭───╯                                                             
+  7659 ┤╭───╯                                                                 
+  7344 ┼╯                                                                     
+          Input Mbps: 10.244.2.2:8080 Connection 1
+ 10438 ┼╮                                                                     
+ 10119 ┤╰────╮                                                                
+  9800 ┤     ╰───╮                                                            
+  9481 ┤         ╰────╮                                                       
+  9162 ┤              ╰───╮                                                   
+  8843 ┤                  ╰───╮                                           ╭── 
+  8524 ┤                      ╰────╮                                  ╭───╯   
+  8206 ┤                           ╰────╮                         ╭───╯       
+  7887 ┤                                ╰────╮               ╭────╯           
+  7568 ┤                                     ╰────╮      ╭───╯                
+  7249 ┤                                          ╰──────╯                    
+          Output Mbps: 10.244.2.2:8080 Connection 1
+2021/11/30 08:07:01 10.244.2.2:8080 input:
+2021/11/30 08:07:01 10.244.2.2:8080 output:
+ 10111 ┤                                           ╭─────╮                    
+  9871 ┤                                      ╭────╯     ╰──────╮             
+  9630 ┤                                ╭─────╯                 ╰─────╮       
+  9390 ┤                           ╭────╯                             ╰────── 
+  9150 ┤                      ╭────╯                                          
+  8909 ┤                  ╭───╯                                               
+  8669 ┤              ╭───╯                                                   
+  8428 ┤          ╭───╯                                                       
+  8188 ┤      ╭───╯                                                           
+  7948 ┤ ╭────╯                                                               
+  7707 ┼─╯                                                                    
+          Input Mbps: 10.244.2.2:8080 Connection 1
+2021/11/30 08:07:01 handleConnectionClient: closing: 1/2 10.244.2.2:8080
+ 9942 ┼╮                                                                     
+ 9738 ┤╰─────╮                                                               
+ 9534 ┤      ╰────╮                                                          
+ 9330 ┤           ╰────╮                                                     
+ 9125 ┤                ╰────╮                                                
+ 8921 ┤                     ╰────╮                                           
+ 8717 ┤                          ╰───╮                                       
+ 8512 ┤                              ╰───╮                                   
+ 8308 ┤                                  ╰───╮                         ╭──── 
+ 8104 ┤                                      ╰───╮           ╭─────────╯     
+ 7899 ┤                                          ╰───────────╯               
+         Output Mbps: 10.244.2.2:8080 Connection 1
+2021/11/30 08:07:01 10.244.2.2:8080 input:
+ 9520 ┤                                            ╭──╮                      
+ 9188 ┤                                      ╭─────╯  ╰───────────╮          
+2021/11/30 08:07:01 10.244.2.2:8080 output:
+2021/11/30 08:07:01 handleConnectionClient: closing: 0/2 10.244.2.2:8080
+2021/11/30 08:07:01 aggregate reading: 36023 Mbps 18740 recv/s
+2021/11/30 08:07:01 aggregate writing: 35666 Mbps 4456 send/s
+ 8856 ┤                               ╭──────╯                    ╰───────── 
+ 8524 ┤                        ╭──────╯                                      
+ 8192 ┤                    ╭───╯                                             
+ 7860 ┤                ╭───╯                                                 
+ 7528 ┤             ╭──╯                                                     
+ 7196 ┤         ╭───╯                                                        
+ 6864 ┤      ╭──╯                                                            
+ 6532 ┤  ╭───╯                                                               
+ 6199 ┼──╯                                                                   
+         Input Mbps: 10.244.2.2:8080 Connection 0
+ 11640 ┼──╮                                                                   
+ 11289 ┤  ╰──╮                                                                
+ 10939 ┤     ╰──╮                                                             
+ 10588 ┤        ╰──╮                                                          
+ 10237 ┤           ╰───╮                                                      
+  9887 ┤               ╰──╮                                                   
+  9536 ┤                  ╰──╮                                                
+  9186 ┤                     ╰─────╮                                       ╭─ 
+  8835 ┤                           ╰───────╮                      ╭────────╯  
+  8484 ┤                                   ╰───────╮    ╭─────────╯           
+  8134 ┤                                           ╰────╯                     
+          Output Mbps: 10.244.2.2:8080 Connection 0

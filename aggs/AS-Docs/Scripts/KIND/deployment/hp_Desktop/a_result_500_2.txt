@@ -1,0 +1,99 @@
+newAggregator Configed: &{0 1 1 10.96.240.207 3000 3000 40 0 500 0 1 1000 0 0 2000 1 1 1 0 1000 {SPORE 1 2 2 1 4 5}}
+[2022-07-28 06:54:39.809802 +0000 UTC m=+0.000444101]
+-AGGA: Using maxmum goroutine up to :1003
+MultiHandler x 1000
+-AGGA: AGGA tcp4 handler listning on 0.0.0.0:3000
+ 
+[I'm all ears]
+ServerLog:Establishing connection with verifier ...
+VPK from Verifier time record: 2022-07-28 06:54:39.8148757 +0000 UTC
+Verifier Self ECDSA Signature checked, true. VPK preserved
+AID: 1
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 1 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:1 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 1  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 2 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+SyncAggregator: --Start--
+Signer Self sign checked! Signer:2 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 2  Registed.
+HID: 695  Trying handle new signer
+[Handler: 695 ] handling Child SID: 1
+HID: 712  Trying handle new signer
+[Handler: 712 ] handling Child SID: 2
+VUID 2
+E-Elapsed: 624.3803ms
+VUID 3
+E-Elapsed: 514.1378ms
+VUID 4
+E-Elapsed: 516.181ms
+VUID 5
+E-Elapsed: 514.1966ms
+VUID 6
+E-Elapsed: 514.3165ms
+VUID 7
+E-Elapsed: 514.1956ms
+VUID 8
+E-Elapsed: 514.2361ms
+VUID 9
+E-Elapsed: 514.7992ms
+VUID 10
+E-Elapsed: 514.6968ms
+VUID 11
+E-Elapsed: 515.0697ms
+VUID 12
+E-Elapsed: 515.0601ms
+VUID 13
+E-Elapsed: 514.8359ms
+VUID 14
+E-Elapsed: 515.318ms
+VUID 15
+E-Elapsed: 514.545ms
+VUID 16
+E-Elapsed: 513.9192ms
+VUID 17
+E-Elapsed: 515.928ms
+VUID 18
+E-Elapsed: 514.8509ms
+VUID 19
+E-Elapsed: 513.2551ms
+VUID 20
+E-Elapsed: 515.0325ms
+Error: In reciveConstBytes:
+read tcp4 10.244.5.3:3000->10.244.3.3:39640: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.3:3000->10.244.3.3:39640: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.3:3000->10.244.3.3:39640: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.3:3000->10.244.3.3:39640: i/o timeout
+Kicked out Handler ID: 695
+Kicked out Handler ID: 712
+Error: In reciveConstBytes:
+read tcp4 10.244.5.3:3000->10.244.7.2:60312: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.3:3000->10.244.7.2:60312: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.3:3000->10.244.7.2:60312: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.3:3000->10.244.7.2:60312: i/o timeout
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer

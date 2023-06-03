@@ -1,0 +1,88 @@
+newVerifier Configed: &{0 10.96.205.79 3000 10 0 1 1 1 5 0 100 {SPORE 1 2 2 1 4 5} {1 0 32 EdDSA}}
+PONG <nil>
+-VIR: tcp4 handler listning on 0.0.0.03000
+ 
+[I'm all ears]
+ServerLog:Serving Entity IP: 10.244.5.245190
+ServerLog:Establishing connection with Aggregator ...1
+1
+New Aggreagtor, AID: [1]
+New Aggregator Connected &{ 10.244.5.2 45190 [1 0 0 0] [] [0 248 14 218 162 235 5 23]}
+New Signer Recived
+New Signer [1 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 20.2µs
+-TRUE- msg num: 66
+VUID:2  Elapsed:20.4498ms+msg num:66
+
+getSPKVecElapsed: 7.1µs
+VUID:3  Elapsed:10.3033ms+msg num:51
+
+-TRUE- msg num: 51
+getSPKVecElapsed: 5.5µs
+-TRUE- msg num: 51
+VUID:4  Elapsed:20.2283ms+msg num:51
+
+getSPKVecElapsed: 7.5µs
+-TRUE- msg num: 51
+VUID:5  Elapsed:12.5149ms+msg num:51
+
+getSPKVecElapsed: 14.3µs
+-TRUE- msg num: 51
+VUID:6  Elapsed:14.1494ms+msg num:51
+
+getSPKVecElapsed: 6.8µs
+-TRUE- msg num: 51
+VUID:7  Elapsed:10.384ms+msg num:51
+
+getSPKVecElapsed: 7.3µs
+-TRUE- msg num: 51
+VUID:8  Elapsed:10.7616ms+msg num:51
+
+getSPKVecElapsed: 7µs
+-TRUE- msg num: 51
+VUID:9  Elapsed:11.1723ms+msg num:51
+
+getSPKVecElapsed: 20.5µs
+VUID:10  Elapsed:10.9622ms+msg num:51
+
+-TRUE- msg num: 51
+getSPKVecElapsed: 8.2µs
+-TRUE- msg num: 51
+VUID:11  Elapsed:10.7431ms+msg num:51
+
+getSPKVecElapsed: 7.8µs
+VUID:12  Elapsed:10.7363ms+msg num:51
+
+-TRUE- msg num: 51
+getSPKVecElapsed: 8.7µs
+-TRUE- msg num: 51
+VUID:13  Elapsed:10.6037ms+msg num:51
+
+getSPKVecElapsed: 7.1µs
+-TRUE- msg num: 51
+VUID:14  Elapsed:10.9979ms+msg num:51
+
+getSPKVecElapsed: 12.3µs
+-TRUE- msg num: 51
+VUID:15  Elapsed:11.0778ms+msg num:51
+
+getSPKVecElapsed: 6µs
+-TRUE- msg num: 51
+VUID:16  Elapsed:10.2458ms+msg num:51
+
+getSPKVecElapsed: 31µs
+-TRUE- msg num: 51
+VUID:17  Elapsed:15.1728ms+msg num:51
+
+getSPKVecElapsed: 24.5µs
+-TRUE- msg num: 51
+VUID:18  Elapsed:19.5579ms+msg num:51
+
+getSPKVecElapsed: 10.8µs
+-TRUE- msg num: 51
+VUID:19  Elapsed:10.9263ms+msg num:51
+
+getSPKVecElapsed: 8.6µs
+VUID:20  Elapsed:10.7544ms+msg num:51
+
+-TRUE- msg num: 51

@@ -1,0 +1,10 @@
+newVerifier Configed: &{0 10.96.1.26 3000 10 0 1 1 1 5 0 100 {SPORE 1 2 2 1 4 5} {1 0 32 EdDSA}}
+PONG <nil>
+-VIR: tcp4 handler listning on 0.0.0.03000
+ 
+[I'm all ears]
+1
+ServerLog:Serving Entity IP: 10.244.5.638878
+ServerLog:Establishing connection with Aggregator ...1
+New Aggreagtor, AID: [1]
+New Aggregator Connected &{ 10.244.5.6 38878 [1 0 0 0] [] [137 25 185 102 149 153 5 23]}

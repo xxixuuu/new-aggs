@@ -1,0 +1,39 @@
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+
+metadata:
+  name: aggs-test10
+  region: ap-northeast-1
+nodeGroups:
+  - name: DB
+    amiFamily: "Ubuntu2004"
+    labels: {aggs: db}
+    instanceType: i3.8xlarge
+    desiredCapacity: 1
+    volumeSize: 100
+    volumeType: io1
+    ssh:
+      allow: true 
+      publicKeyName: 'aggs-mlab'
+    privateNetworking: false
+
+  - name: Verifier
+    amiFamily: "Ubuntu2004"
+    labels: {aggs: vir}
+    instanceType:  c5.18xlarge
+    desiredCapacity: 1
+    privateNetworking: false
+
+  - name: Aggregator
+    amiFamily: "Ubuntu2004"
+    labels: {aggs: agr}
+    instanceType: c5.18xlarge
+    desiredCapacity: 1
+    privateNetworking: false
+
+  - name: SignerDummy
+    amiFamily: "Ubuntu2004"
+    labels: {aggs: sir}
+    instanceType: t3.small
+    desiredCapacity: 4
+    privateNetworking: false

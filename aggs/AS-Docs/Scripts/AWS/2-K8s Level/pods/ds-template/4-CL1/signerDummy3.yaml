@@ -1,0 +1,37 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: signer-aggs-3
+  labels:
+    role: woker
+spec:
+    containers:
+      - name: signer
+        image: 057607951461.dkr.ecr.ap-northeast-1.amazonaws.com/aggs2:signer
+        resources:
+            limits:
+              cpu: "0.5"
+            requests:
+              cpu: "0.5"
+              memory: "500Mi"
+        ports:
+          - name: aggs
+            containerPort: 3000
+            protocol: TCP
+        args: ["10.100.140.65", "3000", "3000" , "0" , "-", "4"]
+      - name: dummy
+        image: 057607951461.dkr.ecr.ap-northeast-1.amazonaws.com/aggs2:dummy
+        resources:
+            limits:
+              cpu: "0.5"
+            requests:
+              cpu: "0.5"
+              memory: "500Mi"
+        ports:
+          - name: aggs
+            containerPort: 3000
+            protocol: TCP
+        args: ["-", "3000", "0", "10", "5", "100"]
+    restartPolicy: Always
+    nodeSelector:
+      aggs: sir

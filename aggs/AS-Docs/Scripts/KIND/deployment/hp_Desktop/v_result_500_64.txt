@@ -1,0 +1,258 @@
+newVerifier Configed: &{0 10.96.205.79 3000 10 0 1 1 1 5 0 100 {SPORE 1 2 2 1 4 5} {1 0 32 EdDSA}}
+PONG <nil>
+-VIR: tcp4 handler listning on 0.0.0.03000
+ 
+[I'm all ears]
+1
+ServerLog:Serving Entity IP: 10.244.5.942262
+ServerLog:Establishing connection with Aggregator ...1
+New Aggreagtor, AID: [1]
+New Aggregator Connected &{ 10.244.5.9 42262 [1 0 0 0] [] [76 82 106 115 167 236 5 23]}
+New Signer Recived
+New Signer [1 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [2 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [3 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [4 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [5 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [6 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [7 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [8 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [9 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [10 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 45µs
+VUID:2  Elapsed:200.292ms+msg num:359
+
+-TRUE- msg num: 359
+New Signer Recived
+New Signer [11 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [12 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [13 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [14 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [15 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [16 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [17 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 185.5µs
+New Signer Recived
+New Signer [18 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [19 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [20 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [21 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [22 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [23 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [24 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 640
+VUID:3  Elapsed:382.1919ms+msg num:640
+
+New Signer Recived
+New Signer [25 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [26 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [27 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [28 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 207.4µs
+New Signer Recived
+New Signer [29 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [30 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [31 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [32 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 210.4µs
+-TRUE- msg num: 1058
+VUID:5  Elapsed:183.5933ms+msg num:1058
+
+New Signer Recived
+New Signer [33 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [34 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [35 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [36 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [37 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [38 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 1.0625ms
+New Signer Recived
+New Signer [39 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer Recived
+New Signer [40 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [41 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [42 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [43 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [44 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [45 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [46 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [47 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 11.1683ms
+New Signer Recived
+New Signer [48 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+-TRUE- msg num: 1448
+VUID:7  Elapsed:105.0802ms+msg num:1448
+
+New Signer [49 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [50 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 9.2201ms
+New Signer Recived
+New Signer [51 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [52 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [53 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [54 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [55 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [56 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [57 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [58 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer Recived
+New Signer [59 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [60 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [61 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [62 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 1644
+VUID:8  Elapsed:235.7487ms+msg num:1644
+
+New Signer Recived
+New Signer [63 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [64 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 659.6µs
+-TRUE- msg num: 1788
+VUID:9  Elapsed:490.474ms+msg num:1788
+
+getSPKVecElapsed: 477.5µs
+getSPKVecElapsed: 953µs
+-TRUE- msg num: 2413
+VUID:11  Elapsed:267.4016ms+msg num:2413
+
+getSPKVecElapsed: 488.5µs
+getSPKVecElapsed: 1.0687ms
+-TRUE- msg num: 2887
+VUID:13  Elapsed:102.4616ms+msg num:2887
+
+getSPKVecElapsed: 993.2µs
+getSPKVecElapsed: 466.7µs
+-TRUE- msg num: 3101
+VUID:15  Elapsed:41.0893ms+msg num:3101
+
+-TRUE- msg num: 3066
+VUID:15  Elapsed:407.4275ms+msg num:3066
+
+getSPKVecElapsed: 834.4µs
+getSPKVecElapsed: 600.2µs
+-TRUE- msg num: 3024
+VUID:17  Elapsed:68.7137ms+msg num:3024
+
+getSPKVecElapsed: 541.5µs
+VUID:18  Elapsed:156.9183ms+msg num:3028
+
+-TRUE- msg num: 3028
+getSPKVecElapsed: 464.6µs
+VUID:19  Elapsed:252.2722ms+msg num:3137
+
+-TRUE- msg num: 3137
+getSPKVecElapsed: 616.3µs
+VUID:20  Elapsed:198.5601ms+msg num:2989
+
+-TRUE- msg num: 2989
+VUID:20  Elapsed:455.0745ms+msg num:2912
+
+-TRUE- msg num: 2912
+getSPKVecElapsed: 575.8µs
+-TRUE- msg num: 2984
+VUID:21  Elapsed:469.0933ms+msg num:2984
+
+getSPKVecElapsed: 635.9µs
+getSPKVecElapsed: 434µs
+-TRUE- msg num: 3062
+VUID:23  Elapsed:61.6472ms+msg num:3062
+
+getSPKVecElapsed: 436.1µs
+-TRUE- msg num: 3046
+VUID:24  Elapsed:245.549ms+msg num:3046
+
+getSPKVecElapsed: 286.3µs
+getSPKVecElapsed: 262µs
+getSPKVecElapsed: 229.6µs
+getSPKVecElapsed: 190.8µs
+getSPKVecElapsed: 68.9896ms
+getSPKVecElapsed: 107.5µs
+VUID:30  Elapsed:251.503ms+msg num:3041
+
+-TRUE- msg num: 3041
+VUID:30  Elapsed:444.5749ms+msg num:1517
+
+-TRUE- msg num: 1517
+getSPKVecElapsed: 93.3µs
+VUID:31  Elapsed:246.0497ms+msg num:2998
+
+-TRUE- msg num: 2998
+-TRUE- msg num: 341
+VUID:31  Elapsed:381.534ms+msg num:341
+
+-TRUE- msg num: 526
+VUID:31  Elapsed:562.2305ms+msg num:526
+
+VUID:31  Elapsed:777.7476ms+msg num:1323
+
+-TRUE- msg num: 1323
+-TRUE- msg num: 2967
+VUID:31  Elapsed:1.1313908s+msg num:2967
+
+VUID:31  Elapsed:1.6928039s+msg num:1816
+
+-TRUE- msg num: 1816
+-TRUE- msg num: 926
+VUID:31  Elapsed:1.8912222s+msg num:926
+
+VUID:31  Elapsed:2.2286189s+msg num:1039
+
+-TRUE- msg num: 1039
+-TRUE- msg num: 2705
+VUID:31  Elapsed:2.6123628s+msg num:2705
+
+-TRUE- msg num: 2260
+VUID:31  Elapsed:2.7045294s+msg num:2260
+

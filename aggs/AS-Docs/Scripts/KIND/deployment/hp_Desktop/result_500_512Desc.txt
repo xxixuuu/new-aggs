@@ -1,0 +1,5 @@
+newVerifier Configed: &{0 10.96.184.137 3000 10 0 1 1 1 5 0 100 {SPORE 1 2 2 1 4 5} {1 0 32 EdDSA}}
+ dial tcp 10.96.184.137:6379: connect: connection refused
+-VIR: tcp4 handler listning on 0.0.0.03000
+ 
+[I'm all ears]

@@ -1,0 +1,36 @@
+apiVersion:  apps/v1
+kind: Deployment
+metadata:
+  name: signer-dummy-deployment
+  labels:
+    aggs: signerDummy
+spec:
+  replicas: 256
+  selector:
+    matchLabels:
+      aggs: signerDummy
+  template:
+    metadata:
+      name: signerDummy-aggs
+      labels:
+        aggs: signerDummy
+    spec:
+      containers:
+        - name: signer
+          image: aggs2:signer1
+          ports:
+            - name: aggs
+              containerPort: 3000
+              protocol: TCP
+          resources:
+          args: ["10.96.170.88", "3000", "3000" , "0" , "-", "1"]
+        - name: dummy
+          image: aggs2:dummy1
+          ports:
+            - name: aggs
+              containerPort: 3000
+              protocol: TCP
+          args: ["-", "3000", "0", "10", "5", "1000"]
+      restartPolicy: Always
+      nodeSelector:
+        aggs: sir

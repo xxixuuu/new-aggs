@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: aggregator-sigbench
+  labels:
+    role: woker
+    aggs2: sigBench
+spec:
+  containers:
+    - name: aggregator
+      image: 057607951461.dkr.ecr.ap-northeast-1.amazonaws.com/aggs2:SigBench2
+      resources:
+      limits:
+        cpu: "100"
+      requests:
+        cpu: "100"
+      args: ["-"] # 10.100.104.221
+  restartPolicy: OnFailure
+  nodeSelector:
+    aggs: sir

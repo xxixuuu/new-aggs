@@ -1,0 +1,123 @@
+newAggregator Configed: &{0 1 1 10.96.240.207 3000 3000 40 0 500 0 1 1000 0 0 2000 1 1 1 0 1000 {SPORE 1 2 2 1 4 5}}
+[2022-07-28 06:59:11.2911032 +0000 UTC m=+0.000428801]
+-AGGA: Using maxmum goroutine up to :1003
+MultiHandler x 1000
+ServerLog:Establishing connection with verifier ...
+VPK from Verifier time record: 2022-07-28 06:59:11.2954659 +0000 UTC
+Verifier Self ECDSA Signature checked, true. VPK preserved
+AID: 1
+-AGGA: AGGA tcp4 handler listning on 0.0.0.0:3000
+ 
+[I'm all ears]
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 1 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:1 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 1  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 2 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+SyncAggregator: --Start--
+Signer Self sign checked! Signer:2 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 2  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 3 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:3 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 3  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 4 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:4 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 4  Registed.
+[Handler: 187 ] handling Child SID: 1
+HID: 187  Trying handle new signer
+HID: 400  Trying handle new signer
+[Handler: 400 ] handling Child SID: 2
+[Handler: 694 ] handling Child SID: 3
+HID: 694  Trying handle new signer
+HID: 517  Trying handle new signer
+[Handler: 517 ] handling Child SID: 4
+VUID 2
+E-Elapsed: 512.7332ms
+VUID 3
+E-Elapsed: 507.5158ms
+VUID 4
+E-Elapsed: 505.949ms
+VUID 5
+E-Elapsed: 504.8428ms
+VUID 6
+E-Elapsed: 513.5316ms
+E-Elapsed: 503.6622ms
+VUID 7
+VUID 8
+E-Elapsed: 503.9212ms
+VUID 9
+E-Elapsed: 503.6883ms
+VUID 10
+E-Elapsed: 507.0077ms
+VUID 11
+E-Elapsed: 503.922ms
+VUID 12
+E-Elapsed: 507.0408ms
+E-Elapsed: 508.3005ms
+VUID 13
+VUID 14
+E-Elapsed: 505.8033ms
+VUID 15
+E-Elapsed: 503.7264ms
+VUID 16
+E-Elapsed: 508.0608ms
+VUID 17
+E-Elapsed: 506.6679ms
+VUID 18
+E-Elapsed: 503.7336ms
+VUID 19
+E-Elapsed: 509.0859ms
+VUID 20
+E-Elapsed: 505.1457ms
+VUID 21
+E-Elapsed: 506.1291ms
+Error: In reciveConstBytes:
+read tcp4 10.244.5.5:3000->10.244.7.4:56258: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.5:3000->10.244.7.4:56258: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.5:3000->10.244.7.4:56258: i/o timeout
+Kicked out Handler ID: 694
+ServerLog: Signer handler Error
+read tcp4 10.244.5.5:3000->10.244.7.4:56258: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.5:3000->10.244.1.3:34432: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.5:3000->10.244.1.3:34432: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.5:3000->10.244.1.3:34432: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.5:3000->10.244.1.3:34432: i/o timeout
+Kicked out Handler ID: 400
+Error: In reciveConstBytes:
+read tcp4 10.244.5.5:3000->10.244.3.5:51022: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.5:3000->10.244.3.5:51022: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.5:3000->10.244.3.5:51022: i/o timeout
+ServerLog: Signer handler Error
+Kicked out Handler ID: 517
+read tcp4 10.244.5.5:3000->10.244.3.5:51022: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.5:3000->10.244.2.3:35734: i/o timeout
+Kicked out Handler ID: 187
+In func ReciveS-AData Error: read tcp4 10.244.5.5:3000->10.244.2.3:35734: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.5:3000->10.244.2.3:35734: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.5:3000->10.244.2.3:35734: i/o timeout
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer

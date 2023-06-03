@@ -1,0 +1,20 @@
+
+{
+  "Mode":                0,
+  "SID":                 0,
+  "Threads":             1, 
+  "AggregatorAddr":      "localhost",
+  "AggregatorPort":      "3001",
+  "SignerListenPort":    "3002",
+  "SignerBufferSize":    10,
+  "TimeTillFall":        20,
+  "AggregatorKeepAlive": 0,
+  "SIDGetAssigned":      1,
+  "SAFormatJSON": {
+			"SIDSpace":                 2,
+			"MessageHeaderLength":      2,
+      "SignerOptionHeaderLength": 1,
+			"SignerOption":             4,
+			"SignCurveParameter":       5
+  }
+}

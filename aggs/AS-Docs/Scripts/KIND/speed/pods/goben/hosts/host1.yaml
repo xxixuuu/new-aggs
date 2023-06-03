@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: goben-host1
+  labels:
+    role: woker     
+spec:
+  containers:
+    - name: goben-host1
+      image: goben:host
+      ports:
+        - name: host
+          containerPort: 8080
+          protocol: TCP
+  restartPolicy: OnFailure
+  nodeSelector:
+    goben: host1

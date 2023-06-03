@@ -1,0 +1,5001 @@
+newVerifier Configed: &{0 10.96.51.57 3000 10 0 1 1 1 5 0 100 {SPORE 1 2 2 1 4 5} {1 0 32 EdDSA}}
+PONG <nil>
+-VIR: tcp4 handler listning on 0.0.0.03000
+ 
+[I'm all ears]
+1
+ServerLog:Serving Entity IP: 10.244.2.940198
+ServerLog:Establishing connection with Aggregator ...1
+New Aggreagtor, AID: [1]
+New Aggregator Connected &{ 10.244.2.9 40198 [1 0 0 0] [] [226 32 35 131 243 237 4 23]}
+New Signer Recived
+New Signer [1 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [2 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer Recived
+New Signer [3 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 14.718µs
+getSPKVecElapsed: 13.682µs
+VUID:3  Elapsed:3.27582ms+msg num:19
+
+VUID:3  Elapsed:9.217744ms+msg num:11
+
+getSPKVecElapsed: 3.737µs
+VUID:4  Elapsed:4.347223ms+msg num:3
+
+-TRUE- msg num: 19
+-TRUE- msg num: 11
+-TRUE- msg num: 3
+getSPKVecElapsed: 7.259µs
+-TRUE- msg num: 7
+VUID:5  Elapsed:18.953429ms+msg num:7
+
+getSPKVecElapsed: 2.664µs
+-TRUE- msg num: 3
+VUID:6  Elapsed:23.523345ms+msg num:3
+
+getSPKVecElapsed: 3.59µs
+-TRUE- msg num: 3
+VUID:7  Elapsed:21.719422ms+msg num:3
+
+getSPKVecElapsed: 4.379µs
+-TRUE- msg num: 9
+VUID:8  Elapsed:7.768946ms+msg num:9
+
+getSPKVecElapsed: 7.557µs
+VUID:9  Elapsed:4.439041ms+msg num:5
+
+-TRUE- msg num: 5
+getSPKVecElapsed: 7.759µs
+getSPKVecElapsed: 24.003µs
+-TRUE- msg num: 7
+VUID:11  Elapsed:6.880129ms+msg num:7
+
+getSPKVecElapsed: 22.687µs
+-TRUE- msg num: 4
+VUID:12  Elapsed:5.176964ms+msg num:4
+
+-TRUE- msg num: 12
+VUID:12  Elapsed:5.750841ms+msg num:12
+
+getSPKVecElapsed: 7.975µs
+-TRUE- msg num: 6
+VUID:13  Elapsed:6.944123ms+msg num:6
+
+getSPKVecElapsed: 7.781µs
+-TRUE- msg num: 4
+VUID:14  Elapsed:5.32429ms+msg num:4
+
+getSPKVecElapsed: 6.604µs
+-TRUE- msg num: 4
+VUID:15  Elapsed:5.780839ms+msg num:4
+
+getSPKVecElapsed: 6.477µs
+-TRUE- msg num: 4
+VUID:16  Elapsed:24.84414ms+msg num:4
+
+getSPKVecElapsed: 3.857µs
+getSPKVecElapsed: 2.886µs
+VUID:18  Elapsed:3.032763ms+msg num:3
+
+-TRUE- msg num: 3
+-TRUE- msg num: 9
+VUID:18  Elapsed:4.21934ms+msg num:9
+
+getSPKVecElapsed: 7.831µs
+-TRUE- msg num: 6
+VUID:19  Elapsed:25.212358ms+msg num:6
+
+getSPKVecElapsed: 26.463µs
+-TRUE- msg num: 12
+VUID:20  Elapsed:7.449528ms+msg num:12
+
+getSPKVecElapsed: 3.701µs
+-TRUE- msg num: 3
+VUID:21  Elapsed:2.857657ms+msg num:3
+
+getSPKVecElapsed: 2.892µs
+-TRUE- msg num: 6
+VUID:22  Elapsed:5.084523ms+msg num:6
+
+getSPKVecElapsed: 3.261µs
+getSPKVecElapsed: 17.89µs
+VUID:24  Elapsed:13.57994ms+msg num:3
+
+-TRUE- msg num: 3
+-TRUE- msg num: 5
+VUID:24  Elapsed:20.400737ms+msg num:5
+
+getSPKVecElapsed: 10.082µs
+VUID:25  Elapsed:20.655942ms+msg num:8
+
+-TRUE- msg num: 8
+getSPKVecElapsed: 4.159µs
+VUID:26  Elapsed:42.348942ms+msg num:8
+
+-TRUE- msg num: 8
+getSPKVecElapsed: 7.354µs
+getSPKVecElapsed: 7.374µs
+-TRUE- msg num: 5
+VUID:28  Elapsed:13.971291ms+msg num:5
+
+getSPKVecElapsed: 3.707µs
+getSPKVecElapsed: 5.417µs
+-TRUE- msg num: 8
+-TRUE- msg num: 5
+VUID:30  Elapsed:9.284867ms+msg num:5
+
+VUID:30  Elapsed:9.642826ms+msg num:8
+
+-TRUE- msg num: 11
+VUID:30  Elapsed:14.441397ms+msg num:11
+
+getSPKVecElapsed: 7.41µs
+-TRUE- msg num: 7
+VUID:31  Elapsed:6.386211ms+msg num:7
+
+getSPKVecElapsed: 7.899µs
+-TRUE- msg num: 6
+VUID:32  Elapsed:35.045232ms+msg num:6
+
+getSPKVecElapsed: 3.284µs
+-TRUE- msg num: 7
+VUID:33  Elapsed:5.870872ms+msg num:7
+
+getSPKVecElapsed: 10.864µs
+-TRUE- msg num: 10
+VUID:34  Elapsed:17.924621ms+msg num:10
+
+getSPKVecElapsed: 7.599µs
+-TRUE- msg num: 6
+VUID:35  Elapsed:6.079342ms+msg num:6
+
+getSPKVecElapsed: 3.509µs
+-TRUE- msg num: 7
+VUID:36  Elapsed:5.627484ms+msg num:7
+
+getSPKVecElapsed: 3.855µs
+-TRUE- msg num: 8
+VUID:37  Elapsed:27.87554ms+msg num:8
+
+getSPKVecElapsed: 4.002µs
+VUID:38  Elapsed:42.083697ms+msg num:7
+
+-TRUE- msg num: 7
+getSPKVecElapsed: 7.145µs
+-TRUE- msg num: 10
+VUID:39  Elapsed:28.969159ms+msg num:10
+
+getSPKVecElapsed: 3.505µs
+-TRUE- msg num: 5
+VUID:40  Elapsed:4.51856ms+msg num:5
+
+getSPKVecElapsed: 4.293µs
+-TRUE- msg num: 7
+VUID:41  Elapsed:12.084803ms+msg num:7
+
+getSPKVecElapsed: 3.584µs
+-TRUE- msg num: 5
+VUID:42  Elapsed:4.536928ms+msg num:5
+
+getSPKVecElapsed: 7.964µs
+-TRUE- msg num: 3
+VUID:43  Elapsed:3.823432ms+msg num:3
+
+getSPKVecElapsed: 3.135µs
+-TRUE- msg num: 6
+VUID:44  Elapsed:2.911611ms+msg num:6
+
+getSPKVecElapsed: 3.48µs
+-TRUE- msg num: 5
+VUID:45  Elapsed:28.186343ms+msg num:5
+
+getSPKVecElapsed: 3.856µs
+-TRUE- msg num: 9
+VUID:46  Elapsed:6.908733ms+msg num:9
+
+getSPKVecElapsed: 6.842µs
+-TRUE- msg num: 5
+VUID:47  Elapsed:7.905903ms+msg num:5
+
+getSPKVecElapsed: 7.629µs
+getSPKVecElapsed: 2.764µs
+-TRUE- msg num: 6
+VUID:49  Elapsed:6.239715ms+msg num:6
+
+getSPKVecElapsed: 3.257µs
+getSPKVecElapsed: 3.069µs
+-TRUE- msg num: 8
+VUID:51  Elapsed:157.695µs+msg num:8
+
+-TRUE- msg num: 15
+VUID:51  Elapsed:447.19µs+msg num:15
+
+-TRUE- msg num: 6
+VUID:51  Elapsed:11.633215ms+msg num:6
+
+getSPKVecElapsed: 2.926µs
+VUID:52  Elapsed:20.090473ms+msg num:4
+
+-TRUE- msg num: 4
+getSPKVecElapsed: 3.669µs
+-TRUE- msg num: 6
+VUID:53  Elapsed:25.254156ms+msg num:6
+
+getSPKVecElapsed: 3.915µs
+VUID:54  Elapsed:22.667518ms+msg num:5
+
+-TRUE- msg num: 5
+getSPKVecElapsed: 662.766µs
+-TRUE- msg num: 10
+VUID:55  Elapsed:12.09359ms+msg num:10
+
+getSPKVecElapsed: 3.377µs
+-TRUE- msg num: 3
+VUID:56  Elapsed:9.110186ms+msg num:3
+
+getSPKVecElapsed: 4.289µs
+-TRUE- msg num: 9
+VUID:57  Elapsed:8.988635ms+msg num:9
+
+getSPKVecElapsed: 7.456µs
+VUID:58  Elapsed:5.840897ms+msg num:6
+
+-TRUE- msg num: 6
+getSPKVecElapsed: 4.024µs
+-TRUE- msg num: 5
+VUID:59  Elapsed:5.888516ms+msg num:5
+
+getSPKVecElapsed: 4.079µs
+VUID:60  Elapsed:19.742865ms+msg num:9
+
+-TRUE- msg num: 9
+getSPKVecElapsed: 4.745µs
+getSPKVecElapsed: 10.688µs
+-TRUE- msg num: 5
+VUID:62  Elapsed:4.627493ms+msg num:5
+
+New Signer Recived
+New Signer [4 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 4
+New Signer Recived
+VUID:62  Elapsed:11.352165ms+msg num:4
+
+New Signer [5 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 14.863µs
+New Signer Recived
+New Signer [6 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 6
+VUID:63  Elapsed:11.584995ms+msg num:6
+
+New Signer Recived
+New Signer [7 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 4.895µs
+VUID:64  Elapsed:3.196151ms+msg num:3
+
+-TRUE- msg num: 3
+getSPKVecElapsed: 4.7µs
+getSPKVecElapsed: 57.161µs
+-TRUE- msg num: 11
+VUID:66  Elapsed:10.77021ms+msg num:11
+
+getSPKVecElapsed: 22.51µs
+getSPKVecElapsed: 39.399µs
+getSPKVecElapsed: 24.336µs
+getSPKVecElapsed: 27.437µs
+-TRUE- msg num: 89
+VUID:70  Elapsed:3.067888ms+msg num:89
+
+getSPKVecElapsed: 9.152µs
+getSPKVecElapsed: 5.804µs
+getSPKVecElapsed: 2.252µs
+-TRUE- msg num: 4
+VUID:73  Elapsed:5.669706ms+msg num:4
+
+-TRUE- msg num: 8
+VUID:73  Elapsed:8.813276ms+msg num:8
+
+-TRUE- msg num: 16
+VUID:73  Elapsed:67.234712ms+msg num:16
+
+getSPKVecElapsed: 71.953982ms
+getSPKVecElapsed: 2.037µs
+getSPKVecElapsed: 4.8µs
+getSPKVecElapsed: 2.306µs
+getSPKVecElapsed: 1.78µs
+getSPKVecElapsed: 6.933µs
+getSPKVecElapsed: 5.155µs
+VUID:80  Elapsed:8.549603ms+msg num:6
+-TRUE- msg num: 6
+
+-TRUE- msg num: 9
+VUID:80  Elapsed:11.621671ms+msg num:9
+
+VUID:80  Elapsed:14.671637ms+msg num:7
+
+VUID:80  Elapsed:15.19371ms+msg num:90
+
+VUID:80  Elapsed:15.230171ms+msg num:9
+
+-TRUE- msg num: 7
+-TRUE- msg num: 90
+-TRUE- msg num: 9
+-TRUE- msg num: 19
+VUID:80  Elapsed:28.143152ms+msg num:19
+
+getSPKVecElapsed: 5.042µs
+-TRUE- msg num: 11
+VUID:81  Elapsed:2.574237ms+msg num:11
+
+getSPKVecElapsed: 5.551µs
+-TRUE- msg num: 6
+VUID:82  Elapsed:13.371925ms+msg num:6
+
+getSPKVecElapsed: 9.443µs
+getSPKVecElapsed: 8.648µs
+-TRUE- msg num: 16
+VUID:84  Elapsed:1.479436ms+msg num:16
+
+-TRUE- msg num: 10
+VUID:84  Elapsed:34.304578ms+msg num:10
+
+getSPKVecElapsed: 8.029µs
+getSPKVecElapsed: 15.213µs
+-TRUE- msg num: 6
+VUID:86  Elapsed:12.050081ms+msg num:6
+
+getSPKVecElapsed: 4.839µs
+getSPKVecElapsed: 9.997µs
+New Signer Recived
+-TRUE- msg num: 31
+New Signer [8 0]  Append to Aggregator AID [1 0 0 0]
+VUID:88  Elapsed:34.024801ms+msg num:31
+
+getSPKVecElapsed: 6.841µs
+-TRUE- msg num: 7
+-TRUE- msg num: 77
+-TRUE- msg num: 15
+VUID:89  Elapsed:10.525872ms+msg num:7
+
+VUID:89  Elapsed:12.054088ms+msg num:77
+
+VUID:89  Elapsed:12.506056ms+msg num:15
+
+getSPKVecElapsed: 6.837µs
+-TRUE- msg num: 10
+VUID:89  Elapsed:18.800278ms+msg num:10
+
+getSPKVecElapsed: 32.376µs
+-TRUE- msg num: 14
+getSPKVecElapsed: 4.971µs
+getSPKVecElapsed: 2.531µs
+VUID:93  Elapsed:12.117355ms+msg num:14
+
+-TRUE- msg num: 5
+VUID:93  Elapsed:25.3563ms+msg num:5
+
+getSPKVecElapsed: 7.385µs
+getSPKVecElapsed: 4.931µs
+-TRUE- msg num: 24
+-TRUE- msg num: 13
+-TRUE- msg num: 4
+-TRUE- msg num: 66
+VUID:95  Elapsed:10.811869ms+msg num:24
+
+VUID:95  Elapsed:11.568441ms+msg num:13
+
+getSPKVecElapsed: 5.405µs
+VUID:96  Elapsed:8.724292ms+msg num:4
+
+VUID:96  Elapsed:11.618404ms+msg num:66
+
+getSPKVecElapsed: 23.646µs
+VUID:97  Elapsed:4.359602ms+msg num:19
+
+-TRUE- msg num: 19
+getSPKVecElapsed: 5.715µs
+VUID:98  Elapsed:16.418695ms+msg num:14
+
+VUID:98  Elapsed:18.511784ms+msg num:9
+
+-TRUE- msg num: 14
+-TRUE- msg num: 9
+-TRUE- msg num: 11
+VUID:98  Elapsed:21.54525ms+msg num:11
+
+-TRUE- msg num: 12
+VUID:98  Elapsed:24.847079ms+msg num:12
+
+getSPKVecElapsed: 10.731µs
+getSPKVecElapsed: 5.307µs
+-TRUE- msg num: 8
+VUID:100  Elapsed:9.334594ms+msg num:8
+
+getSPKVecElapsed: 17.167µs
+-TRUE- msg num: 29
+VUID:101  Elapsed:5.312166ms+msg num:29
+
+getSPKVecElapsed: 9.102µs
+VUID:102  Elapsed:2.591663ms+msg num:17
+
+-TRUE- msg num: 17
+-TRUE- msg num: 24
+VUID:102  Elapsed:4.214327ms+msg num:24
+
+-TRUE- msg num: 14
+VUID:102  Elapsed:11.94795ms+msg num:14
+
+getSPKVecElapsed: 4.774µs
+VUID:103  Elapsed:8.964102ms+msg num:6
+
+-TRUE- msg num: 6
+getSPKVecElapsed: 4.313µs
+VUID:104  Elapsed:10.552239ms+msg num:5
+
+-TRUE- msg num: 5
+getSPKVecElapsed: 5.083µs
+-TRUE- msg num: 98
+VUID:105  Elapsed:39.777155ms+msg num:98
+
+getSPKVecElapsed: 8.106µs
+VUID:106  Elapsed:9.217879ms+msg num:13
+
+-TRUE- msg num: 13
+getSPKVecElapsed: 7.058µs
+VUID:107  Elapsed:24.40751ms+msg num:10
+
+-TRUE- msg num: 10
+getSPKVecElapsed: 7.691µs
+VUID:108  Elapsed:6.55121ms+msg num:9
+
+-TRUE- msg num: 9
+getSPKVecElapsed: 9.156µs
+-TRUE- msg num: 26
+VUID:109  Elapsed:6.486512ms+msg num:26
+
+getSPKVecElapsed: 8.145µs
+-TRUE- msg num: 8
+VUID:110  Elapsed:811.63µs+msg num:8
+
+VUID:110  Elapsed:8.569683ms+msg num:13
+
+-TRUE- msg num: 13
+getSPKVecElapsed: 5.928µs
+getSPKVecElapsed: 9.163µs
+-TRUE- msg num: 9
+VUID:112  Elapsed:8.085949ms+msg num:9
+
+-TRUE- msg num: 21
+VUID:112  Elapsed:19.250475ms+msg num:21
+
+getSPKVecElapsed: 10.83µs
+getSPKVecElapsed: 6.161µs
+getSPKVecElapsed: 61.977µs
+-TRUE- msg num: 17
+-TRUE- msg num: 21
+VUID:115  Elapsed:12.617651ms+msg num:17
+
+VUID:115  Elapsed:12.762691ms+msg num:21
+
+getSPKVecElapsed: 10.77µs
+-TRUE- msg num: 16
+VUID:116  Elapsed:15.581194ms+msg num:16
+
+getSPKVecElapsed: 11.213µs
+getSPKVecElapsed: 10.406µs
+getSPKVecElapsed: 18.378µs
+-TRUE- msg num: 16
+VUID:119  Elapsed:22.828679ms+msg num:16
+
+getSPKVecElapsed: 5.93µs
+getSPKVecElapsed: 6.224µs
+-TRUE- msg num: 27
+VUID:121  Elapsed:14.235851ms+msg num:27
+
+-TRUE- msg num: 11
+VUID:121  Elapsed:16.033327ms+msg num:11
+
+getSPKVecElapsed: 7.397µs
+VUID:122  Elapsed:17.927772ms+msg num:12
+
+-TRUE- msg num: 12
+-TRUE- msg num: 17
+VUID:122  Elapsed:31.569429ms+msg num:17
+
+getSPKVecElapsed: 5.947µs
+getSPKVecElapsed: 4.273µs
+New Signer Recived
+New Signer [9 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [10 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 5.465µs
+-TRUE- msg num: 11
+VUID:125  Elapsed:434.495µs+msg num:11
+
+getSPKVecElapsed: 9.132µs
+-TRUE- msg num: 23
+VUID:126  Elapsed:7.267531ms+msg num:23
+
+-TRUE- msg num: 16
+VUID:126  Elapsed:8.947806ms+msg num:16
+
+getSPKVecElapsed: 6.552µs
+-TRUE- msg num: 16
+VUID:127  Elapsed:6.964444ms+msg num:16
+
+-TRUE- msg num: 14
+VUID:127  Elapsed:19.766325ms+msg num:14
+
+getSPKVecElapsed: 7.072µs
+VUID:128  Elapsed:6.816286ms+msg num:13
+
+-TRUE- msg num: 13
+getSPKVecElapsed: 11.528µs
+-TRUE- msg num: 3
+VUID:129  Elapsed:9.536671ms+msg num:3
+
+getSPKVecElapsed: 3.851µs
+VUID:130  Elapsed:481.287µs+msg num:17
+
+-TRUE- msg num: 17
+-TRUE- msg num: 14
+VUID:130  Elapsed:9.678641ms+msg num:14
+
+getSPKVecElapsed: 100.423µs
+-TRUE- msg num: 4
+VUID:131  Elapsed:80.674µs+msg num:4
+
+getSPKVecElapsed: 9.179µs
+-TRUE- msg num: 14
+VUID:132  Elapsed:5.150363ms+msg num:14
+
+getSPKVecElapsed: 13.381µs
+-TRUE- msg num: 10
+VUID:133  Elapsed:14.405663ms+msg num:10
+
+getSPKVecElapsed: 12.383µs
+-TRUE- msg num: 16
+VUID:134  Elapsed:16.777527ms+msg num:16
+
+getSPKVecElapsed: 17.084µs
+-TRUE- msg num: 21
+VUID:135  Elapsed:975.289µs+msg num:21
+
+getSPKVecElapsed: 11.346µs
+-TRUE- msg num: 8
+VUID:136  Elapsed:6.451119ms+msg num:8
+
+getSPKVecElapsed: 12.979µs
+-TRUE- msg num: 5
+VUID:137  Elapsed:17.61402ms+msg num:5
+
+getSPKVecElapsed: 12.492µs
+VUID:138  Elapsed:25.425525ms+msg num:23
+
+New Signer [11 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 23
+New Signer Recived
+New Signer Recived
+-TRUE- msg num: 9
+VUID:138  Elapsed:29.118786ms+msg num:9
+
+New Signer [12 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 14.726µs
+getSPKVecElapsed: 2.642µs
+getSPKVecElapsed: 1.725µs
+-TRUE- msg num: 5
+VUID:141  Elapsed:7.530831ms+msg num:5
+
+getSPKVecElapsed: 6.856µs
+VUID:142  Elapsed:17.999615ms+msg num:19
+
+-TRUE- msg num: 19
+getSPKVecElapsed: 12.764µs
+getSPKVecElapsed: 11.829µs
+getSPKVecElapsed: 2.265µs
+getSPKVecElapsed: 4.145µs
+getSPKVecElapsed: 2.139µs
+VUID:147  Elapsed:16.095586ms+msg num:14
+
+-TRUE- msg num: 14
+getSPKVecElapsed: 7.996µs
+-TRUE- msg num: 13
+VUID:148  Elapsed:3.245131ms+msg num:13
+
+-TRUE- msg num: 5
+VUID:148  Elapsed:8.80693ms+msg num:5
+
+-TRUE- msg num: 6
+VUID:148  Elapsed:20.481989ms+msg num:6
+
+VUID:148  Elapsed:25.581751ms+msg num:17
+
+-TRUE- msg num: 17
+getSPKVecElapsed: 12.405µs
+-TRUE- msg num: 20
+VUID:149  Elapsed:8.30816ms+msg num:20
+
+getSPKVecElapsed: 18.218µs
+getSPKVecElapsed: 5.582µs
+getSPKVecElapsed: 6.609µs
+-TRUE- msg num: 35
+-TRUE- msg num: 15
+getSPKVecElapsed: 9.289µs
+getSPKVecElapsed: 5.798µs
+VUID:151  Elapsed:42.031387ms+msg num:15
+
+VUID:151  Elapsed:7.069369ms+msg num:35
+
+getSPKVecElapsed: 9.671µs
+getSPKVecElapsed: 14.258µs
+-TRUE- msg num: 10
+VUID:156  Elapsed:13.126401ms+msg num:10
+
+getSPKVecElapsed: 9.523µs
+VUID:157  Elapsed:3.220721ms+msg num:16
+
+-TRUE- msg num: 16
+-TRUE- msg num: 19
+VUID:157  Elapsed:3.387034ms+msg num:19
+
+-TRUE- msg num: 9
+-TRUE- msg num: 25
+getSPKVecElapsed: 42.047546ms
+getSPKVecElapsed: 16.31µs
+getSPKVecElapsed: 2.528µs
+-TRUE- msg num: 25
+VUID:160  Elapsed:1.323245ms+msg num:9
+
+VUID:160  Elapsed:1.369184ms+msg num:25
+
+VUID:160  Elapsed:1.547774ms+msg num:25
+
+-TRUE- msg num: 35
+VUID:160  Elapsed:1.788484ms+msg num:35
+
+getSPKVecElapsed: 8.719µs
+getSPKVecElapsed: 13.69µs
+-TRUE- msg num: 79
+VUID:162  Elapsed:22.34519ms+msg num:79
+
+-TRUE- msg num: 57
+VUID:162  Elapsed:32.620385ms+msg num:57
+
+-TRUE- msg num: 12
+-TRUE- msg num: 13
+VUID:162  Elapsed:42.366899ms+msg num:12
+
+getSPKVecElapsed: 25.186µs
+VUID:162  Elapsed:44.770557ms+msg num:13
+
+getSPKVecElapsed: 6.478µs
+-TRUE- msg num: 3
+getSPKVecElapsed: 8.051µs
+getSPKVecElapsed: 7.627µs
+getSPKVecElapsed: 943ns
+VUID:167  Elapsed:11.72597ms+msg num:3
+
+getSPKVecElapsed: 9.647µs
+-TRUE- msg num: 23
+VUID:168  Elapsed:67.672438ms+msg num:23
+
+getSPKVecElapsed: 12.063µs
+getSPKVecElapsed: 5.836µs
+getSPKVecElapsed: 2.004µs
+-TRUE- msg num: 5
+VUID:171  Elapsed:14.478845ms+msg num:5
+
+-TRUE- msg num: 10
+VUID:171  Elapsed:25.636033ms+msg num:10
+
+-TRUE- msg num: 16
+VUID:171  Elapsed:25.930137ms+msg num:16
+
+-TRUE- msg num: 16
+VUID:171  Elapsed:30.867048ms+msg num:16
+
+-TRUE- msg num: 13
+VUID:171  Elapsed:45.628109ms+msg num:13
+
+-TRUE- msg num: 26
+VUID:171  Elapsed:66.079157ms+msg num:26
+
+getSPKVecElapsed: 14.655µs
+getSPKVecElapsed: 8.779µs
+getSPKVecElapsed: 15.112µs
+-TRUE- msg num: 28
+VUID:174  Elapsed:3.324069ms+msg num:28
+
+-TRUE- msg num: 30
+VUID:174  Elapsed:3.417235ms+msg num:30
+
+-TRUE- msg num: 6
+VUID:174  Elapsed:41.284866ms+msg num:6
+
+-TRUE- msg num: 12
+VUID:174  Elapsed:43.890472ms+msg num:12
+
+VUID:174  Elapsed:70.486472ms+msg num:23
+
+-TRUE- msg num: 23
+getSPKVecElapsed: 9.096µs
+getSPKVecElapsed: 11.283µs
+getSPKVecElapsed: 3.163µs
+getSPKVecElapsed: 4.785µs
+VUID:178  Elapsed:6.816258ms+msg num:6
+
+-TRUE- msg num: 6
+getSPKVecElapsed: 8.702µs
+-TRUE- msg num: 34
+-TRUE- msg num: 18
+VUID:179  Elapsed:19.159146ms+msg num:18
+
+VUID:179  Elapsed:48.153194ms+msg num:34
+
+getSPKVecElapsed: 53.684µs
+getSPKVecElapsed: 6.008µs
+getSPKVecElapsed: 4.939µs
+-TRUE- msg num: 19
+VUID:182  Elapsed:15.571823ms+msg num:19
+
+-TRUE- msg num: 8
+VUID:182  Elapsed:20.02202ms+msg num:8
+
+getSPKVecElapsed: 18.343µs
+getSPKVecElapsed: 10.409µs
+-TRUE- msg num: 12
+VUID:183  Elapsed:1.52974ms+msg num:12
+
+-TRUE- msg num: 16
+VUID:184  Elapsed:6.048973ms+msg num:16
+
+-TRUE- msg num: 15
+getSPKVecElapsed: 8.99µs
+VUID:185  Elapsed:2.086147ms+msg num:15
+
+getSPKVecElapsed: 9.008µs
+getSPKVecElapsed: 17.029µs
+getSPKVecElapsed: 66.932µs
+getSPKVecElapsed: 12.391µs
+-TRUE- msg num: 13
+-TRUE- msg num: 29
+-TRUE- msg num: 45
+-TRUE- msg num: 8
+-TRUE- msg num: 33
+VUID:189  Elapsed:18.773545ms+msg num:29
+
+VUID:189  Elapsed:18.812553ms+msg num:13
+
+VUID:189  Elapsed:18.915597ms+msg num:8
+
+VUID:189  Elapsed:18.923283ms+msg num:33
+
+getSPKVecElapsed: 3.368µs
+VUID:190  Elapsed:1.195547ms+msg num:45
+
+-TRUE- msg num: 23
+VUID:190  Elapsed:2.979243ms+msg num:23
+
+VUID:190  Elapsed:5.964374ms+msg num:15
+
+VUID:190  Elapsed:8.95241ms+msg num:7
+
+-TRUE- msg num: 15
+-TRUE- msg num: 7
+getSPKVecElapsed: 12.36µs
+VUID:191  Elapsed:9.340321ms+msg num:26
+
+-TRUE- msg num: 26
+getSPKVecElapsed: 17.267µs
+VUID:192  Elapsed:5.984797ms+msg num:28
+
+-TRUE- msg num: 28
+-TRUE- msg num: 22
+VUID:192  Elapsed:23.218932ms+msg num:22
+
+getSPKVecElapsed: 10.781µs
+getSPKVecElapsed: 3.761µs
+-TRUE- msg num: 24
+VUID:194  Elapsed:1.956314ms+msg num:24
+
+getSPKVecElapsed: 9.401µs
+-TRUE- msg num: 13
+VUID:195  Elapsed:5.276722ms+msg num:13
+
+-TRUE- msg num: 12
+VUID:195  Elapsed:5.353013ms+msg num:12
+
+getSPKVecElapsed: 1.598226ms
+-TRUE- msg num: 17
+VUID:196  Elapsed:11.519306ms+msg num:17
+
+getSPKVecElapsed: 18.962µs
+VUID:197  Elapsed:2.07288ms+msg num:16
+
+-TRUE- msg num: 16
+getSPKVecElapsed: 8.804µs
+-TRUE- msg num: 16
+VUID:198  Elapsed:12.589123ms+msg num:16
+
+getSPKVecElapsed: 13.815µs
+-TRUE- msg num: 16
+VUID:199  Elapsed:5.63573ms+msg num:16
+
+getSPKVecElapsed: 7.403µs
+VUID:200  Elapsed:4.434997ms+msg num:8
+
+-TRUE- msg num: 8
+getSPKVecElapsed: 9.442µs
+VUID:201  Elapsed:8.874886ms+msg num:15
+
+-TRUE- msg num: 15
+getSPKVecElapsed: 11.008µs
+getSPKVecElapsed: 11.328µs
+-TRUE- msg num: 14
+VUID:203  Elapsed:8.130938ms+msg num:14
+
+getSPKVecElapsed: 8.014µs
+-TRUE- msg num: 14
+VUID:204  Elapsed:6.167095ms+msg num:14
+
+VUID:204  Elapsed:16.434782ms+msg num:14
+
+-TRUE- msg num: 14
+getSPKVecElapsed: 950.996µs
+getSPKVecElapsed: 11.772µs
+getSPKVecElapsed: 11.444µs
+-TRUE- msg num: 19
+VUID:207  Elapsed:3.599249ms+msg num:19
+
+-TRUE- msg num: 13
+VUID:207  Elapsed:6.068117ms+msg num:13
+
+getSPKVecElapsed: 8.213µs
+-TRUE- msg num: 10
+VUID:208  Elapsed:8.761632ms+msg num:10
+
+-TRUE- msg num: 23
+VUID:208  Elapsed:12.073451ms+msg num:23
+
+getSPKVecElapsed: 10.549µs
+getSPKVecElapsed: 3.242µs
+VUID:210  Elapsed:10.302664ms+msg num:7
+
+-TRUE- msg num: 7
+-TRUE- msg num: 18
+VUID:210  Elapsed:14.359335ms+msg num:18
+
+getSPKVecElapsed: 13.712µs
+getSPKVecElapsed: 10.155µs
+getSPKVecElapsed: 11.737µs
+-TRUE- msg num: 12
+VUID:213  Elapsed:11.075498ms+msg num:12
+
+-TRUE- msg num: 12
+VUID:213  Elapsed:11.312503ms+msg num:12
+
+getSPKVecElapsed: 9.646µs
+-TRUE- msg num: 14
+VUID:214  Elapsed:4.703386ms+msg num:14
+
+-TRUE- msg num: 23
+VUID:214  Elapsed:5.811604ms+msg num:23
+
+getSPKVecElapsed: 7.858µs
+getSPKVecElapsed: 10.25µs
+getSPKVecElapsed: 6.827µs
+-TRUE- msg num: 19
+-TRUE- msg num: 8
+VUID:217  Elapsed:7.77944ms+msg num:19
+
+VUID:217  Elapsed:16.928951ms+msg num:8
+
+getSPKVecElapsed: 10.655µs
+getSPKVecElapsed: 7.276µs
+-TRUE- msg num: 26
+VUID:219  Elapsed:6.982022ms+msg num:26
+
+getSPKVecElapsed: 11.605µs
+-TRUE- msg num: 12
+VUID:220  Elapsed:6.362494ms+msg num:12
+
+getSPKVecElapsed: 5.941µs
+-TRUE- msg num: 6
+VUID:220  Elapsed:31.05655ms+msg num:6
+
+-TRUE- msg num: 26
+VUID:221  Elapsed:5.072874ms+msg num:26
+
+VUID:221  Elapsed:7.991443ms+msg num:10
+
+-TRUE- msg num: 10
+getSPKVecElapsed: 28.553µs
+-TRUE- msg num: 26
+VUID:222  Elapsed:17.472533ms+msg num:26
+
+-TRUE- msg num: 38
+VUID:222  Elapsed:27.038434ms+msg num:38
+
+getSPKVecElapsed: 8.377µs
+VUID:223  Elapsed:13.375181ms+msg num:17
+
+-TRUE- msg num: 17
+getSPKVecElapsed: 21.493µs
+getSPKVecElapsed: 6.876µs
+getSPKVecElapsed: 7.331µs
+getSPKVecElapsed: 9.344µs
+VUID:227  Elapsed:22.668419ms+msg num:14
+
+-TRUE- msg num: 14
+getSPKVecElapsed: 9.775µs
+VUID:228  Elapsed:6.29623ms+msg num:6
+
+-TRUE- msg num: 6
+VUID:228  Elapsed:7.886035ms+msg num:11
+
+-TRUE- msg num: 11
+-TRUE- msg num: 40
+VUID:228  Elapsed:18.875148ms+msg num:40
+
+VUID:228  Elapsed:19.446507ms+msg num:20
+
+-TRUE- msg num: 20
+getSPKVecElapsed: 8.172µs
+getSPKVecElapsed: 3.53µs
+getSPKVecElapsed: 1.63µs
+-TRUE- msg num: 9
+VUID:231  Elapsed:11.23711ms+msg num:9
+
+getSPKVecElapsed: 9.266µs
+getSPKVecElapsed: 19.101µs
+-TRUE- msg num: 11
+VUID:233  Elapsed:5.115408ms+msg num:11
+
+getSPKVecElapsed: 8.282µs
+-TRUE- msg num: 11
+VUID:234  Elapsed:14.142844ms+msg num:11
+
+VUID:234  Elapsed:20.056017ms+msg num:27
+
+-TRUE- msg num: 27
+VUID:234  Elapsed:28.860182ms+msg num:13
+
+-TRUE- msg num: 13
+getSPKVecElapsed: 8.018µs
+-TRUE- msg num: 9
+VUID:235  Elapsed:13.083367ms+msg num:9
+
+VUID:235  Elapsed:55.493064ms+msg num:27
+
+-TRUE- msg num: 27
+getSPKVecElapsed: 8.93µs
+getSPKVecElapsed: 4.804µs
+getSPKVecElapsed: 2.716µs
+getSPKVecElapsed: 2.576µs
+VUID:239  Elapsed:15.443296ms+msg num:8
+
+-TRUE- msg num: 8
+-TRUE- msg num: 10
+VUID:239  Elapsed:47.088988ms+msg num:10
+
+getSPKVecElapsed: 103.325µs
+getSPKVecElapsed: 5.9µs
+getSPKVecElapsed: 6.748µs
+getSPKVecElapsed: 8.594µs
+getSPKVecElapsed: 4.379µs
+-TRUE- msg num: 18
+-TRUE- msg num: 7
+-TRUE- msg num: 3
+-TRUE- msg num: 17
+-TRUE- msg num: 13
+VUID:243  Elapsed:40.66589ms+msg num:7
+
+VUID:244  Elapsed:2.960721ms+msg num:3
+
+VUID:244  Elapsed:3.399558ms+msg num:17
+
+VUID:244  Elapsed:8.67364ms+msg num:13
+
+getSPKVecElapsed: 8.858µs
+VUID:245  Elapsed:11.929036ms+msg num:18
+
+getSPKVecElapsed: 48.583µs
+-TRUE- msg num: 15
+VUID:246  Elapsed:2.930951ms+msg num:15
+
+VUID:246  Elapsed:4.721618ms+msg num:20
+
+-TRUE- msg num: 20
+-TRUE- msg num: 22
+VUID:246  Elapsed:13.492696ms+msg num:22
+
+getSPKVecElapsed: 19.298µs
+-TRUE- msg num: 15
+VUID:247  Elapsed:3.466105ms+msg num:15
+
+getSPKVecElapsed: 12.139µs
+VUID:248  Elapsed:2.291658ms+msg num:21
+
+-TRUE- msg num: 21
+getSPKVecElapsed: 5.749µs
+-TRUE- msg num: 7
+VUID:249  Elapsed:11.1645ms+msg num:7
+
+getSPKVecElapsed: 12.236µs
+getSPKVecElapsed: 13.789µs
+getSPKVecElapsed: 39.033µs
+getSPKVecElapsed: 12.045µs
+-TRUE- msg num: 12
+VUID:253  Elapsed:4.804791ms+msg num:12
+
+getSPKVecElapsed: 7.133µs
+-TRUE- msg num: 17
+VUID:254  Elapsed:3.960835ms+msg num:17
+
+-TRUE- msg num: 21
+VUID:254  Elapsed:4.814902ms+msg num:21
+
+-TRUE- msg num: 27
+VUID:254  Elapsed:5.499395ms+msg num:27
+
+-TRUE- msg num: 9
+VUID:254  Elapsed:23.696159ms+msg num:9
+
+getSPKVecElapsed: 13.264µs
+VUID:255  Elapsed:22.630976ms+msg num:15
+
+getSPKVecElapsed: 24.882µs
+-TRUE- msg num: 15
+VUID:256  Elapsed:700.867µs+msg num:15
+
+-TRUE- msg num: 15
+-TRUE- msg num: 26
+VUID:256  Elapsed:26.575256ms+msg num:26
+
+getSPKVecElapsed: 10.834µs
+getSPKVecElapsed: 24.135µs
+getSPKVecElapsed: 10.505µs
+-TRUE- msg num: 13
+VUID:259  Elapsed:11.614987ms+msg num:13
+
+getSPKVecElapsed: 16.376µs
+VUID:260  Elapsed:17.835666ms+msg num:18
+
+-TRUE- msg num: 18
+getSPKVecElapsed: 8.921µs
+getSPKVecElapsed: 3.154µs
+getSPKVecElapsed: 2.938µs
+getSPKVecElapsed: 4.111µs
+getSPKVecElapsed: 3.274µs
+-TRUE- msg num: 7
+VUID:265  Elapsed:14.333203ms+msg num:7
+
+-TRUE- msg num: 18
+VUID:265  Elapsed:15.497971ms+msg num:18
+
+-TRUE- msg num: 4
+VUID:265  Elapsed:21.015369ms+msg num:4
+
+VUID:265  Elapsed:43.166501ms+msg num:20
+
+-TRUE- msg num: 20
+VUID:265  Elapsed:44.826861ms+msg num:21
+
+-TRUE- msg num: 21
+getSPKVecElapsed: 15.227µs
+-TRUE- msg num: 48
+VUID:266  Elapsed:8.362232ms+msg num:48
+
+getSPKVecElapsed: 38.333µs
+VUID:267  Elapsed:3.131309ms+msg num:19
+
+-TRUE- msg num: 19
+-TRUE- msg num: 11
+VUID:267  Elapsed:5.674271ms+msg num:11
+
+getSPKVecElapsed: 398.269µs
+getSPKVecElapsed: 8.549µs
+getSPKVecElapsed: 11.614µs
+VUID:270  Elapsed:13.051581ms+msg num:13
+
+-TRUE- msg num: 13
+-TRUE- msg num: 14
+VUID:270  Elapsed:9.139636ms+msg num:14
+
+getSPKVecElapsed: 6.258µs
+getSPKVecElapsed: 27.264µs
+-TRUE- msg num: 14
+VUID:272  Elapsed:6.796433ms+msg num:14
+
+getSPKVecElapsed: 8.624µs
+-TRUE- msg num: 13
+VUID:273  Elapsed:3.471864ms+msg num:13
+
+-TRUE- msg num: 19
+VUID:273  Elapsed:14.207429ms+msg num:19
+
+-TRUE- msg num: 5
+VUID:273  Elapsed:15.248675ms+msg num:5
+
+getSPKVecElapsed: 28.219µs
+-TRUE- msg num: 62
+VUID:274  Elapsed:8.540894ms+msg num:62
+
+getSPKVecElapsed: 12.58µs
+-TRUE- msg num: 11
+VUID:275  Elapsed:7.471213ms+msg num:11
+
+getSPKVecElapsed: 11.833µs
+-TRUE- msg num: 23
+VUID:276  Elapsed:10.344843ms+msg num:23
+
+getSPKVecElapsed: 8.199µs
+getSPKVecElapsed: 8.379µs
+-TRUE- msg num: 10
+VUID:278  Elapsed:16.34761ms+msg num:10
+
+-TRUE- msg num: 22
+VUID:278  Elapsed:3.351423ms+msg num:22
+
+VUID:278  Elapsed:9.363481ms+msg num:19
+
+-TRUE- msg num: 19
+getSPKVecElapsed: 14.53µs
+getSPKVecElapsed: 15.665µs
+-TRUE- msg num: 21
+VUID:280  Elapsed:1.920914ms+msg num:21
+
+getSPKVecElapsed: 7.456µs
+VUID:281  Elapsed:5.531135ms+msg num:17
+
+-TRUE- msg num: 17
+VUID:281  Elapsed:14.208324ms+msg num:8
+
+-TRUE- msg num: 8
+getSPKVecElapsed: 45.476µs
+getSPKVecElapsed: 5.076µs
+-TRUE- msg num: 19
+VUID:283  Elapsed:25.134448ms+msg num:19
+
+getSPKVecElapsed: 8.483µs
+getSPKVecElapsed: 2.062µs
+getSPKVecElapsed: 2.512µs
+VUID:286  Elapsed:55.138774ms+msg num:17
+
+-TRUE- msg num: 17
+VUID:286  Elapsed:77.410914ms+msg num:7
+
+-TRUE- msg num: 7
+-TRUE- msg num: 18
+VUID:286  Elapsed:77.846586ms+msg num:18
+
+getSPKVecElapsed: 8.394µs
+getSPKVecElapsed: 2.444µs
+-TRUE- msg num: 11
+VUID:288  Elapsed:81.452521ms+msg num:11
+
+-TRUE- msg num: 17
+VUID:288  Elapsed:104.303084ms+msg num:17
+
+getSPKVecElapsed: 11.479µs
+getSPKVecElapsed: 3.985µs
+getSPKVecElapsed: 2.851µs
+getSPKVecElapsed: 8.2µs
+getSPKVecElapsed: 617ns
+getSPKVecElapsed: 2.164µs
+getSPKVecElapsed: 1.443µs
+getSPKVecElapsed: 29.288µs
+getSPKVecElapsed: 8.053µs
+getSPKVecElapsed: 8.784µs
+-TRUE- msg num: 20
+-TRUE- msg num: 16
+VUID:298  Elapsed:22.185119ms+msg num:16
+
+VUID:298  Elapsed:22.204589ms+msg num:20
+
+-TRUE- msg num: 10
+VUID:298  Elapsed:30.664008ms+msg num:10
+
+getSPKVecElapsed: 27.008783ms
+getSPKVecElapsed: 4.584µs
+getSPKVecElapsed: 2.42µs
+-TRUE- msg num: 9
+VUID:301  Elapsed:19.329432ms+msg num:9
+
+getSPKVecElapsed: 8.205µs
+VUID:302  Elapsed:16.44014ms+msg num:3
+
+-TRUE- msg num: 3
+-TRUE- msg num: 13
+VUID:302  Elapsed:24.298479ms+msg num:13
+
+-TRUE- msg num: 10
+-TRUE- msg num: 16
+getSPKVecElapsed: 13.703µs
+getSPKVecElapsed: 56.334µs
+VUID:302  Elapsed:65.209734ms+msg num:10
+
+VUID:302  Elapsed:65.507827ms+msg num:16
+
+getSPKVecElapsed: 5.075µs
+getSPKVecElapsed: 11.491µs
+getSPKVecElapsed: 5.884µs
+getSPKVecElapsed: 11.431µs
+-TRUE- msg num: 18
+-TRUE- msg num: 4
+-TRUE- msg num: 13
+VUID:308  Elapsed:7.340126ms+msg num:18
+
+VUID:308  Elapsed:7.372172ms+msg num:4
+
+VUID:308  Elapsed:8.839375ms+msg num:13
+
+-TRUE- msg num: 3
+VUID:308  Elapsed:10.009938ms+msg num:3
+
+getSPKVecElapsed: 7.848µs
+-TRUE- msg num: 38
+VUID:309  Elapsed:9.882539ms+msg num:38
+
+getSPKVecElapsed: 12.011µs
+-TRUE- msg num: 26
+VUID:310  Elapsed:22.245842ms+msg num:26
+
+-TRUE- msg num: 13
+-TRUE- msg num: 28
+-TRUE- msg num: 24
+-TRUE- msg num: 11
+-TRUE- msg num: 21
+VUID:310  Elapsed:23.201508ms+msg num:21
+
+getSPKVecElapsed: 17.246714ms
+VUID:310  Elapsed:22.704987ms+msg num:13
+
+VUID:310  Elapsed:22.862565ms+msg num:24
+
+VUID:310  Elapsed:22.778788ms+msg num:28
+
+VUID:310  Elapsed:22.96071ms+msg num:11
+
+getSPKVecElapsed: 7.429µs
+getSPKVecElapsed: 5.359µs
+-TRUE- msg num: 41
+VUID:313  Elapsed:38.552473ms+msg num:41
+
+-TRUE- msg num: 13
+VUID:313  Elapsed:38.721792ms+msg num:13
+
+-TRUE- msg num: 32
+-TRUE- msg num: 59
+VUID:313  Elapsed:38.761426ms+msg num:32
+
+VUID:313  Elapsed:38.790276ms+msg num:59
+
+getSPKVecElapsed: 10.449µs
+-TRUE- msg num: 24
+VUID:314  Elapsed:855.65µs+msg num:24
+
+-TRUE- msg num: 6
+VUID:314  Elapsed:1.591755ms+msg num:6
+
+-TRUE- msg num: 33
+VUID:314  Elapsed:10.598042ms+msg num:33
+
+-TRUE- msg num: 12
+VUID:314  Elapsed:22.30571ms+msg num:12
+
+getSPKVecElapsed: 19.131µs
+getSPKVecElapsed: 9.347µs
+-TRUE- msg num: 10
+VUID:316  Elapsed:8.333902ms+msg num:10
+
+getSPKVecElapsed: 14.547µs
+getSPKVecElapsed: 9.263µs
+getSPKVecElapsed: 21.655µs
+getSPKVecElapsed: 6.178µs
+getSPKVecElapsed: 11.996µs
+-TRUE- msg num: 12
+getSPKVecElapsed: 12.831µs
+VUID:322  Elapsed:3.207284ms+msg num:12
+
+VUID:322  Elapsed:4.97026ms+msg num:4
+
+-TRUE- msg num: 4
+-TRUE- msg num: 27
+VUID:322  Elapsed:12.701195ms+msg num:27
+
+-TRUE- msg num: 14
+VUID:322  Elapsed:18.537787ms+msg num:14
+
+getSPKVecElapsed: 16.336µs
+VUID:323  Elapsed:4.444136ms+msg num:21
+
+-TRUE- msg num: 21
+getSPKVecElapsed: 11.829µs
+VUID:324  Elapsed:10.290366ms+msg num:20
+
+-TRUE- msg num: 20
+-TRUE- msg num: 26
+VUID:324  Elapsed:38.163758ms+msg num:26
+
+getSPKVecElapsed: 5.044µs
+VUID:325  Elapsed:21.127509ms+msg num:40
+
+getSPKVecElapsed: 22.225µs
+-TRUE- msg num: 40
+New Signer Recived
+New Signer [13 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 4
+VUID:326  Elapsed:3.570434ms+msg num:4
+
+-TRUE- msg num: 51
+VUID:326  Elapsed:9.999121ms+msg num:51
+
+getSPKVecElapsed: 6.299µs
+-TRUE- msg num: 10
+VUID:327  Elapsed:28.548871ms+msg num:10
+
+getSPKVecElapsed: 12.048µs
+getSPKVecElapsed: 2.262µs
+getSPKVecElapsed: 9.185µs
+getSPKVecElapsed: 10.471µs
+getSPKVecElapsed: 6.705µs
+-TRUE- msg num: 50
+VUID:332  Elapsed:3.489681ms+msg num:50
+
+getSPKVecElapsed: 15.671µs
+-TRUE- msg num: 8
+VUID:333  Elapsed:3.940396ms+msg num:8
+
+-TRUE- msg num: 10
+VUID:333  Elapsed:5.68819ms+msg num:10
+
+getSPKVecElapsed: 9.192µs
+VUID:334  Elapsed:9.314367ms+msg num:18
+
+getSPKVecElapsed: 13.912µs
+VUID:335  Elapsed:3.172397ms+msg num:15
+
+getSPKVecElapsed: 9.609µs
+VUID:336  Elapsed:604.145µs+msg num:10
+
+-TRUE- msg num: 18
+-TRUE- msg num: 15
+-TRUE- msg num: 10
+VUID:336  Elapsed:13.140786ms+msg num:21
+
+-TRUE- msg num: 21
+getSPKVecElapsed: 12.573µs
+-TRUE- msg num: 29
+VUID:337  Elapsed:6.927273ms+msg num:29
+
+getSPKVecElapsed: 33.901µs
+getSPKVecElapsed: 15.593µs
+VUID:339  Elapsed:138.891µs+msg num:17
+
+-TRUE- msg num: 17
+VUID:339  Elapsed:14.755912ms+msg num:26
+
+-TRUE- msg num: 26
+-TRUE- msg num: 9
+VUID:339  Elapsed:33.476113ms+msg num:9
+
+getSPKVecElapsed: 595.012µs
+getSPKVecElapsed: 16.116µs
+getSPKVecElapsed: 70.214µs
+getSPKVecElapsed: 17.188µs
+VUID:343  Elapsed:9.299356ms+msg num:11
+
+getSPKVecElapsed: 10.594µs
+-TRUE- msg num: 11
+-TRUE- msg num: 13
+VUID:344  Elapsed:10.887892ms+msg num:13
+
+getSPKVecElapsed: 12.317µs
+getSPKVecElapsed: 9.393µs
+-TRUE- msg num: 13
+VUID:346  Elapsed:16.14287ms+msg num:13
+
+getSPKVecElapsed: 8.702µs
+-TRUE- msg num: 17
+VUID:347  Elapsed:14.025666ms+msg num:17
+
+getSPKVecElapsed: 19.362µs
+getSPKVecElapsed: 7.535µs
+VUID:349  Elapsed:20.689192ms+msg num:23
+
+-TRUE- msg num: 23
+getSPKVecElapsed: 8.049µs
+New Signer Recived
+New Signer [14 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 6.696µs
+VUID:351  Elapsed:21.849706ms+msg num:30
+
+VUID:351  Elapsed:22.568501ms+msg num:20
+
+VUID:351  Elapsed:24.514314ms+msg num:11
+
+VUID:351  Elapsed:24.692633ms+msg num:17
+
+getSPKVecElapsed: 7.069µs
+-TRUE- msg num: 30
+-TRUE- msg num: 20
+-TRUE- msg num: 11
+-TRUE- msg num: 17
+getSPKVecElapsed: 14.013µs
+getSPKVecElapsed: 18.068µs
+VUID:354  Elapsed:11.703268ms+msg num:16
+
+-TRUE- msg num: 16
+-TRUE- msg num: 9
+VUID:354  Elapsed:12.014287ms+msg num:9
+
+-TRUE- msg num: 34
+VUID:354  Elapsed:12.674193ms+msg num:34
+
+-TRUE- msg num: 14
+VUID:354  Elapsed:13.553605ms+msg num:14
+
+getSPKVecElapsed: 43.469µs
+getSPKVecElapsed: 13.738µs
+-TRUE- msg num: 15
+VUID:356  Elapsed:12.066491ms+msg num:15
+
+-TRUE- msg num: 42
+getSPKVecElapsed: 12.377µs
+VUID:356  Elapsed:12.494842ms+msg num:42
+
+-TRUE- msg num: 32
+VUID:357  Elapsed:6.088179ms+msg num:32
+
+getSPKVecElapsed: 6.705µs
+getSPKVecElapsed: 21.418µs
+VUID:359  Elapsed:6.297217ms+msg num:6
+
+-TRUE- msg num: 6
+-TRUE- msg num: 16
+-TRUE- msg num: 16
+VUID:359  Elapsed:21.133477ms+msg num:16
+
+VUID:359  Elapsed:22.858259ms+msg num:16
+
+-TRUE- msg num: 45
+VUID:359  Elapsed:29.248359ms+msg num:45
+
+-TRUE- msg num: 16
+VUID:359  Elapsed:38.807567ms+msg num:16
+
+getSPKVecElapsed: 29.108µs
+VUID:360  Elapsed:14.620088ms+msg num:27
+
+-TRUE- msg num: 27
+getSPKVecElapsed: 25.578µs
+getSPKVecElapsed: 9.565µs
+-TRUE- msg num: 13
+VUID:362  Elapsed:13.785874ms+msg num:13
+
+getSPKVecElapsed: 8.882µs
+getSPKVecElapsed: 3.732µs
+getSPKVecElapsed: 13.148µs
+-TRUE- msg num: 16
+VUID:365  Elapsed:4.295226ms+msg num:16
+
+-TRUE- msg num: 25
+VUID:365  Elapsed:9.259647ms+msg num:25
+
+getSPKVecElapsed: 9.253µs
+VUID:366  Elapsed:3.51768ms+msg num:15
+
+-TRUE- msg num: 15
+getSPKVecElapsed: 10.987µs
+-TRUE- msg num: 18
+VUID:367  Elapsed:11.44273ms+msg num:18
+
+getSPKVecElapsed: 20.837µs
+getSPKVecElapsed: 23.205µs
+getSPKVecElapsed: 12.971µs
+-TRUE- msg num: 47
+VUID:370  Elapsed:2.021577ms+msg num:47
+
+-TRUE- msg num: 11
+VUID:370  Elapsed:2.138886ms+msg num:11
+
+VUID:370  Elapsed:2.556321ms+msg num:12
+
+-TRUE- msg num: 12
+-TRUE- msg num: 18
+VUID:370  Elapsed:2.762613ms+msg num:18
+
+getSPKVecElapsed: 13.514µs
+getSPKVecElapsed: 9.274µs
+-TRUE- msg num: 28
+VUID:372  Elapsed:292.955µs+msg num:28
+
+-TRUE- msg num: 19
+VUID:372  Elapsed:18.085513ms+msg num:19
+
+-TRUE- msg num: 20
+VUID:372  Elapsed:52.579748ms+msg num:20
+
+getSPKVecElapsed: 7.267µs
+getSPKVecElapsed: 5.39µs
+getSPKVecElapsed: 7.888µs
+getSPKVecElapsed: 26.81µs
+VUID:376  Elapsed:7.808505ms+msg num:17
+
+-TRUE- msg num: 17
+getSPKVecElapsed: 7.909µs
+getSPKVecElapsed: 7.907µs
+getSPKVecElapsed: 17.536µs
+-TRUE- msg num: 4
+VUID:379  Elapsed:19.783529ms+msg num:4
+
+-TRUE- msg num: 13
+VUID:379  Elapsed:20.263898ms+msg num:13
+
+VUID:379  Elapsed:20.59656ms+msg num:16
+
+-TRUE- msg num: 16
+getSPKVecElapsed: 6.018µs
+-TRUE- msg num: 14
+VUID:380  Elapsed:669.954µs+msg num:14
+
+-TRUE- msg num: 17
+VUID:380  Elapsed:24.322409ms+msg num:17
+
+-TRUE- msg num: 9
+VUID:380  Elapsed:35.747401ms+msg num:9
+
+getSPKVecElapsed: 6.8µs
+-TRUE- msg num: 23
+-TRUE- msg num: 9
+-TRUE- msg num: 38
+VUID:381  Elapsed:23.78436ms+msg num:23
+
+VUID:381  Elapsed:49.183596ms+msg num:9
+
+VUID:381  Elapsed:49.633655ms+msg num:38
+
+getSPKVecElapsed: 17.384µs
+getSPKVecElapsed: 3.336µs
+getSPKVecElapsed: 1.259µs
+getSPKVecElapsed: 7.021µs
+getSPKVecElapsed: 10.498µs
+getSPKVecElapsed: 13.735µs
+getSPKVecElapsed: 5.461µs
+getSPKVecElapsed: 6.667µs
+-TRUE- msg num: 3
+VUID:389  Elapsed:2.590277ms+msg num:3
+
+VUID:389  Elapsed:5.334087ms+msg num:5
+
+-TRUE- msg num: 5
+getSPKVecElapsed: 12.904µs
+-TRUE- msg num: 7
+VUID:390  Elapsed:14.78782ms+msg num:7
+
+-TRUE- msg num: 43
+VUID:390  Elapsed:5.346785ms+msg num:43
+
+getSPKVecElapsed: 12.496µs
+getSPKVecElapsed: 9.237µs
+getSPKVecElapsed: 12.942µs
+VUID:393  Elapsed:3.117214ms+msg num:28
+
+-TRUE- msg num: 28
+getSPKVecElapsed: 20.082µs
+-TRUE- msg num: 12
+VUID:394  Elapsed:11.082549ms+msg num:12
+
+getSPKVecElapsed: 17.266µs
+VUID:395  Elapsed:6.024322ms+msg num:26
+
+-TRUE- msg num: 26
+getSPKVecElapsed: 8.424µs
+getSPKVecElapsed: 10.329µs
+getSPKVecElapsed: 10.042µs
+VUID:398  Elapsed:5.254072ms+msg num:12
+
+getSPKVecElapsed: 8.616µs
+-TRUE- msg num: 12
+-TRUE- msg num: 14
+-TRUE- msg num: 44
+VUID:399  Elapsed:2.093643ms+msg num:14
+
+VUID:399  Elapsed:2.113016ms+msg num:44
+
+-TRUE- msg num: 26
+VUID:399  Elapsed:5.120506ms+msg num:26
+
+VUID:399  Elapsed:6.023395ms+msg num:8
+
+-TRUE- msg num: 8
+-TRUE- msg num: 24
+getSPKVecElapsed: 6.605µs
+getSPKVecElapsed: 7.623µs
+-TRUE- msg num: 16
+-TRUE- msg num: 11
+getSPKVecElapsed: 12.629µs
+VUID:402  Elapsed:1.393962ms+msg num:16
+
+VUID:402  Elapsed:3.137236ms+msg num:11
+
+VUID:402  Elapsed:3.154927ms+msg num:24
+
+getSPKVecElapsed: 8.902µs
+-TRUE- msg num: 14
+VUID:403  Elapsed:12.629704ms+msg num:14
+
+-TRUE- msg num: 26
+VUID:403  Elapsed:30.803093ms+msg num:26
+
+getSPKVecElapsed: 5.243µs
+getSPKVecElapsed: 5.418µs
+getSPKVecElapsed: 13.612µs
+-TRUE- msg num: 5
+VUID:406  Elapsed:7.120322ms+msg num:5
+
+-TRUE- msg num: 29
+VUID:406  Elapsed:1.163146ms+msg num:29
+
+-TRUE- msg num: 21
+VUID:406  Elapsed:14.037569ms+msg num:21
+
+getSPKVecElapsed: 12.411µs
+-TRUE- msg num: 21
+VUID:407  Elapsed:9.462666ms+msg num:21
+
+getSPKVecElapsed: 7.639µs
+VUID:408  Elapsed:8.024314ms+msg num:7
+
+-TRUE- msg num: 7
+getSPKVecElapsed: 12.875µs
+-TRUE- msg num: 12
+VUID:409  Elapsed:4.720691ms+msg num:12
+
+-TRUE- msg num: 10
+VUID:409  Elapsed:17.664164ms+msg num:10
+
+-TRUE- msg num: 22
+VUID:409  Elapsed:25.614724ms+msg num:22
+
+getSPKVecElapsed: 10.894µs
+-TRUE- msg num: 32
+VUID:410  Elapsed:31.461729ms+msg num:32
+
+getSPKVecElapsed: 22.508µs
+VUID:411  Elapsed:819.472µs+msg num:26
+
+-TRUE- msg num: 26
+getSPKVecElapsed: 26.063µs
+getSPKVecElapsed: 17µs
+-TRUE- msg num: 18
+VUID:413  Elapsed:1.258325ms+msg num:18
+
+VUID:413  Elapsed:2.334578ms+msg num:27
+
+-TRUE- msg num: 27
+getSPKVecElapsed: 12.323µs
+getSPKVecElapsed: 29.805µs
+-TRUE- msg num: 42
+VUID:415  Elapsed:29.669671ms+msg num:42
+
+getSPKVecElapsed: 5.129µs
+getSPKVecElapsed: 164.554µs
+getSPKVecElapsed: 9.589µs
+-TRUE- msg num: 25
+VUID:418  Elapsed:14.364166ms+msg num:25
+
+getSPKVecElapsed: 228.699µs
+getSPKVecElapsed: 8.67µs
+-TRUE- msg num: 9
+VUID:420  Elapsed:11.127605ms+msg num:9
+
+getSPKVecElapsed: 12.54µs
+-TRUE- msg num: 18
+-TRUE- msg num: 11
+VUID:421  Elapsed:11.851176ms+msg num:11
+
+VUID:421  Elapsed:12.502617ms+msg num:18
+
+-TRUE- msg num: 32
+VUID:421  Elapsed:24.954501ms+msg num:5
+
+VUID:421  Elapsed:25.168134ms+msg num:29
+
+-TRUE- msg num: 29
+-TRUE- msg num: 5
+VUID:421  Elapsed:20.165591ms+msg num:32
+
+VUID:421  Elapsed:34.624236ms+msg num:39
+
+-TRUE- msg num: 39
+-TRUE- msg num: 42
+VUID:421  Elapsed:36.786579ms+msg num:42
+
+getSPKVecElapsed: 26.627µs
+getSPKVecElapsed: 17.602µs
+getSPKVecElapsed: 18.611µs
+-TRUE- msg num: 53
+-TRUE- msg num: 45
+VUID:424  Elapsed:17.742689ms+msg num:53
+
+VUID:424  Elapsed:11.492902ms+msg num:45
+
+getSPKVecElapsed: 10.542µs
+-TRUE- msg num: 21
+VUID:425  Elapsed:24.157827ms+msg num:21
+
+getSPKVecElapsed: 10.425µs
+getSPKVecElapsed: 3.996µs
+getSPKVecElapsed: 5.645µs
+VUID:428  Elapsed:12.5512ms+msg num:19
+
+-TRUE- msg num: 19
+getSPKVecElapsed: 21.37µs
+getSPKVecElapsed: 12.549µs
+VUID:430  Elapsed:410.034µs+msg num:6
+
+-TRUE- msg num: 6
+-TRUE- msg num: 9
+VUID:430  Elapsed:1.302617ms+msg num:9
+
+getSPKVecElapsed: 19.280515ms
+getSPKVecElapsed: 81.937µs
+-TRUE- msg num: 30
+VUID:432  Elapsed:2.069458ms+msg num:30
+
+-TRUE- msg num: 19
+VUID:432  Elapsed:11.957661ms+msg num:19
+
+getSPKVecElapsed: 12.93439ms
+getSPKVecElapsed: 8.048µs
+VUID:434  Elapsed:134.024µs+msg num:16
+
+-TRUE- msg num: 16
+-TRUE- msg num: 62
+VUID:434  Elapsed:4.51223ms+msg num:62
+
+-TRUE- msg num: 14
+VUID:434  Elapsed:7.446083ms+msg num:14
+
+getSPKVecElapsed: 6.673µs
+getSPKVecElapsed: 12.124µs
+-TRUE- msg num: 12
+VUID:436  Elapsed:11.502447ms+msg num:12
+
+getSPKVecElapsed: 12.132µs
+-TRUE- msg num: 9
+VUID:437  Elapsed:5.564869ms+msg num:9
+
+getSPKVecElapsed: 13.235µs
+-TRUE- msg num: 43
+VUID:438  Elapsed:16.455916ms+msg num:43
+
+getSPKVecElapsed: 7.855µs
+getSPKVecElapsed: 3.838µs
+-TRUE- msg num: 16
+VUID:440  Elapsed:3.249062ms+msg num:16
+
+VUID:440  Elapsed:7.92231ms+msg num:6
+
+-TRUE- msg num: 6
+getSPKVecElapsed: 11.667µs
+-TRUE- msg num: 22
+getSPKVecElapsed: 15.559µs
+VUID:442  Elapsed:3.925442ms+msg num:22
+
+VUID:442  Elapsed:7.486469ms+msg num:12
+
+-TRUE- msg num: 12
+getSPKVecElapsed: 12.151µs
+-TRUE- msg num: 27
+-TRUE- msg num: 26
+VUID:443  Elapsed:7.380671ms+msg num:27
+
+VUID:443  Elapsed:8.440309ms+msg num:26
+
+getSPKVecElapsed: 8.661µs
+VUID:444  Elapsed:15.050586ms+msg num:15
+
+-TRUE- msg num: 15
+VUID:444  Elapsed:22.145711ms+msg num:16
+
+-TRUE- msg num: 16
+getSPKVecElapsed: 9.429µs
+getSPKVecElapsed: 10.768µs
+getSPKVecElapsed: 30.297µs
+VUID:447  Elapsed:78.295997ms+msg num:41
+
+VUID:447  Elapsed:78.416155ms+msg num:17
+
+-TRUE- msg num: 41
+-TRUE- msg num: 17
+-TRUE- msg num: 24
+VUID:447  Elapsed:8.530189ms+msg num:19
+
+-TRUE- msg num: 19
+VUID:447  Elapsed:51.507027ms+msg num:24
+
+getSPKVecElapsed: 24.711µs
+getSPKVecElapsed: 3.313µs
+getSPKVecElapsed: 3.835µs
+getSPKVecElapsed: 3.413µs
+getSPKVecElapsed: 2.771µs
+getSPKVecElapsed: 2.3µs
+getSPKVecElapsed: 13µs
+getSPKVecElapsed: 16.649µs
+getSPKVecElapsed: 9.828µs
+VUID:456  Elapsed:2.209883ms+msg num:18
+
+-TRUE- msg num: 18
+-TRUE- msg num: 20
+VUID:456  Elapsed:6.370712ms+msg num:20
+
+VUID:456  Elapsed:22.099836ms+msg num:24
+
+-TRUE- msg num: 24
+getSPKVecElapsed: 8.346µs
+VUID:457  Elapsed:2.199143ms+msg num:18
+
+-TRUE- msg num: 18
+getSPKVecElapsed: 10.735µs
+New Signer Recived
+New Signer [15 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [16 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 10
+VUID:458  Elapsed:30.61507ms+msg num:10
+
+VUID:458  Elapsed:31.49514ms+msg num:19
+
+-TRUE- msg num: 19
+New Signer [17 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 8.29µs
+New Signer Recived
+getSPKVecElapsed: 5.355µs
+getSPKVecElapsed: 12.224µs
+getSPKVecElapsed: 7.001µs
+-TRUE- msg num: 19
+VUID:462  Elapsed:5.670303ms+msg num:19
+
+-TRUE- msg num: 16
+VUID:462  Elapsed:35.928577ms+msg num:16
+
+getSPKVecElapsed: 10.52µs
+getSPKVecElapsed: 10.569µs
+VUID:464  Elapsed:7.140778ms+msg num:26
+
+getSPKVecElapsed: 4.678µs
+-TRUE- msg num: 26
+-TRUE- msg num: 13
+VUID:465  Elapsed:419.958µs+msg num:3
+
+-TRUE- msg num: 3
+-TRUE- msg num: 20
+-TRUE- msg num: 15
+VUID:465  Elapsed:2.636067ms+msg num:20
+
+VUID:465  Elapsed:2.706224ms+msg num:15
+
+VUID:465  Elapsed:6.863488ms+msg num:13
+
+getSPKVecElapsed: 18.655µs
+-TRUE- msg num: 19
+-TRUE- msg num: 16
+-TRUE- msg num: 32
+getSPKVecElapsed: 8.637µs
+-TRUE- msg num: 3
+VUID:466  Elapsed:24.612168ms+msg num:16
+
+VUID:466  Elapsed:24.621933ms+msg num:32
+
+VUID:466  Elapsed:24.545775ms+msg num:19
+
+getSPKVecElapsed: 3.482µs
+VUID:468  Elapsed:3.519308ms+msg num:3
+
+VUID:468  Elapsed:34.678942ms+msg num:23
+
+-TRUE- msg num: 23
+getSPKVecElapsed: 67.753µs
+getSPKVecElapsed: 36.677µs
+-TRUE- msg num: 12
+VUID:470  Elapsed:44.170207ms+msg num:12
+
+-TRUE- msg num: 40
+VUID:470  Elapsed:56.500465ms+msg num:40
+
+-TRUE- msg num: 33
+VUID:470  Elapsed:62.004807ms+msg num:33
+
+-TRUE- msg num: 34
+VUID:470  Elapsed:66.451515ms+msg num:34
+
+getSPKVecElapsed: 4.762µs
+getSPKVecElapsed: 38.459µs
+getSPKVecElapsed: 13.334µs
+getSPKVecElapsed: 14.076µs
+getSPKVecElapsed: 6.121µs
+getSPKVecElapsed: 3.629µs
+getSPKVecElapsed: 6.236µs
+getSPKVecElapsed: 22.034µs
+getSPKVecElapsed: 9.314µs
+getSPKVecElapsed: 7.884µs
+getSPKVecElapsed: 8.761µs
+getSPKVecElapsed: 7.832µs
+getSPKVecElapsed: 11.752µs
+getSPKVecElapsed: 11.955µs
+getSPKVecElapsed: 8.844µs
+getSPKVecElapsed: 7.903µs
+-TRUE- msg num: 14
+-TRUE- msg num: 21
+-TRUE- msg num: 61
+getSPKVecElapsed: 19.005µs
+getSPKVecElapsed: 150.798µs
+-TRUE- msg num: 23
+VUID:488  Elapsed:8.266568ms+msg num:23
+
+VUID:488  Elapsed:9.807045ms+msg num:14
+
+VUID:488  Elapsed:12.253305ms+msg num:21
+
+-TRUE- msg num: 14
+VUID:488  Elapsed:14.13003ms+msg num:14
+
+VUID:488  Elapsed:14.37484ms+msg num:61
+
+getSPKVecElapsed: 6.72µs
+-TRUE- msg num: 10
+VUID:489  Elapsed:11.892515ms+msg num:10
+
+getSPKVecElapsed: 12.992µs
+getSPKVecElapsed: 7.057µs
+-TRUE- msg num: 10
+VUID:491  Elapsed:13.600081ms+msg num:10
+
+-TRUE- msg num: 14
+VUID:491  Elapsed:15.133089ms+msg num:14
+
+getSPKVecElapsed: 7.214µs
+getSPKVecElapsed: 18.203µs
+VUID:493  Elapsed:18.784355ms+msg num:19
+
+-TRUE- msg num: 19
+getSPKVecElapsed: 19.138µs
+-TRUE- msg num: 26
+-TRUE- msg num: 20
+-TRUE- msg num: 14
+-TRUE- msg num: 50
+-TRUE- msg num: 20
+VUID:494  Elapsed:31.502956ms+msg num:50
+
+VUID:494  Elapsed:31.521479ms+msg num:20
+
+VUID:494  Elapsed:31.537983ms+msg num:14
+
+-TRUE- msg num: 41
+VUID:494  Elapsed:32.894777ms+msg num:41
+
+-TRUE- msg num: 34
+getSPKVecElapsed: 9.081µs
+-TRUE- msg num: 35
+VUID:494  Elapsed:33.883393ms+msg num:26
+
+-TRUE- msg num: 37
+VUID:495  Elapsed:9.017651ms+msg num:37
+
+-TRUE- msg num: 43
+VUID:495  Elapsed:9.680571ms+msg num:43
+
+VUID:494  Elapsed:33.902321ms+msg num:20
+
+VUID:494  Elapsed:60.797529ms+msg num:34
+
+VUID:494  Elapsed:87.832697ms+msg num:35
+
+-TRUE- msg num: 9
+VUID:495  Elapsed:25.3723ms+msg num:9
+
+getSPKVecElapsed: 10.117µs
+getSPKVecElapsed: 7.196µs
+getSPKVecElapsed: 11.058µs
+getSPKVecElapsed: 3.232µs
+getSPKVecElapsed: 9.358µs
+-TRUE- msg num: 19
+getSPKVecElapsed: 30.099µs
+-TRUE- msg num: 12
+-TRUE- msg num: 21
+VUID:499  Elapsed:39.864182ms+msg num:19
+
+VUID:500  Elapsed:6.221567ms+msg num:12
+
+VUID:500  Elapsed:13.866579ms+msg num:21
+
+getSPKVecElapsed: 12.203µs
+getSPKVecElapsed: 8.821µs
+getSPKVecElapsed: 4.044µs
+getSPKVecElapsed: 11.551µs
+getSPKVecElapsed: 9.243µs
+getSPKVecElapsed: 2.538µs
+-TRUE- msg num: 81
+VUID:507  Elapsed:15.94704ms+msg num:81
+
+-TRUE- msg num: 35
+VUID:507  Elapsed:16.412146ms+msg num:35
+
+getSPKVecElapsed: 16.37µs
+getSPKVecElapsed: 18.911µs
+getSPKVecElapsed: 82.980429ms
+getSPKVecElapsed: 4.898µs
+-TRUE- msg num: 28
+-TRUE- msg num: 28
+VUID:511  Elapsed:415.347µs+msg num:28
+
+-TRUE- msg num: 29
+VUID:511  Elapsed:455.665µs+msg num:29
+
+-TRUE- msg num: 28
+-TRUE- msg num: 15
+-TRUE- msg num: 20
+-TRUE- msg num: 18
+-TRUE- msg num: 15
+getSPKVecElapsed: 3.77µs
+VUID:511  Elapsed:1.085854ms+msg num:18
+
+getSPKVecElapsed: 7.56µs
+getSPKVecElapsed: 1.12µs
+VUID:511  Elapsed:1.217823ms+msg num:15
+
+-TRUE- msg num: 12
+VUID:514  Elapsed:657.388µs+msg num:12
+
+getSPKVecElapsed: 9.318µs
+VUID:515  Elapsed:25.158003ms+msg num:190
+
+-TRUE- msg num: 190
+-TRUE- msg num: 21
+VUID:515  Elapsed:29.205401ms+msg num:21
+
+getSPKVecElapsed: 14.961µs
+VUID:516  Elapsed:6.022576ms+msg num:28
+
+-TRUE- msg num: 18
+VUID:516  Elapsed:9.187876ms+msg num:18
+
+VUID:516  Elapsed:9.433831ms+msg num:15
+
+VUID:516  Elapsed:9.535762ms+msg num:20
+
+VUID:516  Elapsed:15.941761ms+msg num:28
+
+getSPKVecElapsed: 15.047µs
+VUID:517  Elapsed:4.809687ms+msg num:3
+
+-TRUE- msg num: 3
+getSPKVecElapsed: 88.95µs
+-TRUE- msg num: 38
+VUID:518  Elapsed:40.833551ms+msg num:38
+
+VUID:518  Elapsed:47.61446ms+msg num:32
+
+-TRUE- msg num: 32
+getSPKVecElapsed: 10.938µs
+getSPKVecElapsed: 9.6µs
+getSPKVecElapsed: 677.553µs
+-TRUE- msg num: 17
+New Signer Recived
+-TRUE- msg num: 31
+VUID:521  Elapsed:226.352516ms+msg num:31
+
+-TRUE- msg num: 35
+VUID:521  Elapsed:226.960287ms+msg num:35
+
+-TRUE- msg num: 28
+VUID:521  Elapsed:227.515129ms+msg num:28
+
+-TRUE- msg num: 8
+-TRUE- msg num: 48
+VUID:521  Elapsed:227.917769ms+msg num:48
+
+-TRUE- msg num: 29
+VUID:521  Elapsed:229.080827ms+msg num:29
+
+VUID:521  Elapsed:229.563873ms+msg num:8
+
+VUID:521  Elapsed:229.913188ms+msg num:26
+
+-TRUE- msg num: 26
+New Signer [18 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 34
+-TRUE- msg num: 42
+New Signer Recived
+New Signer [19 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [20 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [21 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [22 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 24
+New Signer Recived
+VUID:521  Elapsed:233.281385ms+msg num:24
+
+VUID:521  Elapsed:230.151346ms+msg num:34
+
+VUID:521  Elapsed:230.187097ms+msg num:42
+
+New Signer [23 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 20.923µs
+VUID:522  Elapsed:17.25361ms+msg num:17
+
+getSPKVecElapsed: 52.986µs
+New Signer Recived
+New Signer [24 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 15.271µs
+New Signer Recived
+New Signer [25 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 79.016µs
+New Signer Recived
+New Signer [26 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 19.81µs
+New Signer Recived
+New Signer [27 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [28 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 2.628µs
+getSPKVecElapsed: 20.826µs
+getSPKVecElapsed: 62.689033ms
+getSPKVecElapsed: 61.443µs
+getSPKVecElapsed: 224.232µs
+-TRUE- msg num: 65
+-TRUE- msg num: 3
+VUID:531  Elapsed:89.746194ms+msg num:65
+
+VUID:531  Elapsed:91.750014ms+msg num:3
+
+-TRUE- msg num: 263
+VUID:531  Elapsed:110.725027ms+msg num:263
+
+getSPKVecElapsed: 45.025µs
+getSPKVecElapsed: 17.357µs
+getSPKVecElapsed: 26.745µs
+VUID:534  Elapsed:174.446µs+msg num:17
+
+-TRUE- msg num: 17
+getSPKVecElapsed: 36.345µs
+getSPKVecElapsed: 3.661685ms
+-TRUE- msg num: 39
+getSPKVecElapsed: 48.077µs
+getSPKVecElapsed: 11.36µs
+getSPKVecElapsed: 4.862µs
+getSPKVecElapsed: 9.666µs
+New Signer Recived
+VUID:540  Elapsed:476.955µs+msg num:39
+
+New Signer [29 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 7.857µs
+getSPKVecElapsed: 18.227µs
+getSPKVecElapsed: 7.098µs
+getSPKVecElapsed: 13.038µs
+getSPKVecElapsed: 21.015µs
+getSPKVecElapsed: 4.517µs
+getSPKVecElapsed: 32.415µs
+getSPKVecElapsed: 39.33µs
+getSPKVecElapsed: 17.708µs
+getSPKVecElapsed: 24.49µs
+getSPKVecElapsed: 139.607µs
+getSPKVecElapsed: 6.67µs
+getSPKVecElapsed: 15.72µs
+getSPKVecElapsed: 4.627µs
+getSPKVecElapsed: 16.542µs
+getSPKVecElapsed: 9.339µs
+getSPKVecElapsed: 9.906µs
+getSPKVecElapsed: 4.718µs
+getSPKVecElapsed: 2.274µs
+-TRUE- msg num: 109
+-TRUE- msg num: 11
+VUID:559  Elapsed:298.693966ms+msg num:11
+
+VUID:559  Elapsed:299.164292ms+msg num:59
+
+-TRUE- msg num: 59
+-TRUE- msg num: 57
+-TRUE- msg num: 37
+VUID:559  Elapsed:299.430655ms+msg num:37
+
+-TRUE- msg num: 21
+VUID:559  Elapsed:301.461688ms+msg num:109
+
+VUID:559  Elapsed:301.66854ms+msg num:57
+
+VUID:559  Elapsed:301.7557ms+msg num:21
+
+getSPKVecElapsed: 15.745µs
+-TRUE- msg num: 58
+VUID:560  Elapsed:13.924427ms+msg num:14
+
+-TRUE- msg num: 14
+getSPKVecElapsed: 8.893µs
+getSPKVecElapsed: 10.179µs
+getSPKVecElapsed: 6.094µs
+-TRUE- msg num: 25
+-TRUE- msg num: 192
+-TRUE- msg num: 10
+VUID:563  Elapsed:52.419457ms+msg num:10
+
+-TRUE- msg num: 34
+-TRUE- msg num: 43
+-TRUE- msg num: 42
+VUID:560  Elapsed:69.928849ms+msg num:58
+
+VUID:563  Elapsed:286.939709ms+msg num:7
+
+-TRUE- msg num: 7
+getSPKVecElapsed: 20.299µs
+getSPKVecElapsed: 10.669µs
+getSPKVecElapsed: 16.613µs
+-TRUE- msg num: 27
+-TRUE- msg num: 23
+-TRUE- msg num: 311
+-TRUE- msg num: 23
+VUID:565  Elapsed:18.95803ms+msg num:27
+
+VUID:565  Elapsed:26.608646ms+msg num:25
+
+VUID:565  Elapsed:26.634494ms+msg num:192
+
+VUID:565  Elapsed:26.69936ms+msg num:34
+
+VUID:565  Elapsed:26.701676ms+msg num:43
+
+VUID:565  Elapsed:26.704104ms+msg num:42
+
+VUID:565  Elapsed:50.207346ms+msg num:23
+
+VUID:565  Elapsed:80.767406ms+msg num:311
+
+VUID:565  Elapsed:103.463041ms+msg num:23
+
+getSPKVecElapsed: 11.822µs
+getSPKVecElapsed: 6.392µs
+getSPKVecElapsed: 13.906µs
+getSPKVecElapsed: 3.772µs
+getSPKVecElapsed: 13.892µs
+getSPKVecElapsed: 4.469µs
+getSPKVecElapsed: 6.428µs
+getSPKVecElapsed: 10.297µs
+getSPKVecElapsed: 9.18µs
+getSPKVecElapsed: 10.436µs
+getSPKVecElapsed: 6.683µs
+getSPKVecElapsed: 9.519µs
+getSPKVecElapsed: 3.718µs
+getSPKVecElapsed: 13.692µs
+getSPKVecElapsed: 9.839µs
+getSPKVecElapsed: 10.599µs
+getSPKVecElapsed: 6.129µs
+getSPKVecElapsed: 13.847µs
+getSPKVecElapsed: 840ns
+getSPKVecElapsed: 39.503µs
+getSPKVecElapsed: 5.318µs
+getSPKVecElapsed: 5.032µs
+getSPKVecElapsed: 5.352µs
+getSPKVecElapsed: 1.803µs
+getSPKVecElapsed: 16.821µs
+getSPKVecElapsed: 5.823µs
+getSPKVecElapsed: 9.386µs
+getSPKVecElapsed: 274.344µs
+getSPKVecElapsed: 4.117µs
+getSPKVecElapsed: 15.235µs
+getSPKVecElapsed: 4.92µs
+getSPKVecElapsed: 10.724µs
+getSPKVecElapsed: 15.188µs
+getSPKVecElapsed: 66.513µs
+getSPKVecElapsed: 6.304µs
+getSPKVecElapsed: 5.046µs
+getSPKVecElapsed: 7.127µs
+getSPKVecElapsed: 14.27µs
+-TRUE- msg num: 275
+-TRUE- msg num: 22
+-TRUE- msg num: 16
+VUID:604  Elapsed:329.759168ms+msg num:16
+
+VUID:604  Elapsed:345.525254ms+msg num:50
+
+-TRUE- msg num: 50
+-TRUE- msg num: 40
+VUID:604  Elapsed:361.913698ms+msg num:40
+
+VUID:604  Elapsed:367.847325ms+msg num:10
+
+-TRUE- msg num: 10
+-TRUE- msg num: 10
+VUID:604  Elapsed:377.856075ms+msg num:10
+
+VUID:604  Elapsed:378.146887ms+msg num:45
+
+VUID:604  Elapsed:378.31763ms+msg num:28
+
+-TRUE- msg num: 45
+-TRUE- msg num: 28
+-TRUE- msg num: 84
+-TRUE- msg num: 61
+VUID:604  Elapsed:382.124071ms+msg num:61
+
+VUID:604  Elapsed:382.408946ms+msg num:275
+
+VUID:604  Elapsed:382.480941ms+msg num:84
+
+-TRUE- msg num: 77
+-TRUE- msg num: 91
+-TRUE- msg num: 18
+VUID:604  Elapsed:382.678831ms+msg num:77
+
+VUID:604  Elapsed:382.823639ms+msg num:91
+
+VUID:604  Elapsed:382.919125ms+msg num:22
+
+-TRUE- msg num: 18
+-TRUE- msg num: 51
+-TRUE- msg num: 18
+-TRUE- msg num: 4
+-TRUE- msg num: 22
+VUID:604  Elapsed:384.934027ms+msg num:18
+
+VUID:604  Elapsed:385.64089ms+msg num:4
+
+VUID:604  Elapsed:385.77298ms+msg num:18
+
+-TRUE- msg num: 23
+VUID:604  Elapsed:438.822784ms+msg num:23
+
+VUID:604  Elapsed:466.257738ms+msg num:3
+
+-TRUE- msg num: 3
+VUID:604  Elapsed:392.931802ms+msg num:51
+
+VUID:604  Elapsed:392.9332ms+msg num:18
+
+getSPKVecElapsed: 10.674µs
+New Signer Recived
+-TRUE- msg num: 7
+New Signer [30 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 13.802µs
+VUID:606  Elapsed:32.459828ms+msg num:7
+
+getSPKVecElapsed: 29.754µs
+getSPKVecElapsed: 5.144µs
+-TRUE- msg num: 14
+-TRUE- msg num: 36
+VUID:608  Elapsed:118.810471ms+msg num:36
+
+VUID:608  Elapsed:163.707783ms+msg num:14
+
+VUID:604  Elapsed:408.07449ms+msg num:22
+
+-TRUE- msg num: 51
+VUID:608  Elapsed:234.867997ms+msg num:51
+
+getSPKVecElapsed: 234.954366ms
+getSPKVecElapsed: 38.908µs
+-TRUE- msg num: 28
+-TRUE- msg num: 63
+-TRUE- msg num: 57
+getSPKVecElapsed: 15.65µs
+VUID:611  Elapsed:1.388407ms+msg num:57
+
+getSPKVecElapsed: 257.53µs
+VUID:609  Elapsed:26.650978ms+msg num:28
+
+VUID:609  Elapsed:26.6641ms+msg num:63
+
+getSPKVecElapsed: 7.332µs
+getSPKVecElapsed: 6.298µs
+getSPKVecElapsed: 34.815µs
+-TRUE- msg num: 43
+VUID:615  Elapsed:17.578348ms+msg num:43
+
+getSPKVecElapsed: 27.052µs
+getSPKVecElapsed: 15.473µs
+getSPKVecElapsed: 10.313µs
+getSPKVecElapsed: 15.421µs
+-TRUE- msg num: 30
+-TRUE- msg num: 13
+-TRUE- msg num: 11
+-TRUE- msg num: 31
+getSPKVecElapsed: 4.719µs
+getSPKVecElapsed: 15.959µs
+getSPKVecElapsed: 149.097µs
+-TRUE- msg num: 32
+-TRUE- msg num: 32
+-TRUE- msg num: 91
+getSPKVecElapsed: 8.302µs
+getSPKVecElapsed: 7.13µs
+VUID:619  Elapsed:2.269908ms+msg num:11
+
+VUID:619  Elapsed:2.273654ms+msg num:31
+
+VUID:619  Elapsed:2.256831ms+msg num:30
+
+VUID:619  Elapsed:2.264153ms+msg num:13
+
+VUID:621  Elapsed:52.906807ms+msg num:32
+
+VUID:621  Elapsed:84.711855ms+msg num:32
+
+VUID:621  Elapsed:114.738849ms+msg num:91
+
+VUID:624  Elapsed:19.411853ms+msg num:32
+
+-TRUE- msg num: 32
+-TRUE- msg num: 56
+VUID:624  Elapsed:74.318862ms+msg num:56
+
+getSPKVecElapsed: 17.335µs
+getSPKVecElapsed: 5.162µs
+getSPKVecElapsed: 4.412µs
+getSPKVecElapsed: 17.517µs
+getSPKVecElapsed: 7.734µs
+getSPKVecElapsed: 13.835µs
+getSPKVecElapsed: 7.135µs
+getSPKVecElapsed: 5.897µs
+getSPKVecElapsed: 3.298µs
+getSPKVecElapsed: 234.411199ms
+getSPKVecElapsed: 5.663µs
+getSPKVecElapsed: 10.331µs
+getSPKVecElapsed: 17.125µs
+getSPKVecElapsed: 7.498µs
+getSPKVecElapsed: 14.228µs
+getSPKVecElapsed: 6.477µs
+getSPKVecElapsed: 10.81µs
+getSPKVecElapsed: 9.234µs
+getSPKVecElapsed: 6.737µs
+getSPKVecElapsed: 17.086µs
+getSPKVecElapsed: 10.565µs
+getSPKVecElapsed: 4.808µs
+getSPKVecElapsed: 4.84µs
+getSPKVecElapsed: 5.552µs
+getSPKVecElapsed: 2.424µs
+VUID:649  Elapsed:174.707557ms+msg num:28
+
+-TRUE- msg num: 86
+-TRUE- msg num: 10
+-TRUE- msg num: 28
+-TRUE- msg num: 17
+-TRUE- msg num: 28
+VUID:649  Elapsed:176.138523ms+msg num:28
+
+-TRUE- msg num: 65
+VUID:649  Elapsed:181.233953ms+msg num:65
+
+-TRUE- msg num: 73
+VUID:649  Elapsed:181.855382ms+msg num:73
+
+-TRUE- msg num: 4
+-TRUE- msg num: 17
+-TRUE- msg num: 21
+-TRUE- msg num: 9
+VUID:649  Elapsed:239.733395ms+msg num:9
+
+VUID:649  Elapsed:276.346292ms+msg num:42
+
+VUID:649  Elapsed:276.516153ms+msg num:33
+
+VUID:649  Elapsed:276.597425ms+msg num:57
+
+VUID:649  Elapsed:276.669131ms+msg num:25
+
+VUID:649  Elapsed:276.732114ms+msg num:22
+
+VUID:649  Elapsed:276.845213ms+msg num:38
+
+VUID:649  Elapsed:276.889583ms+msg num:10
+
+VUID:649  Elapsed:276.937494ms+msg num:17
+
+VUID:649  Elapsed:277.011766ms+msg num:15
+
+VUID:649  Elapsed:277.063083ms+msg num:4
+
+VUID:649  Elapsed:277.115112ms+msg num:17
+
+VUID:649  Elapsed:278.045427ms+msg num:21
+
+VUID:649  Elapsed:278.179847ms+msg num:14
+
+VUID:649  Elapsed:278.239554ms+msg num:11
+
+VUID:649  Elapsed:312.029898ms+msg num:52
+
+VUID:649  Elapsed:313.316888ms+msg num:34
+
+-TRUE- msg num: 42
+-TRUE- msg num: 33
+-TRUE- msg num: 57
+-TRUE- msg num: 25
+-TRUE- msg num: 22
+-TRUE- msg num: 38
+-TRUE- msg num: 15
+-TRUE- msg num: 14
+-TRUE- msg num: 11
+-TRUE- msg num: 52
+-TRUE- msg num: 34
+-TRUE- msg num: 7
+VUID:649  Elapsed:339.815366ms+msg num:7
+
+-TRUE- msg num: 65
+VUID:649  Elapsed:346.287677ms+msg num:65
+
+New Signer Recived
+New Signer Recived
+New Signer [31 0]  Append to Aggregator AID [1 0 0 0]
+VUID:649  Elapsed:900.138137ms+msg num:86
+
+-TRUE- msg num: 31
+-TRUE- msg num: 32
+VUID:649  Elapsed:909.347209ms+msg num:32
+
+-TRUE- msg num: 51
+VUID:649  Elapsed:909.948029ms+msg num:51
+
+-TRUE- msg num: 37
+-TRUE- msg num: 26
+-TRUE- msg num: 55
+-TRUE- msg num: 70
+-TRUE- msg num: 59
+-TRUE- msg num: 59
+-TRUE- msg num: 37
+-TRUE- msg num: 85
+-TRUE- msg num: 30
+VUID:649  Elapsed:910.163737ms+msg num:26
+
+VUID:649  Elapsed:910.247127ms+msg num:55
+
+VUID:649  Elapsed:910.399173ms+msg num:70
+
+VUID:649  Elapsed:910.477867ms+msg num:59
+
+VUID:649  Elapsed:910.554895ms+msg num:59
+
+VUID:649  Elapsed:910.768484ms+msg num:30
+
+VUID:649  Elapsed:911.079296ms+msg num:31
+
+VUID:649  Elapsed:911.09848ms+msg num:37
+
+VUID:649  Elapsed:911.110176ms+msg num:37
+
+VUID:649  Elapsed:911.113133ms+msg num:85
+
+VUID:649  Elapsed:911.699781ms+msg num:92
+
+-TRUE- msg num: 38
+-TRUE- msg num: 92
+VUID:649  Elapsed:911.792825ms+msg num:38
+
+New Signer [32 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 5.66µs
+getSPKVecElapsed: 9.582µs
+getSPKVecElapsed: 12.251µs
+getSPKVecElapsed: 20.385µs
+getSPKVecElapsed: 3.013µs
+getSPKVecElapsed: 4.142µs
+getSPKVecElapsed: 5.868µs
+-TRUE- msg num: 41
+VUID:655  Elapsed:1.80299ms+msg num:41
+
+getSPKVecElapsed: 4.529µs
+getSPKVecElapsed: 25.689µs
+getSPKVecElapsed: 12.823µs
+getSPKVecElapsed: 21.8µs
+getSPKVecElapsed: 8.303µs
+getSPKVecElapsed: 21.32µs
+getSPKVecElapsed: 9.146µs
+-TRUE- msg num: 6
+VUID:663  Elapsed:16.596638ms+msg num:6
+
+-TRUE- msg num: 5
+VUID:663  Elapsed:49.832451ms+msg num:5
+
+-TRUE- msg num: 25
+VUID:663  Elapsed:53.519917ms+msg num:25
+
+-TRUE- msg num: 82
+VUID:663  Elapsed:100.996539ms+msg num:82
+
+-TRUE- msg num: 28
+-TRUE- msg num: 14
+VUID:663  Elapsed:101.105088ms+msg num:14
+
+VUID:663  Elapsed:101.055523ms+msg num:28
+
+-TRUE- msg num: 34
+-TRUE- msg num: 63
+VUID:663  Elapsed:128.646306ms+msg num:34
+
+VUID:663  Elapsed:151.34986ms+msg num:63
+
+-TRUE- msg num: 25
+VUID:663  Elapsed:460.356007ms+msg num:25
+
+-TRUE- msg num: 56
+VUID:663  Elapsed:504.66301ms+msg num:56
+
+VUID:663  Elapsed:586.365276ms+msg num:23
+
+-TRUE- msg num: 23
+-TRUE- msg num: 54
+VUID:663  Elapsed:590.012123ms+msg num:54
+
+-TRUE- msg num: 64
+VUID:663  Elapsed:604.768724ms+msg num:64
+
+-TRUE- msg num: 50
+VUID:663  Elapsed:617.916615ms+msg num:50
+
+-TRUE- msg num: 53
+VUID:663  Elapsed:618.198298ms+msg num:53
+
+-TRUE- msg num: 29
+VUID:663  Elapsed:627.452852ms+msg num:29
+
+-TRUE- msg num: 59
+VUID:663  Elapsed:636.259258ms+msg num:59
+
+-TRUE- msg num: 138
+VUID:663  Elapsed:680.095939ms+msg num:138
+
+VUID:663  Elapsed:732.76348ms+msg num:23
+
+-TRUE- msg num: 23
+VUID:663  Elapsed:745.292322ms+msg num:14
+
+-TRUE- msg num: 14
+getSPKVecElapsed: 18.671µs
+getSPKVecElapsed: 13.744µs
+getSPKVecElapsed: 4.151µs
+getSPKVecElapsed: 8.897µs
+getSPKVecElapsed: 10.608µs
+getSPKVecElapsed: 4.431µs
+getSPKVecElapsed: 4.936µs
+getSPKVecElapsed: 5.744µs
+getSPKVecElapsed: 4.008µs
+getSPKVecElapsed: 2.421µs
+getSPKVecElapsed: 3.94µs
+getSPKVecElapsed: 4.44µs
+getSPKVecElapsed: 6.057µs
+getSPKVecElapsed: 2.607µs
+getSPKVecElapsed: 4.259µs
+getSPKVecElapsed: 4.434µs
+getSPKVecElapsed: 6.618µs
+getSPKVecElapsed: 2.705µs
+getSPKVecElapsed: 11.124µs
+getSPKVecElapsed: 5.554µs
+getSPKVecElapsed: 4.116µs
+getSPKVecElapsed: 197.346µs
+getSPKVecElapsed: 3.303µs
+getSPKVecElapsed: 13.003µs
+getSPKVecElapsed: 5.663µs
+getSPKVecElapsed: 13.672µs
+getSPKVecElapsed: 43.971µs
+getSPKVecElapsed: 5.069µs
+getSPKVecElapsed: 5.589µs
+getSPKVecElapsed: 4.184µs
+getSPKVecElapsed: 3.269µs
+getSPKVecElapsed: 13.438µs
+getSPKVecElapsed: 3.892µs
+New Signer Recived
+VUID:696  Elapsed:48.951043ms+msg num:21
+
+-TRUE- msg num: 21
+VUID:696  Elapsed:67.559105ms+msg num:99
+
+-TRUE- msg num: 99
+-TRUE- msg num: 13
+VUID:696  Elapsed:162.93694ms+msg num:13
+
+-TRUE- msg num: 79
+-TRUE- msg num: 54
+VUID:696  Elapsed:186.496817ms+msg num:54
+
+-TRUE- msg num: 94
+VUID:696  Elapsed:268.249176ms+msg num:11
+
+-TRUE- msg num: 11
+-TRUE- msg num: 28
+VUID:696  Elapsed:305.77205ms+msg num:28
+
+VUID:696  Elapsed:468.390715ms+msg num:74
+
+VUID:696  Elapsed:468.598295ms+msg num:23
+
+-TRUE- msg num: 124
+-TRUE- msg num: 74
+-TRUE- msg num: 21
+-TRUE- msg num: 23
+VUID:696  Elapsed:564.788756ms+msg num:79
+
+VUID:696  Elapsed:564.990457ms+msg num:94
+
+-TRUE- msg num: 20
+-TRUE- msg num: 20
+VUID:696  Elapsed:604.476193ms+msg num:20
+
+-TRUE- msg num: 37
+VUID:696  Elapsed:605.491765ms+msg num:37
+
+VUID:696  Elapsed:629.945096ms+msg num:20
+
+-TRUE- msg num: 83
+-TRUE- msg num: 76
+VUID:696  Elapsed:640.476877ms+msg num:83
+
+VUID:696  Elapsed:642.826195ms+msg num:124
+
+VUID:696  Elapsed:688.147146ms+msg num:76
+
+-TRUE- msg num: 25
+VUID:696  Elapsed:708.840696ms+msg num:21
+
+VUID:696  Elapsed:710.687777ms+msg num:45
+
+-TRUE- msg num: 45
+VUID:696  Elapsed:711.257156ms+msg num:25
+
+New Signer [33 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 16
+New Signer Recived
+-TRUE- msg num: 12
+-TRUE- msg num: 33
+-TRUE- msg num: 22
+VUID:696  Elapsed:959.561566ms+msg num:191
+
+VUID:696  Elapsed:959.949318ms+msg num:17
+
+VUID:696  Elapsed:960.101894ms+msg num:77
+
+VUID:696  Elapsed:960.236621ms+msg num:90
+
+VUID:696  Elapsed:960.619185ms+msg num:12
+
+VUID:696  Elapsed:960.779109ms+msg num:16
+
+VUID:696  Elapsed:960.855329ms+msg num:33
+
+VUID:696  Elapsed:960.950351ms+msg num:22
+
+VUID:696  Elapsed:961.13422ms+msg num:26
+
+VUID:696  Elapsed:961.201908ms+msg num:60
+
+VUID:696  Elapsed:961.250249ms+msg num:25
+
+-TRUE- msg num: 25
+-TRUE- msg num: 191
+-TRUE- msg num: 17
+-TRUE- msg num: 77
+-TRUE- msg num: 90
+-TRUE- msg num: 26
+-TRUE- msg num: 60
+New Signer [34 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [35 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 7.813µs
+-TRUE- msg num: 25
+New Signer Recived
+VUID:696  Elapsed:893.199µs+msg num:25
+
+New Signer [36 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 26.98µs
+getSPKVecElapsed: 17.573µs
+getSPKVecElapsed: 20.953µs
+-TRUE- msg num: 29
+-TRUE- msg num: 23
+VUID:700  Elapsed:45.172506ms+msg num:23
+
+VUID:700  Elapsed:45.154732ms+msg num:29
+
+VUID:700  Elapsed:52.37322ms+msg num:23
+
+-TRUE- msg num: 23
+VUID:700  Elapsed:64.54481ms+msg num:20
+
+-TRUE- msg num: 20
+VUID:700  Elapsed:153.261967ms+msg num:46
+
+VUID:700  Elapsed:153.3382ms+msg num:25
+
+-TRUE- msg num: 46
+-TRUE- msg num: 25
+-TRUE- msg num: 131
+VUID:700  Elapsed:155.873763ms+msg num:131
+
+-TRUE- msg num: 45
+VUID:700  Elapsed:156.469688ms+msg num:45
+
+VUID:700  Elapsed:166.354392ms+msg num:66
+
+-TRUE- msg num: 66
+-TRUE- msg num: 19
+VUID:700  Elapsed:183.023868ms+msg num:19
+
+-TRUE- msg num: 18
+-TRUE- msg num: 30
+VUID:700  Elapsed:189.325997ms+msg num:18
+
+VUID:700  Elapsed:317.410956ms+msg num:30
+
+VUID:700  Elapsed:317.972392ms+msg num:31
+
+-TRUE- msg num: 31
+getSPKVecElapsed: 18.19µs
+getSPKVecElapsed: 13.018µs
+getSPKVecElapsed: 12.862µs
+getSPKVecElapsed: 24.399µs
+getSPKVecElapsed: 1.621µs
+VUID:705  Elapsed:17.46627ms+msg num:31
+
+-TRUE- msg num: 31
+getSPKVecElapsed: 11.322µs
+-TRUE- msg num: 3
+-TRUE- msg num: 47
+getSPKVecElapsed: 27.934µs
+getSPKVecElapsed: 5.816µs
+getSPKVecElapsed: 3.679µs
+getSPKVecElapsed: 3.426µs
+getSPKVecElapsed: 6.879µs
+getSPKVecElapsed: 2.528µs
+VUID:705  Elapsed:47.534165ms+msg num:3
+
+getSPKVecElapsed: 45.762µs
+getSPKVecElapsed: 4.275µs
+VUID:705  Elapsed:50.974417ms+msg num:47
+
+getSPKVecElapsed: 3.628169ms
+-TRUE- msg num: 20
+-TRUE- msg num: 14
+getSPKVecElapsed: 14.378µs
+getSPKVecElapsed: 12.352µs
+getSPKVecElapsed: 6.727103ms
+getSPKVecElapsed: 10.18µs
+VUID:714  Elapsed:93.974522ms+msg num:14
+
+VUID:714  Elapsed:82.851353ms+msg num:20
+
+getSPKVecElapsed: 14.155µs
+getSPKVecElapsed: 1.681µs
+getSPKVecElapsed: 6.439µs
+getSPKVecElapsed: 8.849µs
+getSPKVecElapsed: 3.64µs
+getSPKVecElapsed: 20.769µs
+getSPKVecElapsed: 12.206µs
+-TRUE- msg num: 53
+VUID:726  Elapsed:7.017874ms+msg num:53
+
+-TRUE- msg num: 60
+VUID:726  Elapsed:33.556142ms+msg num:60
+
+-TRUE- msg num: 7
+VUID:726  Elapsed:36.857468ms+msg num:7
+
+getSPKVecElapsed: 12.527µs
+getSPKVecElapsed: 25.698µs
+getSPKVecElapsed: 25.871µs
+getSPKVecElapsed: 14.193µs
+-TRUE- msg num: 6
+-TRUE- msg num: 42
+VUID:730  Elapsed:21.055931ms+msg num:42
+
+-TRUE- msg num: 23
+VUID:730  Elapsed:21.175609ms+msg num:23
+
+getSPKVecElapsed: 63.692µs
+-TRUE- msg num: 14
+getSPKVecElapsed: 13.8µs
+VUID:732  Elapsed:3.247552ms+msg num:14
+
+-TRUE- msg num: 42
+-TRUE- msg num: 68
+-TRUE- msg num: 43
+-TRUE- msg num: 72
+-TRUE- msg num: 18
+-TRUE- msg num: 40
+-TRUE- msg num: 26
+-TRUE- msg num: 13
+-TRUE- msg num: 70
+VUID:732  Elapsed:18.666207ms+msg num:42
+
+VUID:732  Elapsed:18.782452ms+msg num:68
+
+VUID:732  Elapsed:23.183682ms+msg num:43
+
+VUID:732  Elapsed:25.365451ms+msg num:72
+
+VUID:732  Elapsed:25.965056ms+msg num:18
+
+VUID:732  Elapsed:28.320819ms+msg num:40
+
+VUID:732  Elapsed:28.586224ms+msg num:26
+
+getSPKVecElapsed: 35.221µs
+getSPKVecElapsed: 18.841µs
+VUID:734  Elapsed:325.503µs+msg num:13
+
+VUID:734  Elapsed:552.167µs+msg num:70
+
+getSPKVecElapsed: 9µs
+getSPKVecElapsed: 35.499574ms
+getSPKVecElapsed: 8.866µs
+-TRUE- msg num: 24
+VUID:737  Elapsed:50.31808ms+msg num:24
+
+getSPKVecElapsed: 21.034µs
+-TRUE- msg num: 26
+-TRUE- msg num: 25
+-TRUE- msg num: 112
+-TRUE- msg num: 46
+getSPKVecElapsed: 12.959µs
+getSPKVecElapsed: 25.065µs
+getSPKVecElapsed: 25.871µs
+getSPKVecElapsed: 4.597µs
+getSPKVecElapsed: 11.684µs
+getSPKVecElapsed: 12.43µs
+getSPKVecElapsed: 4.908µs
+getSPKVecElapsed: 7.057µs
+getSPKVecElapsed: 68.387µs
+VUID:747  Elapsed:67.379µs+msg num:18
+
+-TRUE- msg num: 18
+VUID:747  Elapsed:28.686453ms+msg num:6
+
+-TRUE- msg num: 13
+VUID:737  Elapsed:105.190706ms+msg num:112
+
+VUID:737  Elapsed:57.17715ms+msg num:26
+
+VUID:747  Elapsed:95.551581ms+msg num:13
+
+VUID:737  Elapsed:76.904889ms+msg num:25
+
+VUID:737  Elapsed:105.111943ms+msg num:46
+
+-TRUE- msg num: 29
+-TRUE- msg num: 11
+-TRUE- msg num: 41
+-TRUE- msg num: 61
+-TRUE- msg num: 35
+-TRUE- msg num: 54
+getSPKVecElapsed: 14.193µs
+VUID:747  Elapsed:313.97042ms+msg num:11
+
+VUID:747  Elapsed:318.145808ms+msg num:61
+
+VUID:747  Elapsed:357.00437ms+msg num:29
+
+VUID:747  Elapsed:358.056356ms+msg num:35
+
+VUID:747  Elapsed:366.407214ms+msg num:54
+
+VUID:747  Elapsed:314.656114ms+msg num:41
+
+getSPKVecElapsed: 122.563µs
+-TRUE- msg num: 178
+VUID:749  Elapsed:351.223µs+msg num:178
+
+-TRUE- msg num: 21
+-TRUE- msg num: 53
+-TRUE- msg num: 62
+-TRUE- msg num: 150
+VUID:749  Elapsed:142.912133ms+msg num:150
+
+-TRUE- msg num: 48
+-TRUE- msg num: 27
+-TRUE- msg num: 85
+-TRUE- msg num: 85
+-TRUE- msg num: 141
+-TRUE- msg num: 114
+-TRUE- msg num: 31
+-TRUE- msg num: 213
+-TRUE- msg num: 173
+-TRUE- msg num: 32
+-TRUE- msg num: 45
+getSPKVecElapsed: 13.706µs
+getSPKVecElapsed: 7.11µs
+getSPKVecElapsed: 6.161µs
+getSPKVecElapsed: 5.709µs
+getSPKVecElapsed: 7.283µs
+getSPKVecElapsed: 6.971µs
+getSPKVecElapsed: 2.93µs
+getSPKVecElapsed: 7.302µs
+getSPKVecElapsed: 25.709µs
+VUID:758  Elapsed:1.992483ms+msg num:21
+
+getSPKVecElapsed: 22.853µs
+getSPKVecElapsed: 3.799µs
+getSPKVecElapsed: 19.989µs
+getSPKVecElapsed: 4.301µs
+getSPKVecElapsed: 3.618µs
+getSPKVecElapsed: 4.381µs
+getSPKVecElapsed: 6.244µs
+getSPKVecElapsed: 7.29µs
+getSPKVecElapsed: 31.87µs
+getSPKVecElapsed: 12.638µs
+getSPKVecElapsed: 6.885µs
+getSPKVecElapsed: 5.259µs
+getSPKVecElapsed: 66.5µs
+getSPKVecElapsed: 17.537µs
+getSPKVecElapsed: 12.374µs
+getSPKVecElapsed: 7.282µs
+-TRUE- msg num: 7
+VUID:774  Elapsed:57.505054ms+msg num:7
+
+VUID:774  Elapsed:80.255623ms+msg num:48
+
+-TRUE- msg num: 48
+New Signer Recived
+-TRUE- msg num: 27
+getSPKVecElapsed: 17.277µs
+getSPKVecElapsed: 8.587µs
+getSPKVecElapsed: 6.884µs
+getSPKVecElapsed: 13.502µs
+VUID:778  Elapsed:21.790683ms+msg num:27
+
+VUID:778  Elapsed:85.806845ms+msg num:34
+
+-TRUE- msg num: 34
+VUID:778  Elapsed:88.913173ms+msg num:53
+
+VUID:778  Elapsed:90.564136ms+msg num:62
+
+VUID:778  Elapsed:90.636219ms+msg num:48
+
+VUID:778  Elapsed:90.638926ms+msg num:27
+
+VUID:778  Elapsed:90.642618ms+msg num:85
+
+VUID:778  Elapsed:90.646094ms+msg num:85
+
+VUID:778  Elapsed:90.648951ms+msg num:141
+
+VUID:778  Elapsed:90.651618ms+msg num:114
+
+VUID:778  Elapsed:90.65456ms+msg num:31
+
+VUID:778  Elapsed:90.658039ms+msg num:213
+
+VUID:778  Elapsed:90.660712ms+msg num:173
+
+VUID:778  Elapsed:90.663116ms+msg num:32
+
+VUID:778  Elapsed:90.665114ms+msg num:45
+
+VUID:778  Elapsed:114.334493ms+msg num:30
+
+-TRUE- msg num: 30
+VUID:778  Elapsed:172.334038ms+msg num:25
+
+VUID:778  Elapsed:172.876731ms+msg num:31
+
+-TRUE- msg num: 25
+-TRUE- msg num: 31
+VUID:778  Elapsed:499.134788ms+msg num:26
+
+VUID:778  Elapsed:499.73705ms+msg num:34
+
+-TRUE- msg num: 26
+-TRUE- msg num: 34
+-TRUE- msg num: 41
+VUID:778  Elapsed:499.82978ms+msg num:41
+
+-TRUE- msg num: 22
+-TRUE- msg num: 77
+-TRUE- msg num: 21
+-TRUE- msg num: 23
+-TRUE- msg num: 12
+VUID:778  Elapsed:499.879874ms+msg num:22
+
+VUID:778  Elapsed:499.931907ms+msg num:77
+
+VUID:778  Elapsed:499.980225ms+msg num:21
+
+VUID:778  Elapsed:500.040585ms+msg num:23
+
+VUID:778  Elapsed:500.159077ms+msg num:12
+
+New Signer [37 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [38 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 25.843µs
+getSPKVecElapsed: 8.612µs
+New Signer Recived
+New Signer Recived
+New Signer [39 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [40 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 10.542µs
+getSPKVecElapsed: 49.216µs
+VUID:782  Elapsed:75.315733ms+msg num:22
+
+-TRUE- msg num: 22
+-TRUE- msg num: 25
+VUID:782  Elapsed:89.782874ms+msg num:25
+
+-TRUE- msg num: 51
+-TRUE- msg num: 33
+-TRUE- msg num: 30
+-TRUE- msg num: 29
+-TRUE- msg num: 22
+VUID:782  Elapsed:537.626897ms+msg num:51
+
+VUID:782  Elapsed:537.975269ms+msg num:33
+
+VUID:782  Elapsed:538.22117ms+msg num:30
+
+VUID:782  Elapsed:538.350745ms+msg num:29
+
+VUID:782  Elapsed:538.372101ms+msg num:22
+
+VUID:782  Elapsed:538.427718ms+msg num:28
+
+VUID:782  Elapsed:538.454177ms+msg num:69
+
+VUID:782  Elapsed:538.491422ms+msg num:35
+
+VUID:782  Elapsed:538.521902ms+msg num:35
+
+-TRUE- msg num: 28
+-TRUE- msg num: 69
+-TRUE- msg num: 35
+-TRUE- msg num: 35
+getSPKVecElapsed: 28.277µs
+getSPKVecElapsed: 15.754µs
+New Signer Recived
+New Signer [41 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 38.342µs
+getSPKVecElapsed: 32.793µs
+getSPKVecElapsed: 15.816µs
+getSPKVecElapsed: 8.038µs
+getSPKVecElapsed: 3.888µs
+getSPKVecElapsed: 3.798µs
+getSPKVecElapsed: 61.214µs
+getSPKVecElapsed: 50.024µs
+-TRUE- msg num: 54
+-TRUE- msg num: 18
+-TRUE- msg num: 35
+VUID:792  Elapsed:61.914325ms+msg num:35
+
+getSPKVecElapsed: 27.959482ms
+-TRUE- msg num: 41
+VUID:792  Elapsed:145.015035ms+msg num:41
+
+-TRUE- msg num: 101
+VUID:792  Elapsed:225.460996ms+msg num:101
+
+-TRUE- msg num: 35
+VUID:792  Elapsed:236.817808ms+msg num:35
+
+-TRUE- msg num: 52
+VUID:792  Elapsed:246.826152ms+msg num:52
+
+VUID:792  Elapsed:272.493048ms+msg num:39
+
+-TRUE- msg num: 39
+-TRUE- msg num: 30
+-TRUE- msg num: 91
+VUID:792  Elapsed:515.31974ms+msg num:91
+
+-TRUE- msg num: 72
+VUID:792  Elapsed:515.824418ms+msg num:72
+
+VUID:792  Elapsed:517.255895ms+msg num:54
+
+-TRUE- msg num: 53
+VUID:792  Elapsed:518.483812ms+msg num:53
+
+VUID:792  Elapsed:517.408822ms+msg num:18
+
+-TRUE- msg num: 33
+VUID:792  Elapsed:515.220947ms+msg num:30
+
+-TRUE- msg num: 36
+VUID:793  Elapsed:121.236279ms+msg num:36
+
+getSPKVecElapsed: 54.537µs
+getSPKVecElapsed: 16.948µs
+getSPKVecElapsed: 20.18µs
+getSPKVecElapsed: 14.327µs
+getSPKVecElapsed: 6.836µs
+getSPKVecElapsed: 9.678µs
+getSPKVecElapsed: 8.018µs
+getSPKVecElapsed: 6.792µs
+getSPKVecElapsed: 4.823µs
+getSPKVecElapsed: 5.344µs
+getSPKVecElapsed: 17.882µs
+getSPKVecElapsed: 7.537µs
+-TRUE- msg num: 24
+-TRUE- msg num: 46
+VUID:805  Elapsed:45.224714ms+msg num:46
+
+-TRUE- msg num: 45
+VUID:805  Elapsed:52.071564ms+msg num:45
+
+-TRUE- msg num: 53
+VUID:805  Elapsed:108.739322ms+msg num:53
+
+VUID:793  Elapsed:144.848982ms+msg num:33
+
+getSPKVecElapsed: 19.122µs
+getSPKVecElapsed: 16.427µs
+getSPKVecElapsed: 67.681µs
+getSPKVecElapsed: 5.964µs
+getSPKVecElapsed: 1.405µs
+getSPKVecElapsed: 4.109µs
+getSPKVecElapsed: 4.302µs
+getSPKVecElapsed: 16.511µs
+getSPKVecElapsed: 4.512µs
+getSPKVecElapsed: 5.778µs
+getSPKVecElapsed: 11.267µs
+getSPKVecElapsed: 5.511µs
+getSPKVecElapsed: 12.757µs
+-TRUE- msg num: 7
+getSPKVecElapsed: 8.597µs
+getSPKVecElapsed: 7.873µs
+getSPKVecElapsed: 17.524µs
+getSPKVecElapsed: 14.637µs
+getSPKVecElapsed: 5.705µs
+getSPKVecElapsed: 13.877µs
+getSPKVecElapsed: 66.573µs
+getSPKVecElapsed: 428.188µs
+VUID:817  Elapsed:1.599774ms+msg num:7
+
+getSPKVecElapsed: 30.149µs
+getSPKVecElapsed: 9.808µs
+getSPKVecElapsed: 12.663µs
+getSPKVecElapsed: 13.032µs
+-TRUE- msg num: 29
+-TRUE- msg num: 20
+-TRUE- msg num: 111
+-TRUE- msg num: 17
+-TRUE- msg num: 20
+-TRUE- msg num: 44
+-TRUE- msg num: 33
+-TRUE- msg num: 20
+VUID:830  Elapsed:333.475µs+msg num:75
+
+getSPKVecElapsed: 12.657µs
+VUID:829  Elapsed:43.043148ms+msg num:20
+
+VUID:829  Elapsed:68.955067ms+msg num:17
+
+VUID:829  Elapsed:101.07447ms+msg num:20
+
+VUID:829  Elapsed:133.086498ms+msg num:44
+
+VUID:829  Elapsed:133.295874ms+msg num:33
+
+getSPKVecElapsed: 6.652µs
+VUID:829  Elapsed:144.801353ms+msg num:20
+
+getSPKVecElapsed: 2.745µs
+getSPKVecElapsed: 5.064µs
+getSPKVecElapsed: 4.605µs
+getSPKVecElapsed: 3.355µs
+getSPKVecElapsed: 6.055µs
+getSPKVecElapsed: 6.1µs
+getSPKVecElapsed: 21.176µs
+getSPKVecElapsed: 4.178µs
+getSPKVecElapsed: 24.936µs
+-TRUE- msg num: 75
+-TRUE- msg num: 120
+-TRUE- msg num: 77
+-TRUE- msg num: 14
+-TRUE- msg num: 12
+-TRUE- msg num: 18
+-TRUE- msg num: 22
+getSPKVecElapsed: 7.669µs
+getSPKVecElapsed: 17.753µs
+getSPKVecElapsed: 5.716µs
+getSPKVecElapsed: 18.992µs
+VUID:845  Elapsed:27.369104ms+msg num:71
+
+-TRUE- msg num: 71
+VUID:840  Elapsed:103.087396ms+msg num:12
+
+VUID:840  Elapsed:105.588795ms+msg num:18
+
+VUID:840  Elapsed:121.859609ms+msg num:22
+
+-TRUE- msg num: 36
+VUID:845  Elapsed:97.193164ms+msg num:36
+
+-TRUE- msg num: 14
+VUID:845  Elapsed:122.443352ms+msg num:14
+
+getSPKVecElapsed: 11.008µs
+getSPKVecElapsed: 12.244µs
+getSPKVecElapsed: 4.137µs
+getSPKVecElapsed: 11.713µs
+getSPKVecElapsed: 6.819µs
+getSPKVecElapsed: 12.646µs
+getSPKVecElapsed: 6.366µs
+getSPKVecElapsed: 2.416µs
+getSPKVecElapsed: 6.648µs
+-TRUE- msg num: 19
+VUID:854  Elapsed:29.170847ms+msg num:19
+
+-TRUE- msg num: 17
+VUID:854  Elapsed:30.346512ms+msg num:17
+
+-TRUE- msg num: 20
+VUID:854  Elapsed:30.583035ms+msg num:20
+
+-TRUE- msg num: 35
+VUID:854  Elapsed:30.791839ms+msg num:35
+
+-TRUE- msg num: 27
+VUID:854  Elapsed:31.014679ms+msg num:27
+
+-TRUE- msg num: 41
+VUID:854  Elapsed:31.347831ms+msg num:41
+
+getSPKVecElapsed: 12.331µs
+VUID:840  Elapsed:21.275802ms+msg num:120
+
+getSPKVecElapsed: 4.481µs
+VUID:840  Elapsed:25.867981ms+msg num:77
+
+-TRUE- msg num: 46
+-TRUE- msg num: 19
+-TRUE- msg num: 70
+-TRUE- msg num: 40
+-TRUE- msg num: 23
+-TRUE- msg num: 23
+-TRUE- msg num: 43
+VUID:856  Elapsed:38.052254ms+msg num:19
+
+-TRUE- msg num: 12
+-TRUE- msg num: 60
+getSPKVecElapsed: 12.987µs
+getSPKVecElapsed: 7.069µs
+getSPKVecElapsed: 5.819µs
+getSPKVecElapsed: 3.772µs
+getSPKVecElapsed: 15.281µs
+-TRUE- msg num: 12
+VUID:860  Elapsed:5.190564ms+msg num:12
+
+getSPKVecElapsed: 18.329µs
+getSPKVecElapsed: 8.089µs
+VUID:860  Elapsed:8.944941ms+msg num:46
+
+VUID:860  Elapsed:17.623224ms+msg num:12
+
+VUID:829  Elapsed:68.938692ms+msg num:111
+
+VUID:829  Elapsed:38.76141ms+msg num:29
+
+VUID:840  Elapsed:38.999712ms+msg num:14
+
+-TRUE- msg num: 30
+VUID:863  Elapsed:17.040364ms+msg num:30
+
+VUID:860  Elapsed:5.389283ms+msg num:60
+
+getSPKVecElapsed: 89.284µs
+getSPKVecElapsed: 16.557µs
+-TRUE- msg num: 35
+getSPKVecElapsed: 46.474µs
+-TRUE- msg num: 28
+getSPKVecElapsed: 42.976µs
+VUID:864  Elapsed:23.718017ms+msg num:35
+
+getSPKVecElapsed: 27.055µs
+getSPKVecElapsed: 3.248µs
+New Signer Recived
+New Signer Recived
+New Signer Recived
+-TRUE- msg num: 23
+VUID:865  Elapsed:30.184297ms+msg num:28
+
+New Signer [42 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [43 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [44 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 30.227µs
+getSPKVecElapsed: 98.118µs
+getSPKVecElapsed: 16.182µs
+getSPKVecElapsed: 115.996µs
+getSPKVecElapsed: 72.672µs
+getSPKVecElapsed: 17.458µs
+getSPKVecElapsed: 5.11µs
+VUID:876  Elapsed:27.176759ms+msg num:23
+
+VUID:876  Elapsed:214.23909ms+msg num:18
+
+-TRUE- msg num: 18
+-TRUE- msg num: 68
+-TRUE- msg num: 29
+-TRUE- msg num: 16
+-TRUE- msg num: 46
+-TRUE- msg num: 27
+VUID:876  Elapsed:310.8289ms+msg num:27
+
+-TRUE- msg num: 34
+-TRUE- msg num: 66
+-TRUE- msg num: 34
+-TRUE- msg num: 64
+-TRUE- msg num: 31
+-TRUE- msg num: 40
+VUID:876  Elapsed:573.618452ms+msg num:40
+
+-TRUE- msg num: 14
+VUID:876  Elapsed:586.001046ms+msg num:14
+
+VUID:876  Elapsed:627.238965ms+msg num:81
+
+-TRUE- msg num: 81
+-TRUE- msg num: 35
+VUID:876  Elapsed:637.43732ms+msg num:35
+
+-TRUE- msg num: 27
+VUID:876  Elapsed:802.781609ms+msg num:27
+
+-TRUE- msg num: 94
+VUID:876  Elapsed:828.25522ms+msg num:94
+
+-TRUE- msg num: 138
+VUID:876  Elapsed:843.582644ms+msg num:138
+
+VUID:876  Elapsed:847.93882ms+msg num:24
+
+-TRUE- msg num: 10
+VUID:876  Elapsed:869.312212ms+msg num:10
+
+VUID:860  Elapsed:20.102232ms+msg num:70
+
+VUID:860  Elapsed:20.10658ms+msg num:23
+
+VUID:860  Elapsed:20.11063ms+msg num:43
+
+VUID:860  Elapsed:20.104996ms+msg num:40
+
+VUID:860  Elapsed:20.108681ms+msg num:23
+
+getSPKVecElapsed: 36.803µs
+getSPKVecElapsed: 17.982µs
+getSPKVecElapsed: 29.452µs
+getSPKVecElapsed: 6.154µs
+getSPKVecElapsed: 21.337µs
+VUID:881  Elapsed:459.561µs+msg num:20
+
+VUID:881  Elapsed:1.071141ms+msg num:68
+
+VUID:881  Elapsed:1.247858ms+msg num:29
+
+getSPKVecElapsed: 24.843µs
+VUID:881  Elapsed:1.314156ms+msg num:46
+
+VUID:882  Elapsed:130.415µs+msg num:34
+
+VUID:882  Elapsed:201.927µs+msg num:66
+
+VUID:882  Elapsed:284.789µs+msg num:34
+
+VUID:882  Elapsed:361.029µs+msg num:64
+
+VUID:882  Elapsed:438.491µs+msg num:31
+
+getSPKVecElapsed: 20.77µs
+getSPKVecElapsed: 9.424µs
+-TRUE- msg num: 20
+VUID:884  Elapsed:3.248297ms+msg num:24
+
+-TRUE- msg num: 24
+VUID:881  Elapsed:1.310942ms+msg num:16
+
+getSPKVecElapsed: 24.001µs
+getSPKVecElapsed: 9.725µs
+getSPKVecElapsed: 9.292µs
+getSPKVecElapsed: 79.043µs
+-TRUE- msg num: 20
+VUID:888  Elapsed:23.222563ms+msg num:20
+
+-TRUE- msg num: 20
+VUID:888  Elapsed:33.877836ms+msg num:20
+
+getSPKVecElapsed: 23.453µs
+VUID:889  Elapsed:3.48871ms+msg num:25
+
+-TRUE- msg num: 25
+getSPKVecElapsed: 12.38µs
+getSPKVecElapsed: 6.062µs
+getSPKVecElapsed: 13.864µs
+getSPKVecElapsed: 8.95µs
+getSPKVecElapsed: 11.999µs
+getSPKVecElapsed: 19.662µs
+getSPKVecElapsed: 23.725µs
+getSPKVecElapsed: 4.55µs
+getSPKVecElapsed: 14.085µs
+getSPKVecElapsed: 3.526µs
+getSPKVecElapsed: 8.771µs
+getSPKVecElapsed: 6.299µs
+getSPKVecElapsed: 1.587µs
+getSPKVecElapsed: 2.847µs
+getSPKVecElapsed: 13.025µs
+getSPKVecElapsed: 9.473µs
+getSPKVecElapsed: 5.4µs
+getSPKVecElapsed: 94.352µs
+getSPKVecElapsed: 2.232µs
+getSPKVecElapsed: 2.165µs
+getSPKVecElapsed: 5.569µs
+getSPKVecElapsed: 6.105µs
+getSPKVecElapsed: 1.489µs
+getSPKVecElapsed: 29.757µs
+-TRUE- msg num: 28
+VUID:913  Elapsed:431.749223ms+msg num:28
+
+-TRUE- msg num: 10
+-TRUE- msg num: 12
+-TRUE- msg num: 23
+-TRUE- msg num: 50
+-TRUE- msg num: 21
+-TRUE- msg num: 10
+-TRUE- msg num: 61
+-TRUE- msg num: 15
+VUID:913  Elapsed:447.79398ms+msg num:10
+
+VUID:913  Elapsed:448.522296ms+msg num:12
+
+VUID:913  Elapsed:448.527272ms+msg num:23
+
+VUID:913  Elapsed:448.599851ms+msg num:50
+
+VUID:913  Elapsed:448.624658ms+msg num:21
+
+VUID:913  Elapsed:448.651388ms+msg num:10
+
+VUID:913  Elapsed:448.675723ms+msg num:61
+
+VUID:913  Elapsed:448.704877ms+msg num:15
+
+-TRUE- msg num: 20
+-TRUE- msg num: 16
+-TRUE- msg num: 27
+-TRUE- msg num: 32
+getSPKVecElapsed: 54.604µs
+-TRUE- msg num: 7
+-TRUE- msg num: 233
+-TRUE- msg num: 43
+-TRUE- msg num: 78
+-TRUE- msg num: 34
+-TRUE- msg num: 66
+-TRUE- msg num: 170
+-TRUE- msg num: 18
+VUID:914  Elapsed:1.782006285s+msg num:233
+
+VUID:914  Elapsed:1.78223885s+msg num:43
+
+VUID:914  Elapsed:1.782333227s+msg num:78
+
+VUID:914  Elapsed:1.782423925s+msg num:34
+
+VUID:914  Elapsed:1.782503508s+msg num:66
+
+VUID:914  Elapsed:1.782587648s+msg num:170
+
+VUID:914  Elapsed:1.784027785s+msg num:18
+
+VUID:913  Elapsed:1.733879056s+msg num:16
+
+-TRUE- msg num: 13
+-TRUE- msg num: 53
+-TRUE- msg num: 26
+-TRUE- msg num: 39
+-TRUE- msg num: 160
+-TRUE- msg num: 17
+-TRUE- msg num: 30
+-TRUE- msg num: 33
+-TRUE- msg num: 41
+-TRUE- msg num: 46
+-TRUE- msg num: 32
+-TRUE- msg num: 76
+-TRUE- msg num: 34
+-TRUE- msg num: 26
+-TRUE- msg num: 8
+-TRUE- msg num: 11
+-TRUE- msg num: 30
+-TRUE- msg num: 24
+-TRUE- msg num: 31
+-TRUE- msg num: 168
+-TRUE- msg num: 16
+VUID:914  Elapsed:1.808683481s+msg num:53
+
+VUID:914  Elapsed:1.808799167s+msg num:26
+
+VUID:914  Elapsed:1.80890335s+msg num:39
+
+VUID:914  Elapsed:1.81040734s+msg num:160
+
+VUID:913  Elapsed:1.73398095s+msg num:27
+
+VUID:913  Elapsed:1.73406538s+msg num:32
+
+VUID:914  Elapsed:1.810673055s+msg num:30
+
+VUID:914  Elapsed:1.810760861s+msg num:33
+
+VUID:914  Elapsed:1.810858196s+msg num:41
+
+VUID:914  Elapsed:1.810954368s+msg num:46
+
+VUID:914  Elapsed:1.811053097s+msg num:32
+
+VUID:914  Elapsed:1.811172703s+msg num:76
+
+VUID:914  Elapsed:1.811348684s+msg num:34
+
+VUID:914  Elapsed:1.81156167s+msg num:26
+
+VUID:914  Elapsed:1.81251915s+msg num:11
+
+VUID:913  Elapsed:1.730757422s+msg num:20
+
+-TRUE- msg num: 27
+VUID:914  Elapsed:74.825407ms+msg num:27
+
+VUID:914  Elapsed:1.817880304s+msg num:30
+
+getSPKVecElapsed: 27.046µs
+getSPKVecElapsed: 19.017µs
+getSPKVecElapsed: 2.499µs
+getSPKVecElapsed: 220.822µs
+getSPKVecElapsed: 11.907µs
+getSPKVecElapsed: 23.488µs
+getSPKVecElapsed: 2.275µs
+getSPKVecElapsed: 17.019µs
+VUID:914  Elapsed:44.339652ms+msg num:31
+
+VUID:914  Elapsed:44.423511ms+msg num:168
+
+VUID:914  Elapsed:1.817711435s+msg num:7
+
+-TRUE- msg num: 17
+VUID:922  Elapsed:42.389115ms+msg num:17
+
+-TRUE- msg num: 38
+VUID:922  Elapsed:235.727388ms+msg num:38
+
+-TRUE- msg num: 51
+VUID:922  Elapsed:254.675525ms+msg num:51
+
+VUID:922  Elapsed:300.018724ms+msg num:68
+
+-TRUE- msg num: 68
+-TRUE- msg num: 50
+-TRUE- msg num: 63
+-TRUE- msg num: 164
+-TRUE- msg num: 48
+-TRUE- msg num: 46
+-TRUE- msg num: 81
+VUID:922  Elapsed:361.198007ms+msg num:50
+
+VUID:922  Elapsed:363.223459ms+msg num:63
+
+VUID:922  Elapsed:366.028332ms+msg num:164
+
+VUID:922  Elapsed:370.556184ms+msg num:48
+
+VUID:922  Elapsed:371.128712ms+msg num:46
+
+VUID:922  Elapsed:371.950169ms+msg num:81
+
+-TRUE- msg num: 248
+VUID:922  Elapsed:427.038236ms+msg num:248
+
+VUID:922  Elapsed:479.49203ms+msg num:13
+
+VUID:922  Elapsed:486.402139ms+msg num:17
+
+VUID:922  Elapsed:488.359232ms+msg num:8
+
+VUID:922  Elapsed:488.642393ms+msg num:24
+
+-TRUE- msg num: 8
+VUID:922  Elapsed:519.45911ms+msg num:8
+
+VUID:922  Elapsed:491.698508ms+msg num:16
+
+getSPKVecElapsed: 41.909µs
+getSPKVecElapsed: 12.106µs
+getSPKVecElapsed: 16.919µs
+getSPKVecElapsed: 20.302µs
+-TRUE- msg num: 256
+getSPKVecElapsed: 10.991µs
+-TRUE- msg num: 72
+getSPKVecElapsed: 21.698µs
+getSPKVecElapsed: 5.303µs
+getSPKVecElapsed: 4.289µs
+getSPKVecElapsed: 3.771µs
+VUID:926  Elapsed:479.842µs+msg num:72
+
+New Signer Recived
+New Signer [45 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [46 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer Recived
+New Signer [47 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 14.201µs
+New Signer Recived
+New Signer [48 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 17.627µs
+New Signer Recived
+-TRUE- msg num: 75
+VUID:933  Elapsed:19.661325ms+msg num:75
+
+New Signer Recived
+New Signer [49 0]  Append to Aggregator AID [1 0 0 0]
+VUID:933  Elapsed:96.528518ms+msg num:12
+
+VUID:933  Elapsed:96.539262ms+msg num:6
+
+New Signer [50 0]  Append to Aggregator AID [1 0 0 0]
+VUID:933  Elapsed:97.07938ms+msg num:74
+
+-TRUE- msg num: 6
+-TRUE- msg num: 12
+New Signer Recived
+-TRUE- msg num: 74
+VUID:925  Elapsed:35.155476ms+msg num:256
+
+VUID:933  Elapsed:103.843443ms+msg num:21
+
+New Signer [51 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 21
+getSPKVecElapsed: 10.459µs
+New Signer Recived
+getSPKVecElapsed: 6.297µs
+VUID:935  Elapsed:52.77472ms+msg num:7
+
+VUID:935  Elapsed:54.494865ms+msg num:24
+
+VUID:935  Elapsed:63.96069ms+msg num:30
+
+-TRUE- msg num: 7
+-TRUE- msg num: 24
+-TRUE- msg num: 30
+-TRUE- msg num: 229
+VUID:935  Elapsed:144.667595ms+msg num:229
+
+New Signer [52 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 13.051µs
+VUID:936  Elapsed:34.708517ms+msg num:38
+
+-TRUE- msg num: 38
+-TRUE- msg num: 36
+VUID:936  Elapsed:36.141857ms+msg num:36
+
+-TRUE- msg num: 36
+VUID:936  Elapsed:39.419042ms+msg num:36
+
+getSPKVecElapsed: 30.806µs
+getSPKVecElapsed: 25.855µs
+getSPKVecElapsed: 343.417µs
+getSPKVecElapsed: 43.555µs
+getSPKVecElapsed: 45.276µs
+getSPKVecElapsed: 42.476µs
+getSPKVecElapsed: 21.165µs
+getSPKVecElapsed: 30.369µs
+getSPKVecElapsed: 18.373µs
+getSPKVecElapsed: 25.211µs
+-TRUE- msg num: 26
+-TRUE- msg num: 134
+VUID:946  Elapsed:99.733481ms+msg num:26
+
+VUID:946  Elapsed:131.546824ms+msg num:80
+
+VUID:946  Elapsed:131.593395ms+msg num:20
+
+-TRUE- msg num: 20
+-TRUE- msg num: 80
+VUID:946  Elapsed:132.68199ms+msg num:134
+
+New Signer Recived
+-TRUE- msg num: 74
+VUID:946  Elapsed:571.50836ms+msg num:107
+
+-TRUE- msg num: 107
+VUID:946  Elapsed:592.99466ms+msg num:113
+
+-TRUE- msg num: 113
+VUID:946  Elapsed:593.853561ms+msg num:50
+
+-TRUE- msg num: 50
+-TRUE- msg num: 160
+VUID:946  Elapsed:594.169646ms+msg num:160
+
+-TRUE- msg num: 67
+VUID:946  Elapsed:595.242813ms+msg num:67
+
+-TRUE- msg num: 22
+VUID:946  Elapsed:595.669046ms+msg num:22
+
+-TRUE- msg num: 222
+VUID:946  Elapsed:602.807694ms+msg num:222
+
+-TRUE- msg num: 45
+VUID:946  Elapsed:604.154973ms+msg num:45
+
+VUID:946  Elapsed:605.431958ms+msg num:74
+
+New Signer [53 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 21.46µs
+getSPKVecElapsed: 37.508µs
+New Signer Recived
+New Signer [54 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 79
+-TRUE- msg num: 67
+-TRUE- msg num: 222
+New Signer Recived
+VUID:948  Elapsed:1.835756ms+msg num:67
+
+VUID:948  Elapsed:2.076975ms+msg num:222
+
+New Signer [55 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 51.187µs
+getSPKVecElapsed: 19.329µs
+New Signer Recived
+New Signer [56 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 38.079µs
+-TRUE- msg num: 76
+VUID:951  Elapsed:96.527247ms+msg num:76
+
+VUID:951  Elapsed:111.00956ms+msg num:79
+
+-TRUE- msg num: 65
+VUID:951  Elapsed:114.016864ms+msg num:65
+
+New Signer Recived
+New Signer [57 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 23.032µs
+New Signer Recived
+New Signer [58 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [59 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 23.186µs
+getSPKVecElapsed: 6.272µs
+getSPKVecElapsed: 12.01µs
+getSPKVecElapsed: 19.657µs
+getSPKVecElapsed: 21.053µs
+getSPKVecElapsed: 29.869µs
+-TRUE- msg num: 133
+VUID:958  Elapsed:73.783899ms+msg num:133
+
+-TRUE- msg num: 45
+VUID:958  Elapsed:134.638607ms+msg num:45
+
+VUID:958  Elapsed:142.70084ms+msg num:21
+
+-TRUE- msg num: 21
+VUID:958  Elapsed:222.605235ms+msg num:69
+
+-TRUE- msg num: 69
+getSPKVecElapsed: 39.459µs
+getSPKVecElapsed: 24.385µs
+getSPKVecElapsed: 28.896µs
+-TRUE- msg num: 108
+-TRUE- msg num: 41
+-TRUE- msg num: 86
+getSPKVecElapsed: 11.229µs
+getSPKVecElapsed: 21.627µs
+getSPKVecElapsed: 17.326µs
+getSPKVecElapsed: 19.789µs
+VUID:965  Elapsed:12.487768ms+msg num:227
+
+VUID:960  Elapsed:134.575281ms+msg num:86
+
+VUID:965  Elapsed:13.238247ms+msg num:122
+
+VUID:965  Elapsed:15.315219ms+msg num:138
+
+VUID:960  Elapsed:14.434072ms+msg num:41
+
+-TRUE- msg num: 227
+-TRUE- msg num: 122
+-TRUE- msg num: 138
+-TRUE- msg num: 111
+getSPKVecElapsed: 16.078µs
+getSPKVecElapsed: 7.898µs
+getSPKVecElapsed: 7.002µs
+getSPKVecElapsed: 16.117µs
+getSPKVecElapsed: 6.761µs
+VUID:960  Elapsed:14.456218ms+msg num:108
+
+VUID:965  Elapsed:15.886822ms+msg num:111
+
+VUID:969  Elapsed:52.44718ms+msg num:80
+
+-TRUE- msg num: 80
+getSPKVecElapsed: 96.582µs
+getSPKVecElapsed: 19.9µs
+getSPKVecElapsed: 17.141µs
+getSPKVecElapsed: 12.361µs
+getSPKVecElapsed: 21.737µs
+getSPKVecElapsed: 10.445µs
+getSPKVecElapsed: 4.827µs
+getSPKVecElapsed: 15.828µs
+getSPKVecElapsed: 4.03µs
+getSPKVecElapsed: 4.82µs
+getSPKVecElapsed: 20.57µs
+getSPKVecElapsed: 17.156µs
+getSPKVecElapsed: 28.087µs
+getSPKVecElapsed: 16.935µs
+getSPKVecElapsed: 12.423µs
+getSPKVecElapsed: 1.487µs
+-TRUE- msg num: 13
+-TRUE- msg num: 131
+New Signer Recived
+-TRUE- msg num: 108
+-TRUE- msg num: 34
+-TRUE- msg num: 35
+-TRUE- msg num: 44
+-TRUE- msg num: 27
+-TRUE- msg num: 75
+New Signer Recived
+-TRUE- msg num: 122
+New Signer Recived
+New Signer Recived
+VUID:986  Elapsed:553.070362ms+msg num:34
+
+VUID:986  Elapsed:553.413579ms+msg num:44
+
+VUID:986  Elapsed:554.451817ms+msg num:108
+
+VUID:986  Elapsed:555.42076ms+msg num:27
+
+New Signer [60 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 30.09µs
+VUID:987  Elapsed:170.827µs+msg num:75
+
+New Signer [61 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 13.513µs
+VUID:988  Elapsed:220.958µs+msg num:122
+
+New Signer [62 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [63 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 25.719µs
+-TRUE- msg num: 19
+VUID:989  Elapsed:12.241841ms+msg num:19
+
+-TRUE- msg num: 34
+VUID:989  Elapsed:13.346942ms+msg num:34
+
+VUID:989  Elapsed:13.601626ms+msg num:13
+
+VUID:989  Elapsed:13.746771ms+msg num:131
+
+getSPKVecElapsed: 28.64µs
+getSPKVecElapsed: 10.715µs
+getSPKVecElapsed: 18.344µs
+getSPKVecElapsed: 39.634µs
+getSPKVecElapsed: 13.977µs
+-TRUE- msg num: 86
+-TRUE- msg num: 42
+VUID:994  Elapsed:30.085817ms+msg num:42
+
+-TRUE- msg num: 29
+VUID:994  Elapsed:112.281195ms+msg num:29
+
+VUID:994  Elapsed:454.719388ms+msg num:35
+
+VUID:994  Elapsed:455.406022ms+msg num:35
+
+-TRUE- msg num: 35
+-TRUE- msg num: 25
+VUID:994  Elapsed:465.1707ms+msg num:25
+
+getSPKVecElapsed: 33.047µs
+getSPKVecElapsed: 14.095µs
+getSPKVecElapsed: 6.652µs
+getSPKVecElapsed: 5.245µs
+getSPKVecElapsed: 13.542µs
+-TRUE- msg num: 63
+-TRUE- msg num: 80
+-TRUE- msg num: 93
+VUID:999  Elapsed:70.66121ms+msg num:93
+
+-TRUE- msg num: 153
+-TRUE- msg num: 50
+-TRUE- msg num: 66
+VUID:999  Elapsed:96.920332ms+msg num:153
+
+-TRUE- msg num: 40
+-TRUE- msg num: 68
+-TRUE- msg num: 143
+VUID:999  Elapsed:96.586201ms+msg num:66
+
+VUID:999  Elapsed:97.033999ms+msg num:63
+
+VUID:999  Elapsed:97.129505ms+msg num:40
+
+VUID:999  Elapsed:97.132522ms+msg num:80
+
+VUID:999  Elapsed:97.252234ms+msg num:50
+
+VUID:999  Elapsed:116.82774ms+msg num:68
+
+VUID:999  Elapsed:116.969521ms+msg num:143
+
+-TRUE- msg num: 66
+VUID:999  Elapsed:195.121519ms+msg num:66
+
+VUID:999  Elapsed:198.568073ms+msg num:23
+
+VUID:999  Elapsed:198.740508ms+msg num:39
+
+-TRUE- msg num: 23
+-TRUE- msg num: 39
+-TRUE- msg num: 70
+VUID:999  Elapsed:213.192474ms+msg num:70
+
+VUID:999  Elapsed:232.394071ms+msg num:56
+
+-TRUE- msg num: 56
+VUID:999  Elapsed:252.811373ms+msg num:86
+
+-TRUE- msg num: 8
+VUID:999  Elapsed:256.273022ms+msg num:8
+
+-TRUE- msg num: 34
+VUID:999  Elapsed:269.220247ms+msg num:34
+
+getSPKVecElapsed: 284.965141ms
+-TRUE- msg num: 6
+VUID:1000  Elapsed:17.309296ms+msg num:6
+
+VUID:1000  Elapsed:26.450338ms+msg num:15
+
+-TRUE- msg num: 15
+-TRUE- msg num: 151
+VUID:1000  Elapsed:70.355429ms+msg num:151
+
+-TRUE- msg num: 204
+VUID:1000  Elapsed:84.692717ms+msg num:204
+
+-TRUE- msg num: 217
+VUID:1000  Elapsed:148.80844ms+msg num:217
+
+-TRUE- msg num: 63
+VUID:1000  Elapsed:230.587981ms+msg num:63
+
+-TRUE- msg num: 64
+VUID:1000  Elapsed:233.368926ms+msg num:64
+
+-TRUE- msg num: 181
+VUID:1000  Elapsed:239.017356ms+msg num:181
+
+VUID:1000  Elapsed:320.547574ms+msg num:179
+
+-TRUE- msg num: 179
+getSPKVecElapsed: 256.083752ms
+getSPKVecElapsed: 223.037µs
+getSPKVecElapsed: 8.715µs
+getSPKVecElapsed: 9.882µs
+getSPKVecElapsed: 5.678µs
+getSPKVecElapsed: 3.772µs
+getSPKVecElapsed: 48.995µs
+getSPKVecElapsed: 4.255µs
+getSPKVecElapsed: 14.481µs
+getSPKVecElapsed: 6.875µs
+getSPKVecElapsed: 5.282µs
+getSPKVecElapsed: 14.304µs
+getSPKVecElapsed: 10.834µs
+getSPKVecElapsed: 9.502µs
+getSPKVecElapsed: 6.996µs
+getSPKVecElapsed: 16.575µs
+getSPKVecElapsed: 28.233µs
+getSPKVecElapsed: 7.682µs
+getSPKVecElapsed: 8.044µs
+-TRUE- msg num: 46
+-TRUE- msg num: 122
+-TRUE- msg num: 17
+-TRUE- msg num: 39
+-TRUE- msg num: 12
+VUID:1019  Elapsed:238.964811ms+msg num:12
+
+getSPKVecElapsed: 16.005µs
+getSPKVecElapsed: 11.739µs
+getSPKVecElapsed: 31.387µs
+getSPKVecElapsed: 5.261µs
+getSPKVecElapsed: 23.587µs
+getSPKVecElapsed: 17.508µs
+getSPKVecElapsed: 11.409µs
+getSPKVecElapsed: 16.657µs
+getSPKVecElapsed: 8.224µs
+VUID:1028  Elapsed:2.655242ms+msg num:129
+
+VUID:1020  Elapsed:6.856857ms+msg num:39
+
+-TRUE- msg num: 129
+VUID:1019  Elapsed:364.131359ms+msg num:46
+
+VUID:1020  Elapsed:6.846065ms+msg num:122
+
+VUID:1020  Elapsed:6.853171ms+msg num:17
+
+VUID:1028  Elapsed:81.85122ms+msg num:75
+
+-TRUE- msg num: 75
+getSPKVecElapsed: 29.081µs
+getSPKVecElapsed: 16.542µs
+getSPKVecElapsed: 14.217µs
+getSPKVecElapsed: 4.662µs
+getSPKVecElapsed: 1.585µs
+getSPKVecElapsed: 10.886µs
+getSPKVecElapsed: 8.692µs
+getSPKVecElapsed: 17.698µs
+getSPKVecElapsed: 8.234µs
+getSPKVecElapsed: 1.062µs
+getSPKVecElapsed: 7.789µs
+getSPKVecElapsed: 3.444µs
+getSPKVecElapsed: 1.66µs
+getSPKVecElapsed: 7.483µs
+getSPKVecElapsed: 7.397µs
+VUID:1043  Elapsed:62.612672ms+msg num:96
+
+-TRUE- msg num: 96
+-TRUE- msg num: 44
+-TRUE- msg num: 5
+VUID:1043  Elapsed:134.499037ms+msg num:5
+
+VUID:1043  Elapsed:135.503573ms+msg num:44
+
+VUID:1043  Elapsed:175.678657ms+msg num:117
+
+getSPKVecElapsed: 16.237µs
+getSPKVecElapsed: 35.853µs
+getSPKVecElapsed: 69.946µs
+getSPKVecElapsed: 3.505µs
+getSPKVecElapsed: 4.027µs
+getSPKVecElapsed: 3.667µs
+-TRUE- msg num: 117
+-TRUE- msg num: 5
+getSPKVecElapsed: 67.75µs
+getSPKVecElapsed: 18.923µs
+getSPKVecElapsed: 9.412µs
+getSPKVecElapsed: 5.295µs
+getSPKVecElapsed: 3.618µs
+getSPKVecElapsed: 4.105829ms
+getSPKVecElapsed: 17.62µs
+getSPKVecElapsed: 3.982µs
+getSPKVecElapsed: 5.345µs
+getSPKVecElapsed: 8.758µs
+getSPKVecElapsed: 7.838µs
+VUID:1049  Elapsed:84.842602ms+msg num:5
+
+VUID:1060  Elapsed:103.837464ms+msg num:23
+
+-TRUE- msg num: 23
+-TRUE- msg num: 4
+-TRUE- msg num: 8
+-TRUE- msg num: 36
+VUID:1060  Elapsed:479.724029ms+msg num:36
+
+VUID:1060  Elapsed:480.163489ms+msg num:8
+
+-TRUE- msg num: 80
+-TRUE- msg num: 54
+VUID:1060  Elapsed:480.5327ms+msg num:54
+
+VUID:1060  Elapsed:480.649244ms+msg num:80
+
+-TRUE- msg num: 49
+VUID:1060  Elapsed:480.866038ms+msg num:49
+
+-TRUE- msg num: 14
+-TRUE- msg num: 9
+VUID:1060  Elapsed:481.065735ms+msg num:9
+
+VUID:1060  Elapsed:481.280335ms+msg num:14
+
+-TRUE- msg num: 32
+VUID:1060  Elapsed:481.393295ms+msg num:32
+
+VUID:1060  Elapsed:481.700347ms+msg num:4
+
+-TRUE- msg num: 71
+VUID:1060  Elapsed:490.359603ms+msg num:71
+
+VUID:1060  Elapsed:501.178004ms+msg num:30
+
+getSPKVecElapsed: 21.15µs
+-TRUE- msg num: 30
+getSPKVecElapsed: 25.724µs
+getSPKVecElapsed: 13.412µs
+getSPKVecElapsed: 3.924µs
+New Signer Recived
+-TRUE- msg num: 49
+VUID:1064  Elapsed:8.661478ms+msg num:49
+
+New Signer [64 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+-TRUE- msg num: 6
+VUID:1064  Elapsed:19.727632ms+msg num:6
+
+VUID:1064  Elapsed:38.789307ms+msg num:34
+
+-TRUE- msg num: 34
+-TRUE- msg num: 6
+New Signer Recived
+VUID:1064  Elapsed:44.730879ms+msg num:6
+
+New Signer [65 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 23.796µs
+-TRUE- msg num: 12
+VUID:1065  Elapsed:105.977059ms+msg num:12
+
+-TRUE- msg num: 88
+VUID:1065  Elapsed:106.090966ms+msg num:88
+
+-TRUE- msg num: 43
+VUID:1065  Elapsed:106.248098ms+msg num:43
+
+New Signer [66 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 16.38µs
+VUID:1066  Elapsed:5.757941ms+msg num:15
+
+VUID:1066  Elapsed:16.787461ms+msg num:29
+
+VUID:1066  Elapsed:23.222019ms+msg num:23
+
+New Signer [67 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+-TRUE- msg num: 29
+-TRUE- msg num: 15
+-TRUE- msg num: 23
+New Signer Recived
+New Signer Recived
+New Signer [68 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 30.834µs
+New Signer [69 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+-TRUE- msg num: 39
+VUID:1067  Elapsed:17.911769ms+msg num:39
+
+New Signer [70 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+-TRUE- msg num: 25
+New Signer [71 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 38.377µs
+VUID:1067  Elapsed:53.474233ms+msg num:25
+
+New Signer Recived
+New Signer [72 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 37.41µs
+getSPKVecElapsed: 19.289µs
+getSPKVecElapsed: 75.124µs
+getSPKVecElapsed: 29.186µs
+getSPKVecElapsed: 19.345µs
+getSPKVecElapsed: 3.544µs
+-TRUE- msg num: 54
+VUID:1074  Elapsed:4.039052ms+msg num:54
+
+-TRUE- msg num: 15
+VUID:1074  Elapsed:10.403465ms+msg num:15
+
+getSPKVecElapsed: 54.997µs
+getSPKVecElapsed: 25.117µs
+getSPKVecElapsed: 35.175µs
+-TRUE- msg num: 49
+getSPKVecElapsed: 35.262µs
+-TRUE- msg num: 15
+-TRUE- msg num: 42
+VUID:1078  Elapsed:38.382159ms+msg num:15
+
+VUID:1078  Elapsed:38.4289ms+msg num:42
+
+-TRUE- msg num: 21
+VUID:1078  Elapsed:79.375546ms+msg num:21
+
+VUID:1078  Elapsed:87.057261ms+msg num:49
+
+VUID:1078  Elapsed:87.232731ms+msg num:28
+
+-TRUE- msg num: 28
+-TRUE- msg num: 48
+VUID:1078  Elapsed:111.892353ms+msg num:48
+
+VUID:1078  Elapsed:216.633343ms+msg num:111
+
+-TRUE- msg num: 111
+VUID:1078  Elapsed:234.619374ms+msg num:28
+
+-TRUE- msg num: 28
+getSPKVecElapsed: 23.845µs
+getSPKVecElapsed: 20.569µs
+getSPKVecElapsed: 18.863µs
+getSPKVecElapsed: 14.884µs
+getSPKVecElapsed: 19.608µs
+getSPKVecElapsed: 10.451µs
+getSPKVecElapsed: 15.331µs
+VUID:1085  Elapsed:20.82557ms+msg num:58
+-TRUE- msg num: 58
+
+-TRUE- msg num: 46
+VUID:1085  Elapsed:64.724086ms+msg num:46
+
+getSPKVecElapsed: 40.904µs
+-TRUE- msg num: 64
+-TRUE- msg num: 51
+VUID:1085  Elapsed:154.287565ms+msg num:64
+
+VUID:1085  Elapsed:166.978992ms+msg num:51
+
+VUID:1086  Elapsed:122.961678ms+msg num:45
+
+-TRUE- msg num: 45
+getSPKVecElapsed: 20.699µs
+getSPKVecElapsed: 17.281µs
+-TRUE- msg num: 90
+-TRUE- msg num: 21
+VUID:1088  Elapsed:42.002248ms+msg num:21
+
+-TRUE- msg num: 110
+VUID:1088  Elapsed:49.516541ms+msg num:110
+
+VUID:1088  Elapsed:51.200306ms+msg num:90
+
+-TRUE- msg num: 103
+VUID:1088  Elapsed:52.265462ms+msg num:103
+
+-TRUE- msg num: 47
+VUID:1088  Elapsed:81.770305ms+msg num:47
+
+-TRUE- msg num: 45
+VUID:1088  Elapsed:111.761804ms+msg num:45
+
+getSPKVecElapsed: 90.403µs
+getSPKVecElapsed: 11.437µs
+getSPKVecElapsed: 5.484µs
+getSPKVecElapsed: 33.984µs
+getSPKVecElapsed: 8.173µs
+getSPKVecElapsed: 7.045µs
+-TRUE- msg num: 72
+-TRUE- msg num: 20
+VUID:1094  Elapsed:67.57188ms+msg num:20
+
+VUID:1094  Elapsed:83.235249ms+msg num:72
+
+-TRUE- msg num: 48
+VUID:1094  Elapsed:103.462833ms+msg num:49
+
+VUID:1094  Elapsed:91.402096ms+msg num:48
+
+-TRUE- msg num: 49
+getSPKVecElapsed: 14.828µs
+getSPKVecElapsed: 2.635µs
+-TRUE- msg num: 134
+VUID:1096  Elapsed:12.921092ms+msg num:134
+
+getSPKVecElapsed: 30.516µs
+-TRUE- msg num: 69
+VUID:1097  Elapsed:1.367945ms+msg num:69
+
+VUID:1097  Elapsed:13.690942ms+msg num:33
+
+-TRUE- msg num: 33
+VUID:1097  Elapsed:21.335952ms+msg num:40
+
+-TRUE- msg num: 40
+-TRUE- msg num: 93
+VUID:1097  Elapsed:27.721833ms+msg num:93
+
+VUID:1097  Elapsed:71.273397ms+msg num:84
+
+VUID:1097  Elapsed:80.956269ms+msg num:42
+
+getSPKVecElapsed: 20.981µs
+-TRUE- msg num: 84
+-TRUE- msg num: 42
+-TRUE- msg num: 58
+VUID:1098  Elapsed:9.070939ms+msg num:58
+
+VUID:1098  Elapsed:20.358399ms+msg num:62
+
+getSPKVecElapsed: 21.031µs
+getSPKVecElapsed: 11.028µs
+getSPKVecElapsed: 10.299µs
+-TRUE- msg num: 62
+-TRUE- msg num: 47
+VUID:1101  Elapsed:23.027237ms+msg num:47
+
+getSPKVecElapsed: 15.915µs
+getSPKVecElapsed: 31.271µs
+-TRUE- msg num: 59
+-TRUE- msg num: 34
+getSPKVecElapsed: 25.124µs
+getSPKVecElapsed: 7.435µs
+getSPKVecElapsed: 11.053µs
+VUID:1102  Elapsed:61.703659ms+msg num:59
+
+-TRUE- msg num: 40
+VUID:1106  Elapsed:5.358242ms+msg num:40
+
+VUID:1102  Elapsed:96.052157ms+msg num:34
+
+VUID:1106  Elapsed:101.126145ms+msg num:108
+
+-TRUE- msg num: 108
+-TRUE- msg num: 29
+VUID:1106  Elapsed:143.812249ms+msg num:29
+
+VUID:1106  Elapsed:177.23849ms+msg num:31
+
+-TRUE- msg num: 31
+getSPKVecElapsed: 36.252µs
+getSPKVecElapsed: 11.085µs
+-TRUE- msg num: 33
+-TRUE- msg num: 93
+-TRUE- msg num: 101
+-TRUE- msg num: 144
+-TRUE- msg num: 69
+-TRUE- msg num: 15
+-TRUE- msg num: 43
+-TRUE- msg num: 32
+-TRUE- msg num: 57
+-TRUE- msg num: 67
+VUID:1108  Elapsed:447.318996ms+msg num:69
+
+VUID:1108  Elapsed:447.598778ms+msg num:15
+
+VUID:1108  Elapsed:447.689547ms+msg num:43
+
+VUID:1108  Elapsed:447.790699ms+msg num:32
+
+VUID:1108  Elapsed:447.867463ms+msg num:57
+
+VUID:1108  Elapsed:447.954301ms+msg num:67
+
+VUID:1108  Elapsed:458.402399ms+msg num:119
+
+-TRUE- msg num: 119
+VUID:1108  Elapsed:458.681402ms+msg num:33
+
+VUID:1108  Elapsed:458.746686ms+msg num:93
+
+-TRUE- msg num: 58
+VUID:1108  Elapsed:458.89979ms+msg num:58
+
+VUID:1108  Elapsed:458.946558ms+msg num:101
+
+VUID:1108  Elapsed:459.092665ms+msg num:144
+
+VUID:1108  Elapsed:459.460999ms+msg num:40
+
+-TRUE- msg num: 40
+getSPKVecElapsed: 22.616µs
+New Signer Recived
+New Signer [73 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 12.244µs
+getSPKVecElapsed: 7.195µs
+getSPKVecElapsed: 13.851µs
+getSPKVecElapsed: 24.464µs
+getSPKVecElapsed: 5.288µs
+getSPKVecElapsed: 3.588µs
+getSPKVecElapsed: 31.052µs
+getSPKVecElapsed: 39.036µs
+getSPKVecElapsed: 13.867µs
+getSPKVecElapsed: 10.333µs
+getSPKVecElapsed: 17.935µs
+getSPKVecElapsed: 9.112µs
+getSPKVecElapsed: 9.733µs
+getSPKVecElapsed: 4.484µs
+-TRUE- msg num: 13
+-TRUE- msg num: 5
+getSPKVecElapsed: 13.14µs
+-TRUE- msg num: 40
+-TRUE- msg num: 88
+-TRUE- msg num: 97
+-TRUE- msg num: 85
+getSPKVecElapsed: 11.548µs
+getSPKVecElapsed: 12.741µs
+getSPKVecElapsed: 4.673µs
+getSPKVecElapsed: 6.191µs
+getSPKVecElapsed: 10.916µs
+getSPKVecElapsed: 7.976µs
+getSPKVecElapsed: 14.673µs
+getSPKVecElapsed: 27.46µs
+getSPKVecElapsed: 8.67µs
+getSPKVecElapsed: 34.201µs
+getSPKVecElapsed: 17.935µs
+getSPKVecElapsed: 23.182µs
+getSPKVecElapsed: 16.616µs
+getSPKVecElapsed: 5.745µs
+getSPKVecElapsed: 25.448µs
+VUID:1139  Elapsed:1.709516ms+msg num:13
+
+VUID:1123  Elapsed:1.809557ms+msg num:5
+
+-TRUE- msg num: 96
+VUID:1139  Elapsed:57.238151ms+msg num:96
+
+VUID:1123  Elapsed:74.164421ms+msg num:97
+
+VUID:1123  Elapsed:22.431449ms+msg num:40
+
+-TRUE- msg num: 48
+VUID:1139  Elapsed:114.696515ms+msg num:48
+
+VUID:1123  Elapsed:124.903974ms+msg num:85
+
+VUID:1123  Elapsed:28.642401ms+msg num:88
+
+-TRUE- msg num: 35
+-TRUE- msg num: 35
+VUID:1139  Elapsed:217.07538ms+msg num:35
+
+-TRUE- msg num: 106
+VUID:1139  Elapsed:232.74848ms+msg num:106
+
+VUID:1139  Elapsed:233.015042ms+msg num:35
+
+-TRUE- msg num: 44
+VUID:1139  Elapsed:237.722383ms+msg num:44
+
+-TRUE- msg num: 5
+VUID:1139  Elapsed:252.488395ms+msg num:5
+
+-TRUE- msg num: 16
+VUID:1139  Elapsed:297.507158ms+msg num:16
+
+-TRUE- msg num: 57
+VUID:1139  Elapsed:298.547263ms+msg num:57
+
+-TRUE- msg num: 49
+VUID:1139  Elapsed:312.921662ms+msg num:49
+
+-TRUE- msg num: 83
+VUID:1139  Elapsed:387.24448ms+msg num:83
+
+-TRUE- msg num: 14
+VUID:1139  Elapsed:402.949818ms+msg num:14
+
+-TRUE- msg num: 53
+VUID:1139  Elapsed:432.249882ms+msg num:53
+
+-TRUE- msg num: 28
+VUID:1139  Elapsed:471.750627ms+msg num:28
+
+-TRUE- msg num: 148
+VUID:1139  Elapsed:522.414865ms+msg num:148
+
+-TRUE- msg num: 37
+-TRUE- msg num: 85
+VUID:1139  Elapsed:712.657286ms+msg num:85
+
+VUID:1139  Elapsed:722.578383ms+msg num:104
+
+VUID:1139  Elapsed:722.903858ms+msg num:35
+
+VUID:1139  Elapsed:722.987666ms+msg num:89
+
+VUID:1139  Elapsed:723.075741ms+msg num:24
+
+VUID:1139  Elapsed:723.145592ms+msg num:37
+
+VUID:1139  Elapsed:723.320209ms+msg num:63
+
+VUID:1139  Elapsed:723.350567ms+msg num:95
+
+VUID:1139  Elapsed:723.418848ms+msg num:18
+
+VUID:1139  Elapsed:723.532377ms+msg num:102
+
+VUID:1139  Elapsed:723.679333ms+msg num:28
+
+VUID:1139  Elapsed:723.997178ms+msg num:87
+
+-TRUE- msg num: 63
+-TRUE- msg num: 104
+-TRUE- msg num: 35
+-TRUE- msg num: 89
+-TRUE- msg num: 24
+-TRUE- msg num: 18
+-TRUE- msg num: 95
+-TRUE- msg num: 102
+-TRUE- msg num: 28
+-TRUE- msg num: 87
+-TRUE- msg num: 30
+VUID:1139  Elapsed:726.900474ms+msg num:30
+
+VUID:1139  Elapsed:770.6889ms+msg num:150
+
+-TRUE- msg num: 150
+VUID:1139  Elapsed:788.134625ms+msg num:226
+
+-TRUE- msg num: 226
+-TRUE- msg num: 153
+VUID:1139  Elapsed:847.752724ms+msg num:153
+
+VUID:1139  Elapsed:851.037774ms+msg num:107
+
+-TRUE- msg num: 107
+VUID:1139  Elapsed:851.463078ms+msg num:20
+
+-TRUE- msg num: 20
+VUID:1139  Elapsed:852.640281ms+msg num:32
+
+-TRUE- msg num: 32
+VUID:1139  Elapsed:860.67149ms+msg num:83
+
+-TRUE- msg num: 83
+-TRUE- msg num: 105
+VUID:1139  Elapsed:903.113505ms+msg num:105
+
+getSPKVecElapsed: 77.156µs
+-TRUE- msg num: 45
+VUID:1139  Elapsed:948.618926ms+msg num:45
+
+getSPKVecElapsed: 14.993µs
+-TRUE- msg num: 27
+-TRUE- msg num: 75
+VUID:1141  Elapsed:328.065962ms+msg num:75
+
+-TRUE- msg num: 95
+VUID:1141  Elapsed:328.513028ms+msg num:95
+
+-TRUE- msg num: 19
+VUID:1141  Elapsed:328.993654ms+msg num:19
+
+VUID:1141  Elapsed:329.220562ms+msg num:27
+
+-TRUE- msg num: 183
+VUID:1141  Elapsed:332.070031ms+msg num:183
+
+New Signer Recived
+-TRUE- msg num: 23
+-TRUE- msg num: 24
+VUID:1141  Elapsed:333.319252ms+msg num:24
+
+-TRUE- msg num: 166
+VUID:1141  Elapsed:333.979731ms+msg num:23
+
+VUID:1141  Elapsed:334.027411ms+msg num:166
+
+New Signer [74 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 17.078µs
+New Signer Recived
+New Signer [75 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [76 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [77 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [78 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 7.714µs
+New Signer Recived
+New Signer [79 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 6.278µs
+getSPKVecElapsed: 22.089µs
+getSPKVecElapsed: 7.315µs
+getSPKVecElapsed: 9.211µs
+getSPKVecElapsed: 5.82µs
+getSPKVecElapsed: 11.26µs
+getSPKVecElapsed: 9.371µs
+getSPKVecElapsed: 22.637µs
+getSPKVecElapsed: 16.531µs
+-TRUE- msg num: 25
+-TRUE- msg num: 73
+VUID:1152  Elapsed:86.697323ms+msg num:73
+
+VUID:1152  Elapsed:97.840611ms+msg num:11
+
+VUID:1152  Elapsed:101.890529ms+msg num:9
+
+-TRUE- msg num: 62
+-TRUE- msg num: 19
+-TRUE- msg num: 50
+-TRUE- msg num: 11
+-TRUE- msg num: 9
+-TRUE- msg num: 51
+VUID:1152  Elapsed:115.459613ms+msg num:51
+
+-TRUE- msg num: 44
+VUID:1152  Elapsed:163.808462ms+msg num:44
+
+-TRUE- msg num: 68
+VUID:1152  Elapsed:237.489127ms+msg num:68
+
+VUID:1152  Elapsed:238.68284ms+msg num:206
+
+-TRUE- msg num: 206
+-TRUE- msg num: 104
+VUID:1152  Elapsed:293.782615ms+msg num:104
+
+-TRUE- msg num: 221
+-TRUE- msg num: 41
+VUID:1152  Elapsed:453.485723ms+msg num:221
+
+VUID:1152  Elapsed:453.722679ms+msg num:41
+
+VUID:1152  Elapsed:465.236499ms+msg num:62
+
+VUID:1152  Elapsed:465.605872ms+msg num:19
+
+VUID:1152  Elapsed:465.786482ms+msg num:25
+
+VUID:1152  Elapsed:465.919856ms+msg num:50
+
+getSPKVecElapsed: 62.546µs
+getSPKVecElapsed: 20.081µs
+getSPKVecElapsed: 12.918µs
+getSPKVecElapsed: 13.904µs
+getSPKVecElapsed: 11.451µs
+getSPKVecElapsed: 9.107µs
+getSPKVecElapsed: 6.554µs
+getSPKVecElapsed: 23.71µs
+getSPKVecElapsed: 24.983µs
+-TRUE- msg num: 76
+VUID:1161  Elapsed:216.973µs+msg num:76
+
+getSPKVecElapsed: 19.119µs
+getSPKVecElapsed: 2.005µs
+getSPKVecElapsed: 19.172µs
+getSPKVecElapsed: 6.923µs
+getSPKVecElapsed: 8.563µs
+getSPKVecElapsed: 8.785µs
+getSPKVecElapsed: 18.328µs
+getSPKVecElapsed: 30.85µs
+getSPKVecElapsed: 8.94µs
+getSPKVecElapsed: 42.17µs
+getSPKVecElapsed: 151.361µs
+getSPKVecElapsed: 47.719µs
+getSPKVecElapsed: 11.227µs
+-TRUE- msg num: 117
+VUID:1174  Elapsed:41.599613ms+msg num:117
+
+-TRUE- msg num: 39
+VUID:1174  Elapsed:79.780851ms+msg num:39
+
+-TRUE- msg num: 103
+-TRUE- msg num: 50
+-TRUE- msg num: 38
+VUID:1174  Elapsed:95.465103ms+msg num:3
+
+-TRUE- msg num: 3
+VUID:1174  Elapsed:111.536537ms+msg num:48
+
+-TRUE- msg num: 48
+VUID:1174  Elapsed:183.196089ms+msg num:64
+
+-TRUE- msg num: 64
+-TRUE- msg num: 34
+-TRUE- msg num: 68
+VUID:1174  Elapsed:313.739901ms+msg num:68
+
+VUID:1174  Elapsed:320.215142ms+msg num:34
+
+VUID:1174  Elapsed:352.891374ms+msg num:18
+
+-TRUE- msg num: 18
+getSPKVecElapsed: 21.036µs
+getSPKVecElapsed: 8.794µs
+VUID:1176  Elapsed:225.966µs+msg num:103
+
+getSPKVecElapsed: 9.886µs
+getSPKVecElapsed: 10.266µs
+getSPKVecElapsed: 5.33µs
+getSPKVecElapsed: 5.433µs
+getSPKVecElapsed: 2.495µs
+getSPKVecElapsed: 31.595µs
+getSPKVecElapsed: 40.298µs
+getSPKVecElapsed: 7.194µs
+getSPKVecElapsed: 14.111µs
+getSPKVecElapsed: 5.924µs
+getSPKVecElapsed: 1.502µs
+getSPKVecElapsed: 13.467µs
+getSPKVecElapsed: 31.947µs
+getSPKVecElapsed: 11.367µs
+getSPKVecElapsed: 554.646µs
+getSPKVecElapsed: 5.265µs
+getSPKVecElapsed: 4.578µs
+getSPKVecElapsed: 14.164µs
+getSPKVecElapsed: 1.913µs
+getSPKVecElapsed: 11.704µs
+getSPKVecElapsed: 4.384µs
+VUID:1197  Elapsed:7.109129ms+msg num:38
+
+getSPKVecElapsed: 77.248µs
+getSPKVecElapsed: 145.563µs
+getSPKVecElapsed: 19.269µs
+getSPKVecElapsed: 17.016µs
+getSPKVecElapsed: 17.098µs
+getSPKVecElapsed: 4.845µs
+getSPKVecElapsed: 23.916µs
+getSPKVecElapsed: 27.088µs
+getSPKVecElapsed: 4.73µs
+getSPKVecElapsed: 9.76µs
+getSPKVecElapsed: 21.873µs
+getSPKVecElapsed: 6.874µs
+getSPKVecElapsed: 27.69µs
+-TRUE- msg num: 24
+VUID:1210  Elapsed:100.955371ms+msg num:24
+
+-TRUE- msg num: 21
+-TRUE- msg num: 24
+-TRUE- msg num: 9
+-TRUE- msg num: 8
+VUID:1188  Elapsed:100.997615ms+msg num:50
+
+-TRUE- msg num: 29
+getSPKVecElapsed: 35.714µs
+-TRUE- msg num: 17
+getSPKVecElapsed: 31.75µs
+getSPKVecElapsed: 10.73µs
+VUID:1213  Elapsed:547.718µs+msg num:5
+
+-TRUE- msg num: 5
+VUID:1210  Elapsed:152.328732ms+msg num:29
+
+VUID:1210  Elapsed:152.739331ms+msg num:17
+
+getSPKVecElapsed: 34.685µs
+-TRUE- msg num: 26
+VUID:1214  Elapsed:2.962105ms+msg num:26
+
+VUID:1210  Elapsed:152.270447ms+msg num:9
+
+-TRUE- msg num: 8
+getSPKVecElapsed: 213.446µs
+VUID:1210  Elapsed:152.278385ms+msg num:8
+
+VUID:1215  Elapsed:7.912376ms+msg num:12
+
+VUID:1215  Elapsed:8.136409ms+msg num:19
+
+VUID:1215  Elapsed:8.197607ms+msg num:16
+
+VUID:1215  Elapsed:8.238284ms+msg num:8
+
+VUID:1215  Elapsed:12.902227ms+msg num:10
+
+VUID:1215  Elapsed:13.2977ms+msg num:35
+
+VUID:1215  Elapsed:29.396567ms+msg num:15
+
+VUID:1215  Elapsed:29.799778ms+msg num:12
+
+VUID:1215  Elapsed:30.108984ms+msg num:24
+
+-TRUE- msg num: 12
+-TRUE- msg num: 19
+-TRUE- msg num: 16
+-TRUE- msg num: 10
+-TRUE- msg num: 35
+-TRUE- msg num: 15
+-TRUE- msg num: 12
+VUID:1210  Elapsed:152.273885ms+msg num:21
+
+getSPKVecElapsed: 12.49µs
+-TRUE- msg num: 44
+-TRUE- msg num: 14
+VUID:1216  Elapsed:70.567413ms+msg num:41
+
+-TRUE- msg num: 41
+VUID:1216  Elapsed:89.908997ms+msg num:44
+
+VUID:1216  Elapsed:112.990122ms+msg num:41
+
+-TRUE- msg num: 41
+-TRUE- msg num: 44
+VUID:1216  Elapsed:131.988538ms+msg num:44
+
+getSPKVecElapsed: 46.871µs
+getSPKVecElapsed: 6.441µs
+getSPKVecElapsed: 25.337µs
+getSPKVecElapsed: 7.481µs
+getSPKVecElapsed: 3.232µs
+getSPKVecElapsed: 25.715µs
+getSPKVecElapsed: 5.768µs
+getSPKVecElapsed: 13.927µs
+getSPKVecElapsed: 2.733µs
+getSPKVecElapsed: 14.92µs
+getSPKVecElapsed: 4.871µs
+getSPKVecElapsed: 8.029µs
+New Signer Recived
+VUID:1228  Elapsed:16.640159ms+msg num:14
+
+New Signer [80 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 17
+VUID:1228  Elapsed:4.00149ms+msg num:17
+
+-TRUE- msg num: 28
+-TRUE- msg num: 43
+-TRUE- msg num: 91
+VUID:1228  Elapsed:118.595616ms+msg num:91
+
+VUID:1228  Elapsed:122.110508ms+msg num:43
+
+VUID:1228  Elapsed:122.461127ms+msg num:28
+
+-TRUE- msg num: 30
+VUID:1228  Elapsed:123.862381ms+msg num:30
+
+-TRUE- msg num: 79
+VUID:1228  Elapsed:128.75021ms+msg num:79
+
+-TRUE- msg num: 26
+-TRUE- msg num: 87
+-TRUE- msg num: 46
+-TRUE- msg num: 73
+-TRUE- msg num: 35
+-TRUE- msg num: 30
+-TRUE- msg num: 47
+-TRUE- msg num: 123
+-TRUE- msg num: 33
+-TRUE- msg num: 453
+VUID:1228  Elapsed:640.137503ms+msg num:453
+
+VUID:1228  Elapsed:640.806845ms+msg num:123
+
+-TRUE- msg num: 60
+VUID:1228  Elapsed:640.992102ms+msg num:60
+
+VUID:1228  Elapsed:716.489747ms+msg num:33
+
+VUID:1228  Elapsed:828.200543ms+msg num:26
+
+VUID:1228  Elapsed:828.502068ms+msg num:87
+
+VUID:1228  Elapsed:829.08843ms+msg num:46
+
+VUID:1228  Elapsed:829.243166ms+msg num:73
+
+VUID:1228  Elapsed:829.429368ms+msg num:35
+
+VUID:1228  Elapsed:829.555958ms+msg num:30
+
+VUID:1228  Elapsed:829.698316ms+msg num:47
+
+VUID:1228  Elapsed:859.885229ms+msg num:174
+
+VUID:1228  Elapsed:862.763826ms+msg num:16
+
+VUID:1228  Elapsed:862.997042ms+msg num:5
+
+New Signer [81 0]  Append to Aggregator AID [1 0 0 0]
+-TRUE- msg num: 5
+-TRUE- msg num: 174
+-TRUE- msg num: 16
+New Signer Recived
+New Signer Recived
+New Signer [82 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer Recived
+New Signer [83 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 44.399µs
+New Signer [84 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 19.408µs
+New Signer Recived
+New Signer [85 0]  Append to Aggregator AID [1 0 0 0]
+New Signer [86 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 62.852µs
+getSPKVecElapsed: 8.287µs
+getSPKVecElapsed: 33.825µs
+New Signer Recived
+-TRUE- msg num: 66
+VUID:1233  Elapsed:6.546017ms+msg num:66
+
+getSPKVecElapsed: 67.832µs
+-TRUE- msg num: 18
+VUID:1233  Elapsed:219.049631ms+msg num:18
+
+getSPKVecElapsed: 66.177µs
+-TRUE- msg num: 50
+-TRUE- msg num: 19
+-TRUE- msg num: 29
+-TRUE- msg num: 40
+VUID:1234  Elapsed:271.934369ms+msg num:50
+
+VUID:1234  Elapsed:273.562531ms+msg num:19
+
+VUID:1234  Elapsed:273.998833ms+msg num:29
+
+VUID:1234  Elapsed:274.085665ms+msg num:40
+

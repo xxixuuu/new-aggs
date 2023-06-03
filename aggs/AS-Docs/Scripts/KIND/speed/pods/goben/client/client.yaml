@@ -1,0 +1,26 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: goben-client
+  labels:
+    role: woker
+spec:
+  containers:
+    - name: goben-client
+      image: goben:client
+      lifecycle:
+        preStop:
+          exec:
+            command: ["/bin/ash", "-c", "cp export* /pv0001"]
+      ports:
+        - name: client
+          containerPort: 8080
+          protocol: TCP
+      args: ["-connections","2","-hosts","10.244.2.2,10.244.2.2","-chart","export-%d-%s.png",]
+  volumes:
+  - name: claim-volume
+    persistentVolumeClaim:
+      claimName: pv-slow-claim
+  restartPolicy: OnFailure
+  nodeSelector:
+    goben: client

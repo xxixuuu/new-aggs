@@ -1,0 +1,8 @@
+github.com/Coresummer/netcp v0.0.0-20210920072459-508f436d452b h1:/FTgxGXtM9TbiyJIcPh4RzFWaAFMPHeI17LvmwUnTAQ=
+github.com/Coresummer/netcp v0.0.0-20210920072459-508f436d452b/go.mod h1:5l+fR5njQwZPL/PU1mgVXaLZRCBLI0P/KLF3VbGsQPM=
+github.com/Coresummer/utils v0.0.0-20210920072513-3cb7edbc7a3a h1:gb2OwvSpPIBzRp2+40R9qO6v3WyjtP2lj2UntZUJ5l8=
+github.com/Coresummer/utils v0.0.0-20210920072513-3cb7edbc7a3a/go.mod h1:YNAcaZXpkQguuAOnGlmrwiL845wCx6niMMUO6NlwTjo=
+github.com/mattn/go-runewidth v0.0.9 h1:Lm995f3rfxdpd6TSmuVCHVb/QhupuXlYr8sCI/QdE+0=
+github.com/mattn/go-runewidth v0.0.9/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m2gUSrubnMI=
+github.com/nsf/termbox-go v1.1.1 h1:nksUPLCb73Q++DwbYUBEglYBRPZyoXJdrj5L+TkjyZY=
+github.com/nsf/termbox-go v1.1.1/go.mod h1:T0cTdVuOwf7pHQNtfhnEbzHbcNyCEcVU4YPpouCbVxo=

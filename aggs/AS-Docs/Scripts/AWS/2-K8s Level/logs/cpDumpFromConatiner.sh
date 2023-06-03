@@ -1,0 +1,1 @@
+kubectl cp redis:/data/dump.rdb /home/temp/dump.rdb

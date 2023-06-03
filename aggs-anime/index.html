@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>集約署名シミュレーション 可視化ツール</title>
+    <style>
+      .button {
+        padding: 0.25rem 0.5rem;
+        border: solid 1px #444;
+        border-radius: 0.25rem;
+        background-color: #eee;
+        cursor: pointer;
+        font-size: 14px;
+      }
+      .button:hover,
+      .button:active {
+        background-color: #ccc;
+      }
+      .select {
+        padding: 0.25rem 0.5rem;
+        border: solid 1px #444;
+        border-radius: 0.25rem;
+        background-color: #fff;
+        cursor: pointer;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="position: relative">
+      <nav style="margin: 0 auto; padding: 1rem; width: 800px">
+        <button id="edit-button" class="button">ログデータを変更</button>
+      </nav>
+      <main style="margin: 0 auto; padding: 1rem; width: 800px">
+        <canvas id="main-canvas" width="800" height="600"></canvas>
+        <div style="display: flex; width: 800px; padding: 0.5rem 0">
+          <input
+            id="seek-bar"
+            type="range"
+            min="0"
+            value="0"
+            style="flex: auto"
+          />
+        </div>
+        <div
+          style="
+            width: 800px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 0 0.5rem;
+          "
+        >
+          <button id="play-stop-button" class="button" style="display: flex">
+            <svg
+              width="16"
+              height="16"
+              viewBox="0 0 16 16"
+              xmlns="http://www.w3.org/2000/svg"
+            ></svg>
+          </button>
+          <span
+            id="time"
+            style="
+              margin-right: auto;
+              font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+                'Liberation Mono', 'Courier New', monospace;
+            "
+            >2020-01-01 00:00:00</span
+          >
+          <select id="input-speed" class="select">
+            <option value="0.010">x 0.01</option>
+            <option value="0.030">x 0.03</option>
+            <option value="0.100">x 0.1</option>
+            <option value="0.300">x 0.3</option>
+            <option value="1.000">x 1.0</option>
+          </select>
+        </div>
+      </main>
+      <dialog
+        id="input-dialog"
+        style="border: none; box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3)"
+      >
+        <div style="display: flex; flex-direction: column; gap: 1rem 0">
+          <div style="display: flex; justify-content: space-between">
+            <div>
+              <button id="sample1-button" class="button">Sample1</button>
+              <button id="sample2-button" class="button">Sample2</button>
+              <button id="sample3-button" class="button">Sample3</button>
+            </div>
+            <button id="close-dialog-button" class="button">×</button>
+          </div>
+          <textarea id="input-json" rows="30" cols="80">
+{
+  "nodes": [
+    {
+      "id": "signer-1",
+      "type": "signer"
+    },
+    {
+      "id": "aggregator-1",
+      "type": "aggregator"
+    },
+    {
+      "id": "verifier-1",
+      "type": "verifier"
+    }
+  ],
+  "packets": [
+    {
+      "sourceNodeId": "signer-1",
+      "destinationNodeId": "aggregator-1",
+      "sentAt": 1600000001000000,
+      "receivedAt": 1600000001010000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "aggregator-1",
+      "destinationNodeId": "verifier-1",
+      "sentAt": 1600000001015000,
+      "receivedAt": 1600000001025000,
+      "size": 12,
+      "color": "#19E519"
+    }
+  ]
+}
+          </textarea>
+          <div>
+            <button id="start-button" class="button">Start</button>
+          </div>
+        </div>
+      </dialog>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

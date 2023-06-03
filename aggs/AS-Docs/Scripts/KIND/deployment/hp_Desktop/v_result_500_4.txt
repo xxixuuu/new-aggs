@@ -1,0 +1,98 @@
+newVerifier Configed: &{0 10.96.205.79 3000 10 0 1 1 1 5 0 100 {SPORE 1 2 2 1 4 5} {1 0 32 EdDSA}}
+PONG <nil>
+-VIR: tcp4 handler listning on 0.0.0.03000
+ 
+[I'm all ears]
+ServerLog:Serving Entity IP: 10.244.5.536426
+ServerLog:Establishing connection with Aggregator ...1
+1
+New Aggreagtor, AID: [1]
+New Aggregator Connected &{ 10.244.5.5 36426 [1 0 0 0] [] [64 65 86 180 6 236 5 23]}
+New Signer Recived
+New Signer [1 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [2 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [3 0]  Append to Aggregator AID [1 0 0 0]
+New Signer Recived
+New Signer [4 0]  Append to Aggregator AID [1 0 0 0]
+getSPKVecElapsed: 28.5µs
+VUID:2  Elapsed:78.8905ms+msg num:200
+
+-TRUE- msg num: 200
+getSPKVecElapsed: 11.3µs
+-TRUE- msg num: 198
+VUID:3  Elapsed:77.2331ms+msg num:198
+
+getSPKVecElapsed: 25.7µs
+VUID:4  Elapsed:75.8064ms+msg num:197
+
+-TRUE- msg num: 197
+getSPKVecElapsed: 14.2µs
+VUID:5  Elapsed:79.2983ms+msg num:197
+
+-TRUE- msg num: 197
+getSPKVecElapsed: 13.9µs
+-TRUE- msg num: 198
+VUID:6  Elapsed:92.1636ms+msg num:198
+
+getSPKVecElapsed: 14.4µs
+-TRUE- msg num: 197
+VUID:7  Elapsed:76.9361ms+msg num:197
+
+getSPKVecElapsed: 16.1µs
+-TRUE- msg num: 196
+VUID:8  Elapsed:75.7449ms+msg num:196
+
+getSPKVecElapsed: 32.6µs
+-TRUE- msg num: 196
+VUID:9  Elapsed:84.6127ms+msg num:196
+
+getSPKVecElapsed: 39.8µs
+VUID:10  Elapsed:82.5563ms+msg num:197
+
+-TRUE- msg num: 197
+getSPKVecElapsed: 40.6µs
+VUID:11  Elapsed:78.5085ms+msg num:197
+
+-TRUE- msg num: 197
+getSPKVecElapsed: 17.4µs
+-TRUE- msg num: 197
+VUID:12  Elapsed:78.4573ms+msg num:197
+
+getSPKVecElapsed: 66.5µs
+-TRUE- msg num: 198
+VUID:13  Elapsed:86.275ms+msg num:198
+
+getSPKVecElapsed: 52.5µs
+VUID:14  Elapsed:80.8593ms+msg num:197
+
+-TRUE- msg num: 197
+getSPKVecElapsed: 14.7µs
+-TRUE- msg num: 197
+VUID:15  Elapsed:72.0353ms+msg num:197
+
+getSPKVecElapsed: 35.6µs
+-TRUE- msg num: 198
+VUID:16  Elapsed:76.0909ms+msg num:198
+
+getSPKVecElapsed: 15.5µs
+-TRUE- msg num: 198
+VUID:17  Elapsed:75.6152ms+msg num:198
+
+getSPKVecElapsed: 29.2µs
+-TRUE- msg num: 197
+VUID:18  Elapsed:85.6862ms+msg num:197
+
+getSPKVecElapsed: 340.3µs
+-TRUE- msg num: 198
+VUID:19  Elapsed:84.229ms+msg num:198
+
+getSPKVecElapsed: 44.9µs
+-TRUE- msg num: 197
+VUID:20  Elapsed:83.0671ms+msg num:197
+
+getSPKVecElapsed: 35.1µs
+-TRUE- msg num: 197
+VUID:21  Elapsed:80.5093ms+msg num:197
+

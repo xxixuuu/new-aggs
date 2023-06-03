@@ -1,0 +1,1053 @@
+newAggregator Configed: &{0 1 1 10.96.240.207 3000 3000 40 0 500 0 1 1000 0 0 2000 1 1 1 0 1000 {SPORE 1 2 2 1 4 5}}
+[2022-07-28 07:10:41.6921891 +0000 UTC m=+0.000411301]
+-AGGA: Using maxmum goroutine up to :1003
+MultiHandler x 1000
+ServerLog:Establishing connection with verifier ...
+VPK from Verifier time record: 2022-07-28 07:10:41.6959613 +0000 UTC
+Verifier Self ECDSA Signature checked, true. VPK preserved
+AID: 1
+-AGGA: AGGA tcp4 handler listning on 0.0.0.0:3000
+ 
+[I'm all ears]
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 1 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:1 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 1  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 2 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+SyncAggregator: --Start--
+Signer Self sign checked! Signer:2 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 2  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 3 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:3 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 3  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 4 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:4 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 4  Registed.
+HID: 333  Trying handle new signer
+HID: 309  Trying handle new signer
+[Handler: 333 ] handling Child SID: 1
+[Handler: 309 ] handling Child SID: 2
+HID: 869  Trying handle new signer
+HID: 75  Trying handle new signer
+[Handler: 869 ] handling Child SID: 3
+[Handler: 75 ] handling Child SID: 4
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 5 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:5 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 5  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 6 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 696  Trying handle new signer
+[Handler: 696 ] handling Child SID: 5
+Signer Self sign checked! Signer:6 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 6  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 7 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 523  Trying handle new signer
+[Handler: 523 ] handling Child SID: 6
+Signer Self sign checked! Signer:7 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 7  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 8 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 283  Trying handle new signer
+[Handler: 283 ] handling Child SID: 7
+Signer Self sign checked! Signer:8 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 8  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 9 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:9 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 9  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 10 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:10 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 10  Registed.
+HID: 34  Trying handle new signer
+[Handler: 34 ] handling Child SID: 8
+[Handler: 988 ] handling Child SID: 9
+[Handler: 22 ] handling Child SID: 10
+HID: 988  Trying handle new signer
+HID: 22  Trying handle new signer
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 11 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+VUID 2
+E-Elapsed: 670.0491ms
+Signer Self sign checked! Signer:11 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 11  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 12 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 1 ] handling Child SID: 11
+HID: 1  Trying handle new signer
+Signer Self sign checked! Signer:12 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 12  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 13 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 541 ] handling Child SID: 12
+HID: 541  Trying handle new signer
+Signer Self sign checked! Signer:13 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 13  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 14 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:14 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 14  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 15 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:15 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 15  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 16 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:16 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 16  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 17 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 983  Trying handle new signer
+HID: 11  Trying handle new signer
+HID: 327  Trying handle new signer
+[Handler: 983 ] handling Child SID: 13
+[Handler: 11 ] handling Child SID: 14
+[Handler: 327 ] handling Child SID: 15
+HID: 736  Trying handle new signer
+[Handler: 736 ] handling Child SID: 16
+Signer Self sign checked! Signer:17 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 17  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 18 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 640  Trying handle new signer
+[Handler: 640 ] handling Child SID: 17
+VUID 3
+E-Elapsed: 501.6077ms
+Signer Self sign checked! Signer:18 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 18  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 19 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:19 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 19  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 20 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:20 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 20  Registed.
+HID: 761  Trying handle new signer
+[Handler: 761 ] handling Child SID: 18
+HID: 224  Trying handle new signer
+[Handler: 224 ] handling Child SID: 19
+[Handler: 186 ] handling Child SID: 20
+HID: 186  Trying handle new signer
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 21 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:21 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 21  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 22 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 916  Trying handle new signer
+[Handler: 916 ] handling Child SID: 21
+Signer Self sign checked! Signer:22 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 22  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 23 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 926 ] handling Child SID: 22
+HID: 926  Trying handle new signer
+Signer Self sign checked! Signer:23 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 23  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 24 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 312  Trying handle new signer
+[Handler: 312 ] handling Child SID: 23
+Signer Self sign checked! Signer:24 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 24  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 25 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 488  Trying handle new signer
+[Handler: 488 ] handling Child SID: 24
+Signer Self sign checked! Signer:25 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 25  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 26 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:26 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 26  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 27 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:27 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 27  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 28 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:28 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 28  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 29 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 749  Trying handle new signer
+[Handler: 749 ] handling Child SID: 25
+HID: 976  Trying handle new signer
+[Handler: 976 ] handling Child SID: 26
+HID: 753  Trying handle new signer
+[Handler: 753 ] handling Child SID: 27
+HID: 121  Trying handle new signer
+[Handler: 121 ] handling Child SID: 28
+VUID 4
+E-Elapsed: 502.5389ms
+Signer Self sign checked! Signer:29 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 29  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 30 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 526  Trying handle new signer
+[Handler: 526 ] handling Child SID: 29
+Signer Self sign checked! Signer:30 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 30  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 31 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 245  Trying handle new signer
+[Handler: 245 ] handling Child SID: 30
+Signer Self sign checked! Signer:31 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 31  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 32 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 854 ] handling Child SID: 31
+HID: 854  Trying handle new signer
+Signer Self sign checked! Signer:32 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 32  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 33 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 635  Trying handle new signer
+[Handler: 635 ] handling Child SID: 32
+VUID 5
+E-Elapsed: 501.4663ms
+Signer Self sign checked! Signer:33 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 33  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 34 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:34 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 34  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 35 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 209 ] handling Child SID: 33
+HID: 209  Trying handle new signer
+[Handler: 181 ] handling Child SID: 34
+HID: 181  Trying handle new signer
+Signer Self sign checked! Signer:35 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 35  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 36 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 726  Trying handle new signer
+[Handler: 726 ] handling Child SID: 35
+Signer Self sign checked! Signer:36 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 36  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 37 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 124  Trying handle new signer
+[Handler: 124 ] handling Child SID: 36
+Signer Self sign checked! Signer:37 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 37  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 38 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:38 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 38  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 39 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 848  Trying handle new signer
+HID: 609  Trying handle new signer
+[Handler: 848 ] handling Child SID: 37
+[Handler: 609 ] handling Child SID: 38
+VUID 6
+E-Elapsed: 500.7114ms
+Signer Self sign checked! Signer:39 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 39  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 40 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 632  Trying handle new signer
+[Handler: 632 ] handling Child SID: 39
+Signer Self sign checked! Signer:40 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 40  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 41 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 484  Trying handle new signer
+[Handler: 484 ] handling Child SID: 40
+Signer Self sign checked! Signer:41 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 41  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 42 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:42 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 42  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 43 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:43 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 43  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 44 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:44 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 44  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 45 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:45 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 45  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 46 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:46 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 46  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 47 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 384 ] handling Child SID: 41
+HID: 384  Trying handle new signer
+Signer Self sign checked! Signer:47 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 47  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 48 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+VUID 7
+E-Elapsed: 500.7038ms
+HID: 492  Trying handle new signer
+[Handler: 492 ] handling Child SID: 42
+HID: 390  Trying handle new signer
+[Handler: 390 ] handling Child SID: 43
+[Handler: 886 ] handling Child SID: 44
+HID: 886  Trying handle new signer
+HID: 937  Trying handle new signer
+[Handler: 937 ] handling Child SID: 45
+[Handler: 720 ] handling Child SID: 46
+[Handler: 503 ] handling Child SID: 47
+HID: 720  Trying handle new signer
+HID: 503  Trying handle new signer
+Signer Self sign checked! Signer:48 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 48  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 49 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 45  Trying handle new signer
+[Handler: 45 ] handling Child SID: 48
+Signer Self sign checked! Signer:49 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 49  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 50 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 550 ] handling Child SID: 49
+HID: 550  Trying handle new signer
+Signer Self sign checked! Signer:50 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 50  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 51 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 98 ] handling Child SID: 50
+HID: 98  Trying handle new signer
+VUID 8
+E-Elapsed: 500.4474ms
+Signer Self sign checked! Signer:51 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 51  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 52 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:52 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 52  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 53 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:53 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 53  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 54 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:54 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 54  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 55 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:55 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 55  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 56 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 837  Trying handle new signer
+HID: 690  Trying handle new signer
+[Handler: 837 ] handling Child SID: 51
+[Handler: 323 ] handling Child SID: 53
+HID: 323  Trying handle new signer
+HID: 108  Trying handle new signer
+[Handler: 690 ] handling Child SID: 52
+[Handler: 108 ] handling Child SID: 54
+[Handler: 72 ] handling Child SID: 55
+HID: 72  Trying handle new signer
+Signer Self sign checked! Signer:56 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 56  Registed.
+HID: 9  Trying handle new signer
+[Handler: 9 ] handling Child SID: 56
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 57 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:57 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 57  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 58 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:58 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 58  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 59 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 285  Trying handle new signer
+[Handler: 285 ] handling Child SID: 57
+Signer Self sign checked! Signer:59 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 59  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 60 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:60 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 60  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 61 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+Signer Self sign checked! Signer:61 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 61  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 62 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 679  Trying handle new signer
+[Handler: 679 ] handling Child SID: 58
+HID: 385  Trying handle new signer
+[Handler: 385 ] handling Child SID: 59
+HID: 192  Trying handle new signer
+[Handler: 192 ] handling Child SID: 60
+HID: 102  Trying handle new signer
+[Handler: 102 ] handling Child SID: 61
+Signer Self sign checked! Signer:62 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 62  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 63 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+[Handler: 52 ] handling Child SID: 62
+HID: 52  Trying handle new signer
+Signer Self sign checked! Signer:63 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 63  Registed.
+TCPRecvicer: Checking Signer Self signature, SID: [1 0 0 0 64 0 0 0]
+TCPRecvicer: Check-ChildSelfSign:  ReciveS-AData
+HID: 893  Trying handle new signer
+[Handler: 893 ] handling Child SID: 63
+Signer Self sign checked! Signer:64 no problem
+TCPRecvicer: sending -R-
+TCPRecvicer: New signer: 64  Registed.
+[Handler: 307 ] handling Child SID: 64
+HID: 307  Trying handle new signer
+VUID 9
+E-Elapsed: 500.3975ms
+VUID 10
+E-Elapsed: 500.4494ms
+VUID 11
+E-Elapsed: 500.609ms
+VUID 12
+E-Elapsed: 500.4487ms
+E-Elapsed: 514.0987ms
+VUID 13
+VUID 14
+E-Elapsed: 501.0207ms
+E-Elapsed: 500.2902ms
+VUID 15
+E-Elapsed: 503.6519ms
+VUID 16
+VUID 17
+E-Elapsed: 500.3316ms
+VUID 18
+E-Elapsed: 501.1565ms
+E-Elapsed: 500.8964ms
+VUID 19
+VUID 20
+E-Elapsed: 500.4125ms
+VUID 21
+E-Elapsed: 500.405ms
+VUID 22
+E-Elapsed: 522.1324ms
+VUID 23
+E-Elapsed: 511.3361ms
+VUID 24
+E-Elapsed: 500.4895ms
+VUID 25
+E-Elapsed: 500.4105ms
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.19:39648: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.19:39648: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.19:39648: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.19:39648: i/o timeout
+Kicked out Handler ID: 333
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.18:60906: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.18:60906: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.18:60906: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.18:60906: i/o timeout
+Kicked out Handler ID: 309
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.18:36012: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.18:36012: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.18:36012: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.18:36012: i/o timeout
+Kicked out Handler ID: 75
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.20:55448: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.20:55448: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.20:55448: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.20:55448: i/o timeout
+Kicked out Handler ID: 869
+VUID 26
+E-Elapsed: 509.4798ms
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.20:39510: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.20:39510: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.20:39510: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.20:39510: i/o timeout
+Kicked out Handler ID: 523
+Kicked out Handler ID: 283
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.19:53714: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.19:53714: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.19:53714: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.19:53714: i/o timeout
+Kicked out Handler ID: 696
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.21:52704: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.21:52704: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.21:52704: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.21:52704: i/o timeout
+Kicked out Handler ID: 34
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.19:54628: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.19:54628: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.19:54628: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.19:54628: i/o timeout
+Kicked out Handler ID: 22
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.21:36228: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.21:36228: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.21:36228: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.21:36228: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.20:41156: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.20:41156: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.20:41156: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.20:41156: i/o timeout
+Kicked out Handler ID: 988
+VUID 27
+E-Elapsed: 504.7215ms
+Kicked out Handler ID: 1
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.21:44100: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.21:44100: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.21:44100: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.21:44100: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.22:37934: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.22:37934: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.22:37934: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.22:37934: i/o timeout
+Kicked out Handler ID: 541
+Kicked out Handler ID: 983
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.22:33836: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.22:33836: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.22:33836: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.22:33836: i/o timeout
+Kicked out Handler ID: 327
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.20:38148: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.20:38148: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.20:38148: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.20:38148: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.21:48296: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.21:48296: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.21:48296: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.21:48296: i/o timeout
+Kicked out Handler ID: 736
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.23:60438: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.23:60438: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.23:60438: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.23:60438: i/o timeout
+Kicked out Handler ID: 11
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.23:45266: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.23:45266: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.23:45266: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.23:45266: i/o timeout
+Kicked out Handler ID: 640
+VUID 28
+E-Elapsed: 500.523ms
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.22:38012: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.22:38012: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.22:38012: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.22:38012: i/o timeout
+Kicked out Handler ID: 761
+Kicked out Handler ID: 186
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.22:59302: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.22:59302: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.22:59302: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.22:59302: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.24:41772: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.24:41772: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.24:41772: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.24:41772: i/o timeout
+Kicked out Handler ID: 224
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.24:33070: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.24:33070: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.24:33070: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.24:33070: i/o timeout
+Kicked out Handler ID: 916
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.23:49620: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.23:49620: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.23:49620: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.23:49620: i/o timeout
+Kicked out Handler ID: 312
+Kicked out Handler ID: 926
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.25:35982: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.25:35982: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.25:35982: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.25:35982: i/o timeout
+VUID 29
+E-Elapsed: 502.7269ms
+Kicked out Handler ID: 749
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.25:39434: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.25:39434: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.25:39434: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.25:39434: i/o timeout
+Kicked out Handler ID: 753
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.24:44232: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.24:44232: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.24:44232: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.24:44232: i/o timeout
+Kicked out Handler ID: 488
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.24:53276: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.24:53276: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.24:53276: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.24:53276: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.23:57848: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.23:57848: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.23:57848: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.23:57848: i/o timeout
+Kicked out Handler ID: 976
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.25:42806: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.25:42806: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.25:42806: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.25:42806: i/o timeout
+Kicked out Handler ID: 526
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.26:36476: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.26:36476: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.26:36476: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.26:36476: i/o timeout
+Kicked out Handler ID: 121
+Kicked out Handler ID: 854
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.26:54146: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.26:54146: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.26:54146: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.26:54146: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.25:57362: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.25:57362: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.25:57362: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.25:57362: i/o timeout
+Kicked out Handler ID: 245
+VUID 30
+E-Elapsed: 529.9934ms
+Kicked out Handler ID: 635
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.27:35962: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.27:35962: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.27:35962: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.27:35962: i/o timeout
+Kicked out Handler ID: 209
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.26:49616: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.26:49616: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.26:49616: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.26:49616: i/o timeout
+VUID 31
+E-Elapsed: 502.412ms
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.26:46122: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.26:46122: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.26:46122: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.26:46122: i/o timeout
+Kicked out Handler ID: 726
+Kicked out Handler ID: 124
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.27:43228: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.27:43228: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.27:43228: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.27:43228: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.27:32924: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.27:32924: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.27:32924: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.27:32924: i/o timeout
+Kicked out Handler ID: 609
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.28:51162: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.28:51162: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.28:51162: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.28:51162: i/o timeout
+Kicked out Handler ID: 848
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.28:52140: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.28:52140: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.28:52140: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.28:52140: i/o timeout
+Kicked out Handler ID: 181
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.27:56438: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.27:56438: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.27:56438: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.27:56438: i/o timeout
+Kicked out Handler ID: 384
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.28:49246: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.28:49246: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.28:49246: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.28:49246: i/o timeout
+Kicked out Handler ID: 492
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.29:54100: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.29:54100: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.29:54100: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.29:54100: i/o timeout
+Kicked out Handler ID: 632
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.28:33096: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.28:33096: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.28:33096: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.28:33096: i/o timeout
+Kicked out Handler ID: 390
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.30:53900: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.30:53900: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.30:53900: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.30:53900: i/o timeout
+Kicked out Handler ID: 937
+Kicked out Handler ID: 484
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.29:36350: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.29:36350: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.29:36350: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.29:36350: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.30:33592: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.30:33592: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.30:33592: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.30:33592: i/o timeout
+Kicked out Handler ID: 45
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.31:58966: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.31:58966: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.31:58966: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.31:58966: i/o timeout
+Kicked out Handler ID: 720
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.29:59686: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.29:59686: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.29:59686: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.29:59686: i/o timeout
+Kicked out Handler ID: 886
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.29:36794: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.29:36794: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.29:36794: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.29:36794: i/o timeout
+Kicked out Handler ID: 503
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.31:47948: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.31:47948: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.31:47948: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.31:47948: i/o timeout
+Kicked out Handler ID: 550
+Kicked out Handler ID: 323
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.33:34192: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.33:34192: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.33:34192: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.33:34192: i/o timeout
+Kicked out Handler ID: 98
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.30:39720: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.30:39720: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.30:39720: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.30:39720: i/o timeout
+Kicked out Handler ID: 285
+Kicked out Handler ID: 72
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.32:49316: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.32:49316: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.32:49316: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.32:49316: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.32:39144: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.32:39144: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.32:39144: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.32:39144: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.31:39974: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.31:39974: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.31:39974: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.31:39974: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.32:51430: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.32:51430: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.32:51430: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.32:51430: i/o timeout
+Kicked out Handler ID: 108
+Kicked out Handler ID: 837
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.31:45450: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.31:45450: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.31:45450: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.31:45450: i/o timeout
+Kicked out Handler ID: 9
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.33:52722: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.33:52722: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.33:52722: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.33:52722: i/o timeout
+Kicked out Handler ID: 102
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.34:36932: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.34:36932: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.34:36932: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.34:36932: i/o timeout
+Kicked out Handler ID: 52
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.2.32:45356: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.2.32:45356: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.2.32:45356: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.2.32:45356: i/o timeout
+Kicked out Handler ID: 679
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.30:50130: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.30:50130: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.30:50130: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.30:50130: i/o timeout
+Kicked out Handler ID: 690
+Kicked out Handler ID: 192
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.34:47816: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.34:47816: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.34:47816: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.3.34:47816: i/o timeout
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.7.33:36666: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.7.33:36666: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.7.33:36666: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.7.33:36666: i/o timeout
+Kicked out Handler ID: 385
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.3.35:48758: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.3.35:48758: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.3.35:48758: i/o timeout
+ServerLog: Signer handler Error
+Kicked out Handler ID: 307
+read tcp4 10.244.5.9:3000->10.244.3.35:48758: i/o timeout
+Kicked out Handler ID: 893
+Error: In reciveConstBytes:
+read tcp4 10.244.5.9:3000->10.244.1.33:48316: i/o timeout
+In func ReciveS-AData Error: read tcp4 10.244.5.9:3000->10.244.1.33:48316: i/o timeout
+Error: In ReciveConstHeaderData: md.SID
+read tcp4 10.244.5.9:3000->10.244.1.33:48316: i/o timeout
+ServerLog: Signer handler Error
+read tcp4 10.244.5.9:3000->10.244.1.33:48316: i/o timeout
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer
+No more signer

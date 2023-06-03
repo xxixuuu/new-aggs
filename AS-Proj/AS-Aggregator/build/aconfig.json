@@ -1,0 +1,32 @@
+
+{
+  "Mode":                       0,
+  "AID":                        1,
+  "Threads":                    1, 
+  "ParentAddress":              "localhost",
+  "ParentPort":                 "3000",
+  "AggregatorListenPort":       "3001",
+  "AggregatorBufferSize":       40,
+  "ParentKeepAlive":            0,
+  "TimeWindow":                 2000,
+  "CountThreshold":             0,
+  "ChildEntityType":            1,
+  "MaxMultiHandler":            192,
+  "UplinkSpeed":                0,
+  "DownlinkSpeed":              0,
+  "MessageReadDeadline":        2000,
+  "FeedbackReadDeadline":       1,
+  "AIDAssign":                  1,
+  "SIDAssign":                  1,
+  "TrackingMethod":             0,
+  "RoundBufferSize":            1000,
+  "AVFormatJSON": {
+    "StateHeader":             "SPORE",
+    "AIDSpace":                 1,
+    "SIDSpace":                 2,
+    "MessageHeaderLength":      2,
+    "SignerOptionHeaderLength": 1,
+    "SignerOption":             4,
+    "SignCurveParameter":       5
+  }
+}

@@ -1,0 +1,29 @@
+
+{
+  "Mode":                       0,
+  "RedisAddress":               "localhost",
+  "VerifierListenPort":         "3001",
+  "VerifierBufferSize":         10,
+  "MaxMultiHandler":            1,
+  "TCPConnAcceptDeadline":      5,
+  "AIDAssign":                  1,
+  "SIDAssign":                  1,
+  "SignCurveParameter":         5,
+  "TrackingMethod":             0,
+  "HashedMessageRoundBuffer":   100,
+  "AVFormatJSON": {
+    "StateHeader":             "SPORE",
+    "AIDSpace":                 1,
+    "SIDSpace":                 2,
+    "MessageHeaderLength":      2,
+    "SignerOptionHeaderLength": 1,
+    "SignerOption":             4,
+    "SignCurveParameter":       5
+  },
+  "VAFormatJSON": {
+    "AIDSpace":                 1,
+    "ConditionalCodeSpace":     4,
+    "InstructionContentsSpace": 32,
+    "ECDSAParams":              "EdDSA"
+  }
+}

@@ -1,0 +1,288 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+'\\wsl.localhost\Ubuntu\home\anzairiku\aggs-project\aggs'
+��L�̌��݂̃f�B���N�g���� CMD.EXE ���J�n���܂����B
+UNC �p�X�̓T�|�[�g����܂���BWindows �f�B���N�g��������Ŏg�p���܂��B
+
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# ����̓t���[�\�t�g�E�F�A�ł�. ���p�����ɂ��Ă̓\�[�X��
+# ������������.
+# ���Ɛ������̖ړI�ւ̓K�����̔@���Ɋւ�炸, ���ۏ؂ł�.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make �f�[�^�x�[�X�o�� Wed Jul 27 13:40:44 2022
+
+# �ϐ�
+
+# �����ϐ�
+<D = $(patsubst %/,%,$(dir $<))
+# �����ϐ�
+?F = $(notdir $?)
+# ���ϐ�
+WSLENV = ELECTRON_RUN_AS_NODE/w:
+# ���ϐ�
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# makefile �ϐ�
+MAKEFLAGS = Rrqp
+# �����ϐ�
+?D = $(patsubst %/,%,$(dir $?))
+# �����ϐ�
+@D = $(patsubst %/,%,$(dir $@))
+# ���ϐ�
+HOMEDRIVE = C:
+# �����ϐ�
+@F = $(notdir $@)
+# �����ϐ�
+^D = $(patsubst %/,%,$(dir $^))
+# makefile �ϐ�
+CURDIR := C:/Windows
+# �f�t�H���g
+SHELL := sh.exe
+# ���ϐ�
+WINDIR = C:\WINDOWS
+# ���ϐ�
+VSCODE_NLS_CONFIG = {"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"29207410cd77a70b4b25e4878dda93be.ja","_translationsConfigFile":"C:\\Users\\anzai-riku-tm\\AppData\\Roaming\\Code\\clp\\29207410cd77a70b4b25e4878dda93be.ja\\tcf.json","_cacheRoot":"C:\\Users\\anzai-riku-tm\\AppData\\Roaming\\Code\\clp\\29207410cd77a70b4b25e4878dda93be.ja","_resolvedLanguagePackCoreLocation":"C:\\Users\\anzai-riku-tm\\AppData\\Roaming\\Code\\clp\\29207410cd77a70b4b25e4878dda93be.ja\\3b889b090b5ad5793f524b5d1d39fda662b96a2a","_corruptedFile":"C:\\Users\\anzai-riku-tm\\AppData\\Roaming\\Code\\clp\\29207410cd77a70b4b25e4878dda93be.ja\\corrupted.info","_languagePackSupport":true}
+# ���ϐ�
+ONEDRIVE = C:\Users\anzai-riku-tm\OneDrive - ���l������w
+# ���ϐ�
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW
+# makefile �ϐ�
+MAKEFILE_LIST := 
+# ���ϐ�
+TMP = C:\Users\ANZAI-~1\AppData\Local\Temp
+# ���ϐ�
+PROGRAMW6432 = C:\Program Files
+# ���ϐ�
+PROGRAMDATA = C:\ProgramData
+# ���ϐ�
+VSCODE_CWD = \\wsl.localhost\Ubuntu\home\anzairiku\aggs-project\aggs
+# ���ϐ�
+PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files(x86)\GnuWin32\bin;C:\Program Files (x86)\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Amazon\AWSCLIV2\;C:\ProgramDat 
+a\chocolatey\bin;C:\bin;C:\Ruby27-x64\bin;C:\Users\anzai-riku-tm\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\GnuWin32\bin;C:\Users\anzai-riku-tm\AppData\Local\Programs\Microsoft VS Code\bin
+# ���ϐ�
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# ���ϐ�
+ZES_ENABLE_SYSMAN = 1
+# ���ϐ�
+CHOCOLATEYLASTPATHUPDATE = 132967230917355389
+# ���ϐ�
+PROCESSOR_ARCHITECTURE = x86
+# ���ϐ�
+USERPROFILE = C:\Users\anzai-riku-tm
+# ���ϐ�
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# ���ϐ�
+RUBYOPT = -Eutf-8
+# ���ϐ�
+ALLUSERSPROFILE = C:\ProgramData
+# ���ϐ�
+NUMBER_OF_PROCESSORS = 8
+# ���ϐ�
+ELECTRON_RUN_AS_NODE = 1
+# �f�t�H���g
+.FEATURES := target-specific order-only second-expansion else-if archives
+# �����ϐ�
+%F = $(notdir $%)
+# ���ϐ�
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_24012_KFTZGLZMNIVTNNAH
+# ���ϐ�
+COMPUTERNAME = JANBARU-V2
+# ���ϐ�
+PROGRAMFILES = C:\Program Files (x86)
+# ���ϐ�
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# ���ϐ�
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# ���ϐ�
+USERNAME = anzai-riku-tm
+# ���ϐ�
+PUBLIC = C:\Users\Public
+# ���ϐ�
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# ���ϐ�
+VSCODE_CLI = 1
+# ���ϐ�
+VSCODE_CODE_CACHE_PATH = C:\Users\anzai-riku-tm\AppData\Roaming\Code\CachedData\3b889b090b5ad5793f524b5d1d39fda662b96a2a
+# ���ϐ�
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# ���ϐ�
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# ���ϐ�
+LOGONSERVER = \\JANBARU-V2
+# ���ϐ�
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# ���ϐ�
+USERDOMAIN = AzureAD
+# �f�t�H���g
+MAKE = $(MAKE_COMMAND)
+# �f�t�H���g
+MAKECMDGOALS := all
+# ���ϐ�
+ONEDRIVECOMMERCIAL = C:\Users\anzai-riku-tm\OneDrive - ���l������w
+# �f�t�H���g
+MAKE_VERSION := 3.81
+# makefile �ϐ�
+.DEFAULT_GOAL := 
+# ���ϐ�
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# �����ϐ�
+%D = $(patsubst %/,%,$(dir $%))
+# ���ϐ�
+LOCALAPPDATA = C:\Users\anzai-riku-tm\AppData\Local
+# ���ϐ�
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# �f�t�H���g
+MAKE_COMMAND := make.exe
+# ���ϐ�
+PROCESSOR_ARCHITEW6432 = AMD64
+# �f�t�H���g
+.VARIABLES := 
+# �����ϐ�
+*F = $(notdir $*)
+# ���ϐ�
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+# ���ϐ�
+OS = Windows_NT
+# ���ϐ�
+VSCODE_IPC_HOOK = \\.\pipe\d4f14f4c867ed841f917b42b926847ee-1.69.2-main-sock
+# ���ϐ�
+HOMEPATH = \Users\anzai-riku-tm
+# ���ϐ�
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# ���ϐ�
+PROMPT = $P$G
+# ���ϐ�
+MFLAGS = -Rrqp
+# �����ϐ�
+*D = $(patsubst %/,%,$(dir $*))
+# ���ϐ�
+SYSTEMROOT = C:\WINDOWS
+# �����ϐ�
++D = $(patsubst %/,%,$(dir $+))
+# �����ϐ�
++F = $(notdir $+)
+# ���ϐ�
+APPDATA = C:\Users\anzai-riku-tm\AppData\Roaming
+# ���ϐ�
+TEMP = C:\Users\ANZAI-~1\AppData\Local\Temp
+# ���ϐ�
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# �f�t�H���g
+MAKEFILES := 
+# �����ϐ�
+<F = $(notdir $<)
+# ���ϐ�
+LC_ALL = C
+# �����ϐ�
+^F = $(notdir $^)
+# �f�t�H���g
+SUFFIXES := 
+# ���ϐ�
+SYSTEMDRIVE = C:
+# ���ϐ�
+PROCESSOR_REVISION = 8c01
+# ���ϐ�
+MAKELEVEL := 0
+# ���ϐ�
+LANG = C
+# ���ϐ�
+PROCESSOR_LEVEL = 6
+# ���ϐ�
+VSCODE_PID = 24012
+# ���ϐ�
+USERDOMAIN_ROAMINGPROFILE = AzureAD
+# �ϐ��Z�b�g�̃n�b�V���e�[�u���̏��:
+# Load=88/1024=9%, Rehash=0, Collisions=9/105=9%
+
+# Pattern-specific Variable Values
+
+# �p�^�[���w��ϐ��̒l�Ȃ�.
+
+# �f�B���N�g��
+
+# C:\Program Files (x86)\mingw64\bin (key C:/Program Files (x86)/mingw64/bin, mtime 1647505348): 83 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1652494402): 31 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1658805049): 171 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# . (key C:/Windows, mtime 1658804687): 125 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\ProgramData\chocolatey\bin (key C:/ProgramData/chocolatey/bin, mtime 1653463744): 12 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Windows\System32\OpenSSH\: ��Ԃ𒲂ׂ��܂���ł���.
+# C:\Windows (key C:/Windows, mtime 1658804687): 125 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Users\anzai-riku-tm\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/anzai-riku-tm/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1658381372): 4 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Ruby27-x64\bin (key C:/Ruby27-x64/bin, mtime 1644283479): 24 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Program Files\Amazon\AWSCLIV2\ (key C:/Program Files/Amazon/AWSCLIV2/, mtime 1652064617): 38 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1644282135): 8 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1658879036): 2888 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\bin (key C:/bin, mtime 1653462013): 3 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Program Files(x86)\GnuWin32\bin: ��Ԃ𒲂ׂ��܂���ł���.
+# C:\Users\anzai-riku-tm\AppData\Local\Microsoft\WindowsApps (key C:/Users/anzai-riku-tm/AppData/Local/Microsoft/WindowsApps, mtime 1658805596): 47 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1647503075): 5 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C����.
+
+# 3564 �̃t�@�C��, 0 �̓K�p�s�\�t�@�C���� (16 �̃f�B���N�g����).
+
+# �Öك��[��
+
+# �Öك��[���Ȃ�.
+
+# �t�@�C��
+
+# �^�[�Q�b�g�ł͂���܂���:
+all:
+#  �R�}���h���C���^�[�Q�b�g.
+#  �Öك��[���̒T�����s���܂���.
+#  �t�@�C�������݂��܂���.
+#  �t�@�C���͍X�V����Ă��܂���.
+# �ϐ��Z�b�g�̃n�b�V���e�[�u���̏��:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# �^�[�Q�b�g�ł͂���܂���:
+.DEFAULT:
+#  �Öك��[���̒T���͍s���܂���ł���.
+#  �C���������`�F�b�N����邱�Ƃ͂���܂���.
+#  �t�@�C���͍X�V����Ă��܂���.
+
+# �^�[�Q�b�g�ł͂���܂���:
+makefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  �Öك��[���̒T�����s���܂���.
+#  �t�@�C�������݂��܂���.
+#  �t�@�C���͍X�V����Ă��܂�.
+#  �X�V�Ɏ��s���܂���.
+# �ϐ��Z�b�g�̃n�b�V���e�[�u���̏��:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# �^�[�Q�b�g�ł͂���܂���:
+.SUFFIXES:
+#  �Öك��[���̒T���͍s���܂���ł���.
+#  �C���������`�F�b�N����邱�Ƃ͂���܂���.
+#  �t�@�C���͍X�V����Ă��܂���.
+
+# �^�[�Q�b�g�ł͂���܂���:
+GNUmakefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  �Öك��[���̒T�����s���܂���.
+#  �t�@�C�������݂��܂���.
+#  �t�@�C���͍X�V����Ă��܂�.
+#  �X�V�Ɏ��s���܂���.
+# �ϐ��Z�b�g�̃n�b�V���e�[�u���̏��:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# �t�@�C���n�b�V���e�[�u���̏��:
+# Load=5/1024=0%, Rehash=0, Collisions=0/16=0%
+# VPATH �T���p�X
+
+# `vpath' �T���p�X�͂���܂���
+
+# ��ʂ� (`VPATH' �ϐ�) �T���p�X�Ȃ�.
+
+# # of strings in strcache: 0
+# # of strcache buffers: 0
+# strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
+# strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
+
+# Make �f�[�^�x�[�X�I�� Wed Jul 27 13:40:44 2022
+
+ 
+make.exe: *** �^�[�Q�b�g `all' �� make ���郋�[��������܂���.  ���~.
+

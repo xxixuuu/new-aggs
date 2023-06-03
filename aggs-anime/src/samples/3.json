@@ -1,0 +1,88 @@
+{
+  "nodes": [
+    { "id": "signer-1", "type": "signer" },
+    { "id": "signer-2", "type": "signer" },
+    { "id": "signer-3", "type": "signer" },
+    { "id": "signer-4", "type": "signer" },
+    { "id": "signer-5", "type": "signer" },
+    { "id": "aggregator-1", "type": "aggregator" },
+    { "id": "aggregator-2", "type": "aggregator" },
+    { "id": "aggregator-3", "type": "aggregator" },
+    { "id": "aggregator-4", "type": "aggregator" },
+    { "id": "verifier-1", "type": "verifier" }
+  ],
+  "packets": [
+    {
+      "sourceNodeId": "signer-4",
+      "destinationNodeId": "aggregator-4",
+      "sentAt": 1600000001000000,
+      "receivedAt": 1600000001010000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "signer-5",
+      "destinationNodeId": "aggregator-4",
+      "sentAt": 1600000001000000,
+      "receivedAt": 1600000001010000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "signer-3",
+      "destinationNodeId": "aggregator-3",
+      "sentAt": 1600000001010000,
+      "receivedAt": 1600000001020000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "aggregator-4",
+      "destinationNodeId": "aggregator-3",
+      "sentAt": 1600000001010000,
+      "receivedAt": 1600000001020000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "signer-2",
+      "destinationNodeId": "aggregator-2",
+      "sentAt": 1600000001020000,
+      "receivedAt": 1600000001030000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "aggregator-3",
+      "destinationNodeId": "aggregator-2",
+      "sentAt": 1600000001020000,
+      "receivedAt": 1600000001030000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "signer-1",
+      "destinationNodeId": "aggregator-1",
+      "sentAt": 1600000001030000,
+      "receivedAt": 1600000001040000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "aggregator-2",
+      "destinationNodeId": "aggregator-1",
+      "sentAt": 1600000001030000,
+      "receivedAt": 1600000001040000,
+      "size": 12,
+      "color": "#19E519"
+    },
+    {
+      "sourceNodeId": "aggregator-1",
+      "destinationNodeId": "verifier-1",
+      "sentAt": 1600000001040000,
+      "receivedAt": 1600000001050000,
+      "size": 12,
+      "color": "#19E519"
+    }
+  ]
+}
