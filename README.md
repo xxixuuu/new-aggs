@@ -1,4 +1,5 @@
 # aggs-project
+<img width="401" alt="241159115-7d55070c-89e0-4ea5-917f-4f9213641275" src="https://github.com/xxixuuu/new-aggs/assets/56621296/c6ba1d5c-ba4e-42d8-b16f-fb74e024f9cb">
 
 
 詳細はそれぞれのフォルダのREADME.mdを参照
